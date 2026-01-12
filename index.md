@@ -7,6 +7,6 @@ title: "Tennis Betting Reports"
 
 AI-powered tennis betting analysis.
 
-## Reports
-
-Reports are organized by date and tournament: `/YYYY/MM/DD/tournament/`
+| Year | Months |
+|------|--------|
+| [2026](2026/) | 1 months |
