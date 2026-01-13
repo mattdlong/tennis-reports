@@ -10,4 +10,5 @@ title: "January 14, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Kasatkina Vs Cristian | [kasatkina_vs_cristian](adelaide/kasatkina_vs_cristian.md) |
+| Vondrousova Vs Birrell | [vondrousova_vs_birrell](adelaide/vondrousova_vs_birrell.md) |
 
