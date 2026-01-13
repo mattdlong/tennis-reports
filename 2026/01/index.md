@@ -8,3 +8,4 @@ title: "January 2026 - Tennis Reports"
 | Date | Reports |
 |------|---------|
 | [January 12](12/) | 1 reports |
+| [January 13](13/) | 1 reports |
