@@ -19,5 +19,6 @@ title: "January 14, 2026 - Tennis Reports"
 
 | Match | Report |
 |-------|--------|
+| Antonia Ruzic Vs Solana Sierra | [antonia_ruzic_vs_solana_sierra](hobart/antonia_ruzic_vs_solana_sierra.md) |
 | Tatjana Maria Vs Anna Bondar | [tatjana_maria_vs_anna_bondar](hobart/tatjana_maria_vs_anna_bondar.md) |
 
