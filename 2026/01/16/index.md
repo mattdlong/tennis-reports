@@ -11,4 +11,5 @@ title: "January 16, 2026 - Tennis Reports"
 |-------|--------|
 | Andreeva M Vs Shnaider D | [andreeva_m_vs_shnaider_d](adelaide/andreeva_m_vs_shnaider_d.md) |
 | Birrell K Vs Mboko V | [birrell_k_vs_mboko_v](adelaide/birrell_k_vs_mboko_v.md) |
+| Machac T Vs Paul T | [machac_t_vs_paul_t](adelaide/machac_t_vs_paul_t.md) |
 

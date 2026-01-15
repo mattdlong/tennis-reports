@@ -10,3 +10,4 @@ title: "Adelaide - January 16, 2026"
 |-------|--------|
 | Andreeva M Vs Shnaider D | [andreeva_m_vs_shnaider_d](andreeva_m_vs_shnaider_d.md) |
 | Birrell K Vs Mboko V | [birrell_k_vs_mboko_v](birrell_k_vs_mboko_v.md) |
+| Machac T Vs Paul T | [machac_t_vs_paul_t](machac_t_vs_paul_t.md) |
