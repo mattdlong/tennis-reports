@@ -10,6 +10,7 @@ title: "January 17, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Andreeva M Vs Mboko V | [andreeva_m_vs_mboko_v](adelaide/andreeva_m_vs_mboko_v.md) |
+| Humbert Vs Machac | [humbert_vs_machac](adelaide/humbert_vs_machac.md) |
 
 ## Hobart
 
