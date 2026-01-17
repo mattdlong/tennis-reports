@@ -8,6 +8,7 @@ title: "Australian Open - January 18, 2026"
 
 | Match | Report |
 |-------|--------|
+| 2026-01-18-Cerundolo-Vs-Zhang | [2026-01-18-cerundolo-vs-zhang](2026-01-18-cerundolo-vs-zhang.md) |
 | Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](alexandrova_e_vs_sonmez_z.md) |
 | Danilovic-Vs-Williams-2026-01-18 | [danilovic-vs-williams-2026-01-18](danilovic-vs-williams-2026-01-18.md) |
 | Fery A Vs Cobolli F | [fery_a_vs_cobolli_f](fery_a_vs_cobolli_f.md) |
