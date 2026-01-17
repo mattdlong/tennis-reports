@@ -36,6 +36,7 @@ title: "January 18, 2026 - Tennis Reports"
 | Sawangkaew Vs Raducanu | [sawangkaew_vs_raducanu](australian-open/sawangkaew_vs_raducanu.md) |
 | Schoolkate-Vs-Moutet-2026-01-18 | [schoolkate-vs-moutet-2026-01-18](australian-open/schoolkate-vs-moutet-2026-01-18.md) |
 | Svitolina Vs Bucsa | [svitolina_vs_bucsa](australian-open/svitolina_vs_bucsa.md) |
+| Tiafoe Vs Kubler | [tiafoe_vs_kubler](australian-open/tiafoe_vs_kubler.md) |
 | Yastremska Vs Ruse | [yastremska_vs_ruse](australian-open/yastremska_vs_ruse.md) |
 | Zverev A Vs Diallo G | [zverev_a_vs_diallo_g](australian-open/zverev_a_vs_diallo_g.md) |
 
