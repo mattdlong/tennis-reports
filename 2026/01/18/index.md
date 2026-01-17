@@ -25,6 +25,7 @@ title: "January 18, 2026 - Tennis Reports"
 | Kypson Vs Comesana | [kypson_vs_comesana](australian-open/kypson_vs_comesana.md) |
 | Lamens S Vs Potapova A | [lamens_s_vs_potapova_a](australian-open/lamens_s_vs_potapova_a.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](australian-open/mcnally_vs_sakatsume.md) |
+| Michael Zheng Vs Sebastian Korda | [michael_zheng_vs_sebastian_korda](australian-open/michael_zheng_vs_sebastian_korda.md) |
 | Nava E Vs Jacquet K | [nava_e_vs_jacquet_k](australian-open/nava_e_vs_jacquet_k.md) |
 | Pavlyuchenkova Vs Bai | [pavlyuchenkova_vs_bai](australian-open/pavlyuchenkova_vs_bai.md) |
 | Putintseva Y Vs Haddad Maia B | [putintseva_y_vs_haddad_maia_b](australian-open/putintseva_y_vs_haddad_maia_b.md) |
