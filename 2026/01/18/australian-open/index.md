@@ -18,6 +18,7 @@ title: "Australian Open - January 18, 2026"
 | Kudermetova P Vs Maristany Zuleta De Reales | [kudermetova_p_vs_maristany_zuleta_de_reales](kudermetova_p_vs_maristany_zuleta_de_reales.md) |
 | Lamens S Vs Potapova A | [lamens_s_vs_potapova_a](lamens_s_vs_potapova_a.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](mcnally_vs_sakatsume.md) |
+| Nava E Vs Jacquet K | [nava_e_vs_jacquet_k](nava_e_vs_jacquet_k.md) |
 | Pavlyuchenkova Vs Bai | [pavlyuchenkova_vs_bai](pavlyuchenkova_vs_bai.md) |
 | Putintseva Y Vs Haddad Maia B | [putintseva_y_vs_haddad_maia_b](putintseva_y_vs_haddad_maia_b.md) |
 | Sabalenka Vs Rakotomanga Rajaonah | [sabalenka_vs_rakotomanga_rajaonah](sabalenka_vs_rakotomanga_rajaonah.md) |
