@@ -11,6 +11,7 @@ title: "January 18, 2026 - Tennis Reports"
 |-------|--------|
 | Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](australian-open/alexandrova_e_vs_sonmez_z.md) |
 | Gibson T Vs Blinkova A | [gibson_t_vs_blinkova_a](australian-open/gibson_t_vs_blinkova_a.md) |
+| Hailey Baptiste Vs Marketa Vondrousova | [hailey_baptiste_vs_marketa_vondrousova](australian-open/hailey_baptiste_vs_marketa_vondrousova.md) |
 | Jacquemot E Vs Kostyuk M | [jacquemot_e_vs_kostyuk_m](australian-open/jacquemot_e_vs_kostyuk_m.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](australian-open/mcnally_vs_sakatsume.md) |
 | Putintseva Y Vs Haddad Maia B | [putintseva_y_vs_haddad_maia_b](australian-open/putintseva_y_vs_haddad_maia_b.md) |
