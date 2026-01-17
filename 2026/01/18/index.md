@@ -25,6 +25,7 @@ title: "January 18, 2026 - Tennis Reports"
 | Sakkari Vs Jeanjean 2026-01-18 | [sakkari_vs_jeanjean_2026-01-18](australian-open/sakkari_vs_jeanjean_2026-01-18.md) |
 | Sasnovich A Vs Paolini J | [sasnovich_a_vs_paolini_j](australian-open/sasnovich_a_vs_paolini_j.md) |
 | Sawangkaew Vs Raducanu | [sawangkaew_vs_raducanu](australian-open/sawangkaew_vs_raducanu.md) |
+| Schoolkate-Vs-Moutet-2026-01-18 | [schoolkate-vs-moutet-2026-01-18](australian-open/schoolkate-vs-moutet-2026-01-18.md) |
 | Svitolina Vs Bucsa | [svitolina_vs_bucsa](australian-open/svitolina_vs_bucsa.md) |
 | Yastremska Vs Ruse | [yastremska_vs_ruse](australian-open/yastremska_vs_ruse.md) |
 
