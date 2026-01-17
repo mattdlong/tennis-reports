@@ -14,6 +14,7 @@ title: "January 18, 2026 - Tennis Reports"
 | Bonzi B Vs Norrie C | [bonzi_b_vs_norrie_c](australian-open/bonzi_b_vs_norrie_c.md) |
 | Carabelli Vs Fucsovics | [carabelli_vs_fucsovics](australian-open/carabelli_vs_fucsovics.md) |
 | Danilovic-Vs-Williams-2026-01-18 | [danilovic-vs-williams-2026-01-18](australian-open/danilovic-vs-williams-2026-01-18.md) |
+| Draxl Vs Dzumhur | [draxl_vs_dzumhur](australian-open/draxl_vs_dzumhur.md) |
 | Fery A Vs Cobolli F | [fery_a_vs_cobolli_f](australian-open/fery_a_vs_cobolli_f.md) |
 | Gibson T Vs Blinkova A | [gibson_t_vs_blinkova_a](australian-open/gibson_t_vs_blinkova_a.md) |
 | Hailey Baptiste Vs Marketa Vondrousova | [hailey_baptiste_vs_marketa_vondrousova](australian-open/hailey_baptiste_vs_marketa_vondrousova.md) |
