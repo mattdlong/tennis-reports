@@ -14,6 +14,7 @@ title: "January 18, 2026 - Tennis Reports"
 | Gibson T Vs Blinkova A | [gibson_t_vs_blinkova_a](australian-open/gibson_t_vs_blinkova_a.md) |
 | Hailey Baptiste Vs Marketa Vondrousova | [hailey_baptiste_vs_marketa_vondrousova](australian-open/hailey_baptiste_vs_marketa_vondrousova.md) |
 | Jacquemot E Vs Kostyuk M | [jacquemot_e_vs_kostyuk_m](australian-open/jacquemot_e_vs_kostyuk_m.md) |
+| Kecmanovic Vs Etcheverry | [kecmanovic_vs_etcheverry](australian-open/kecmanovic_vs_etcheverry.md) |
 | Kudermetova P Vs Maristany Zuleta De Reales | [kudermetova_p_vs_maristany_zuleta_de_reales](australian-open/kudermetova_p_vs_maristany_zuleta_de_reales.md) |
 | Lamens S Vs Potapova A | [lamens_s_vs_potapova_a](australian-open/lamens_s_vs_potapova_a.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](australian-open/mcnally_vs_sakatsume.md) |
