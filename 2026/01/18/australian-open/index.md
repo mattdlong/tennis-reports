@@ -10,6 +10,7 @@ title: "Australian Open - January 18, 2026"
 |-------|--------|
 | Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](alexandrova_e_vs_sonmez_z.md) |
 | Danilovic-Vs-Williams-2026-01-18 | [danilovic-vs-williams-2026-01-18](danilovic-vs-williams-2026-01-18.md) |
+| Fery A Vs Cobolli F | [fery_a_vs_cobolli_f](fery_a_vs_cobolli_f.md) |
 | Gibson T Vs Blinkova A | [gibson_t_vs_blinkova_a](gibson_t_vs_blinkova_a.md) |
 | Hailey Baptiste Vs Marketa Vondrousova | [hailey_baptiste_vs_marketa_vondrousova](hailey_baptiste_vs_marketa_vondrousova.md) |
 | Jacquemot E Vs Kostyuk M | [jacquemot_e_vs_kostyuk_m](jacquemot_e_vs_kostyuk_m.md) |
