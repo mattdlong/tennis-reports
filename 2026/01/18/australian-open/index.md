@@ -12,6 +12,7 @@ title: "Australian Open - January 18, 2026"
 | Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](alexandrova_e_vs_sonmez_z.md) |
 | Blockx A Vs Faria J | [blockx_a_vs_faria_j](blockx_a_vs_faria_j.md) |
 | Bonzi B Vs Norrie C | [bonzi_b_vs_norrie_c](bonzi_b_vs_norrie_c.md) |
+| Bublik Vs Brooksby | [bublik_vs_brooksby](bublik_vs_brooksby.md) |
 | Carabelli Vs Fucsovics | [carabelli_vs_fucsovics](carabelli_vs_fucsovics.md) |
 | Danilovic-Vs-Williams-2026-01-18 | [danilovic-vs-williams-2026-01-18](danilovic-vs-williams-2026-01-18.md) |
 | Draxl Vs Dzumhur | [draxl_vs_dzumhur](draxl_vs_dzumhur.md) |
