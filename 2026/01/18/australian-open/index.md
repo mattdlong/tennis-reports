@@ -9,6 +9,7 @@ title: "Australian Open - January 18, 2026"
 | Match | Report |
 |-------|--------|
 | 2026-01-18-Cerundolo-Vs-Zhang | [2026-01-18-cerundolo-vs-zhang](2026-01-18-cerundolo-vs-zhang.md) |
+| Alcaraz Vs Walton | [alcaraz_vs_walton](alcaraz_vs_walton.md) |
 | Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](alexandrova_e_vs_sonmez_z.md) |
 | Blockx A Vs Faria J | [blockx_a_vs_faria_j](blockx_a_vs_faria_j.md) |
 | Bonzi B Vs Norrie C | [bonzi_b_vs_norrie_c](bonzi_b_vs_norrie_c.md) |
