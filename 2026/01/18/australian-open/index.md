@@ -18,6 +18,7 @@ title: "Australian Open - January 18, 2026"
 | Jacquemot E Vs Kostyuk M | [jacquemot_e_vs_kostyuk_m](jacquemot_e_vs_kostyuk_m.md) |
 | Kecmanovic Vs Etcheverry | [kecmanovic_vs_etcheverry](kecmanovic_vs_etcheverry.md) |
 | Kudermetova P Vs Maristany Zuleta De Reales | [kudermetova_p_vs_maristany_zuleta_de_reales](kudermetova_p_vs_maristany_zuleta_de_reales.md) |
+| Kypson Vs Comesana | [kypson_vs_comesana](kypson_vs_comesana.md) |
 | Lamens S Vs Potapova A | [lamens_s_vs_potapova_a](lamens_s_vs_potapova_a.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](mcnally_vs_sakatsume.md) |
 | Nava E Vs Jacquet K | [nava_e_vs_jacquet_k](nava_e_vs_jacquet_k.md) |
