@@ -12,6 +12,7 @@ title: "Australian Open - January 18, 2026"
 | Gibson T Vs Blinkova A | [gibson_t_vs_blinkova_a](gibson_t_vs_blinkova_a.md) |
 | Hailey Baptiste Vs Marketa Vondrousova | [hailey_baptiste_vs_marketa_vondrousova](hailey_baptiste_vs_marketa_vondrousova.md) |
 | Jacquemot E Vs Kostyuk M | [jacquemot_e_vs_kostyuk_m](jacquemot_e_vs_kostyuk_m.md) |
+| Lamens S Vs Potapova A | [lamens_s_vs_potapova_a](lamens_s_vs_potapova_a.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](mcnally_vs_sakatsume.md) |
 | Putintseva Y Vs Haddad Maia B | [putintseva_y_vs_haddad_maia_b](putintseva_y_vs_haddad_maia_b.md) |
 | Sakkari Vs Jeanjean 2026-01-18 | [sakkari_vs_jeanjean_2026-01-18](sakkari_vs_jeanjean_2026-01-18.md) |
