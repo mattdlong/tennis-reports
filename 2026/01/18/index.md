@@ -9,6 +9,7 @@ title: "January 18, 2026 - Tennis Reports"
 
 | Match | Report |
 |-------|--------|
+| Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](australian-open/alexandrova_e_vs_sonmez_z.md) |
 | Gibson T Vs Blinkova A | [gibson_t_vs_blinkova_a](australian-open/gibson_t_vs_blinkova_a.md) |
 | Jacquemot E Vs Kostyuk M | [jacquemot_e_vs_kostyuk_m](australian-open/jacquemot_e_vs_kostyuk_m.md) |
 | Mcnally Vs Sakatsume | [mcnally_vs_sakatsume](australian-open/mcnally_vs_sakatsume.md) |
