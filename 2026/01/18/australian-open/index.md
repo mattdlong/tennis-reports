@@ -28,3 +28,4 @@ title: "Australian Open - January 18, 2026"
 | Schoolkate-Vs-Moutet-2026-01-18 | [schoolkate-vs-moutet-2026-01-18](schoolkate-vs-moutet-2026-01-18.md) |
 | Svitolina Vs Bucsa | [svitolina_vs_bucsa](svitolina_vs_bucsa.md) |
 | Yastremska Vs Ruse | [yastremska_vs_ruse](yastremska_vs_ruse.md) |
+| Zverev A Vs Diallo G | [zverev_a_vs_diallo_g](zverev_a_vs_diallo_g.md) |
