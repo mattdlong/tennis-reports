@@ -11,6 +11,7 @@ title: "January 18, 2026 - Tennis Reports"
 |-------|--------|
 | 2026-01-18-Cerundolo-Vs-Zhang | [2026-01-18-cerundolo-vs-zhang](australian-open/2026-01-18-cerundolo-vs-zhang.md) |
 | Alexandrova E Vs Sonmez Z | [alexandrova_e_vs_sonmez_z](australian-open/alexandrova_e_vs_sonmez_z.md) |
+| Bonzi B Vs Norrie C | [bonzi_b_vs_norrie_c](australian-open/bonzi_b_vs_norrie_c.md) |
 | Carabelli Vs Fucsovics | [carabelli_vs_fucsovics](australian-open/carabelli_vs_fucsovics.md) |
 | Danilovic-Vs-Williams-2026-01-18 | [danilovic-vs-williams-2026-01-18](australian-open/danilovic-vs-williams-2026-01-18.md) |
 | Fery A Vs Cobolli F | [fery_a_vs_cobolli_f](australian-open/fery_a_vs_cobolli_f.md) |
