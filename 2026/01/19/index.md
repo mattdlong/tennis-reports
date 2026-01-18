@@ -12,6 +12,7 @@ title: "January 19, 2026 - Tennis Reports"
 | Arnaldi Vs Rublev 2026-01-19 Australian Open | [arnaldi_vs_rublev_2026-01-19_australian_open](australian-open-men/arnaldi_vs_rublev_2026-01-19_australian_open.md) |
 | Borges Vs Auger Aliassime 2026-01-19 | [borges_vs_auger_aliassime_2026-01-19](australian-open-men/borges_vs_auger_aliassime_2026-01-19.md) |
 | Halys Vs Tabilo | [halys_vs_tabilo](australian-open-men/halys_vs_tabilo.md) |
+| Marozsan Vs Rinderknech | [marozsan_vs_rinderknech](australian-open-men/marozsan_vs_rinderknech.md) |
 | Medvedev Vs Dejong | [medvedev_vs_dejong](australian-open-men/medvedev_vs_dejong.md) |
 | Navone Vs Medjedovic 2026-01-19 | [navone_vs_medjedovic_2026-01-19](australian-open-men/navone_vs_medjedovic_2026-01-19.md) |
 | Paul Vs Kovacevic 2026-01-19 | [paul_vs_kovacevic_2026-01-19](australian-open-men/paul_vs_kovacevic_2026-01-19.md) |
