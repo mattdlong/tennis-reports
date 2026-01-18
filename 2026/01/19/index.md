@@ -27,4 +27,5 @@ title: "January 19, 2026 - Tennis Reports"
 | Kenin Vs Stearns | [kenin_vs_stearns](australian-open-women/kenin_vs_stearns.md) |
 | Li Ann Vs Osorio Camila 2026-01-19 | [li_ann_vs_osorio_camila_2026-01-19](australian-open-women/li_ann_vs_osorio_camila_2026-01-19.md) |
 | Linette Vs Navarro | [linette_vs_navarro](australian-open-women/linette_vs_navarro.md) |
+| Marcinko Vs Maria Ao2026 R1 | [marcinko_vs_maria_ao2026_r1](australian-open-women/marcinko_vs_maria_ao2026_r1.md) |
 
