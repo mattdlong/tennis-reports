@@ -9,8 +9,7 @@ title: "January 19, 2026 - Tennis Reports"
 
 | Match | Report |
 |-------|--------|
-| Halys Vs Tabilo | [halys_vs_tabilo](australian-open-men/halys_vs_tabilo.md) |
-| Navone Vs Medjedovic 2026-01-19 | [navone_vs_medjedovic_2026-01-19](australian-open-men/navone_vs_medjedovic_2026-01-19.md) |
+| Navone Vs Medjedovic | [navone_vs_medjedovic](australian-open-men/navone_vs_medjedovic.md) |
 
 ## Australian Open Women
 
