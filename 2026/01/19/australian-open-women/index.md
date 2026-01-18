@@ -11,6 +11,7 @@ title: "Australian Open Women - January 19, 2026"
 | Arango Vs Kessler Ao2026 | [arango_vs_kessler_ao2026](arango_vs_kessler_ao2026.md) |
 | Bondar A Vs Mandlik E 2026-01-19 Ao | [bondar_a_vs_mandlik_e_2026-01-19_ao](bondar_a_vs_mandlik_e_2026-01-19_ao.md) |
 | Frech-Vs-Erjavec-2026-01-19 | [frech-vs-erjavec-2026-01-19](frech-vs-erjavec-2026-01-19.md) |
+| Galfi Vs Tauson | [galfi_vs_tauson](galfi_vs_tauson.md) |
 | Gauff Vs Rakhimova 2026-01-19 | [gauff_vs_rakhimova_2026-01-19](gauff_vs_rakhimova_2026-01-19.md) |
 | Hon Vs Stakusic | [hon_vs_stakusic](hon_vs_stakusic.md) |
 | Hunter Vs Bouzas Maneiro 2026-01-19 | [hunter_vs_bouzas_maneiro_2026-01-19](hunter_vs_bouzas_maneiro_2026-01-19.md) |
