@@ -16,6 +16,7 @@ title: "January 19, 2026 - Tennis Reports"
 | Medvedev Vs Dejong | [medvedev_vs_dejong](australian-open-men/medvedev_vs_dejong.md) |
 | Navone Vs Medjedovic 2026-01-19 | [navone_vs_medjedovic_2026-01-19](australian-open-men/navone_vs_medjedovic_2026-01-19.md) |
 | Paul Vs Kovacevic 2026-01-19 | [paul_vs_kovacevic_2026-01-19](australian-open-men/paul_vs_kovacevic_2026-01-19.md) |
+| Tien Vs Giron | [tien_vs_giron](australian-open-men/tien_vs_giron.md) |
 | Ymer Vs Shevchenko | [ymer_vs_shevchenko](australian-open-men/ymer_vs_shevchenko.md) |
 
 ## Australian Open Women
