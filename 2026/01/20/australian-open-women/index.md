@@ -16,4 +16,5 @@ title: "Australian Open Women - January 20, 2026"
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](pliskova_k_vs_stephens_s.md) |
 | Udvardy P Vs Siniakova K | [udvardy_p_vs_siniakova_k](udvardy_p_vs_siniakova_k.md) |
 | Valentova T Vs Joint M | [valentova_t_vs_joint_m](valentova_t_vs_joint_m.md) |
+| Wang X Vs Kalinina A | [wang_x_vs_kalinina_a](wang_x_vs_kalinina_a.md) |
 | Zhang S Vs Preston T | [zhang_s_vs_preston_t](zhang_s_vs_preston_t.md) |

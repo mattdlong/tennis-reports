@@ -17,5 +17,6 @@ title: "January 20, 2026 - Tennis Reports"
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](australian-open-women/pliskova_k_vs_stephens_s.md) |
 | Udvardy P Vs Siniakova K | [udvardy_p_vs_siniakova_k](australian-open-women/udvardy_p_vs_siniakova_k.md) |
 | Valentova T Vs Joint M | [valentova_t_vs_joint_m](australian-open-women/valentova_t_vs_joint_m.md) |
+| Wang X Vs Kalinina A | [wang_x_vs_kalinina_a](australian-open-women/wang_x_vs_kalinina_a.md) |
 | Zhang S Vs Preston T | [zhang_s_vs_preston_t](australian-open-women/zhang_s_vs_preston_t.md) |
 
