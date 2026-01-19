@@ -1,5 +1,5 @@
 ---
-title: "Lorenzo Sonego vs Carlos Taberner"
+title: "Sonego L. vs Taberner C."
 date: 2026-01-19
 tournament: "Australian Open"
 surface: "hard"
@@ -11,17 +11,17 @@ spread_edge: 0.0
 confidence: "PASS"
 ---
 
-# Lorenzo Sonego vs Carlos Taberner
+# Sonego L. vs Taberner C.
 
 ## Match & Event
 
 | Field | Value |
 |-------|-------|
 | Tournament / Tier | Australian Open / Grand Slam |
-| Round / Court / Time | R128 / TBD / 2026-01-20 |
-| Format | Best of 5 sets, standard tiebreak rules |
-| Surface / Pace | Hard Court (Outdoor) / Medium-Fast |
-| Conditions | Outdoor, Melbourne summer (temps 20-30°C expected) |
+| Round / Court / Time | R128 / TBD / TBD |
+| Format | Best of 5 Sets, Standard Tiebreak at 6-6 |
+| Surface / Pace | Hard / Medium-Fast |
+| Conditions | Outdoor, Melbourne Summer (High Heat) |
 
 ---
 
@@ -31,258 +31,208 @@ confidence: "PASS"
 
 | Metric | Value |
 |--------|-------|
-| **Model Fair Line** | UNABLE TO CALCULATE RELIABLY |
+| **Model Fair Line** | INSUFFICIENT DATA |
 | **Market Line** | O/U 30.5 |
 | **Lean** | **PASS** |
 | **Edge** | N/A |
 | **Confidence** | **PASS** |
-| **Stake** | 0.0 units |
+| **Stake** | 0 units |
 
 ### Game Spread
 
 | Metric | Value |
 |--------|-------|
-| **Model Fair Line** | UNABLE TO CALCULATE RELIABLY |
+| **Model Fair Line** | INSUFFICIENT DATA |
 | **Market Line** | Sonego -7.5 |
 | **Lean** | **PASS** |
 | **Edge** | N/A |
 | **Confidence** | **PASS** |
-| **Stake** | 0.0 units |
+| **Stake** | 0 units |
 
 **CRITICAL DATA QUALITY ISSUE:**
-- Taberner has ONLY 1 tour-level match in Last 52 Weeks (0-1 record)
-- All hold/break statistics = 0.0% (insufficient tour-level data)
-- Recent matches are predominantly Challenger-level on CLAY
-- This is a HARD COURT Grand Slam match (Best of 5)
-- Cannot reliably model hold/break rates for Taberner on hard courts at tour level
-- Market line (O/U 30.5, Sonego -7.5) appears to reflect significant mismatch, but model confidence is too low to exploit
+**STRONGLY RECOMMEND PASS** - Taberner has essentially NO tour-level statistics in the last 52 weeks (only 1 match with all zeros for hold/break). Cannot reliably model game distributions without opponent's tour-level hold/break data. This is a fundamental limitation that makes edge calculation unreliable.
 
-**Recommendation: PASS on both totals and spread due to severe data limitations.**
+**Key Risks:**
+1. Missing tour-level hold/break data for Taberner (only Challenger stats available)
+2. Cannot accurately model game distributions with one player's data missing
+3. Market line (30.5 games, -7.5 spread) may reflect information advantage
 
 ---
 
-## Lorenzo Sonego - Complete Profile
+## Sonego L. - Complete Profile
 
 ### Rankings & Form
 
+| Metric | Value | Percentile |
+|--------|-------|-----------|
+| **ATP Rank** | #40 (ELO: 1778 points) | - |
+| **Hard Court Elo** | 1734 | - |
+| **Recent Form** | 4-5 (Last 9 matches) | - |
+| **Win % (Last 12m)** | 44.1% (15-19) | Below average |
+| **Form Trend** | Improving | - |
+
+### Surface Performance (Hard Court)
+
 | Metric | Value | Context |
 |--------|-------|---------|
-| **ATP Rank** | #40 (1240 points) | - |
-| **Elo Overall** | 1778 (#61) | - |
-| **Elo Hard Court** | 1734 (#57) | Surface-specific for this match |
-| **Recent Form** | 4-5 (Last 9 matches) | Mixed form |
-| **Form Trend** | Improving | Recent wins in Hong Kong |
-| **Win % (L52W)** | 44.1% (15-19) | Below-average season |
-
-### Surface Performance (Hard Court - Last 52 Weeks)
-
-| Metric | Value | Context |
-|--------|-------|---------|
-| **Matches Played** | 34 total (mixed surfaces) | Significant tour-level sample |
-| **Avg Total Games** | 23.2 games/match (3-set) | For 5-set, expect ~38-40 games |
-| **Games Won** | 396 total | - |
-| **Games Lost** | 394 total | - |
-| **Game Win %** | 50.1% | Evenly matched historically |
+| **Matches Played** | 34 (last 52 weeks) | Good sample size |
+| **Win % on Surface** | 44.1% (15-19) | Below average |
+| **Avg Total Games** | 23.2 games/match | Moderate totals |
 
 ### Hold/Break Analysis
 
-| Category | Stat | Value | Notes |
-|----------|------|-------|-------|
-| **Hold %** | Service Games Held | **82.7%** | Solid but not elite |
-| **Break %** | Return Games Won | **17.8%** | Below tour average (~25%) |
-| **Breaks/Match** | Average Breaks | 2.14 breaks | Weak return game |
+| Category | Stat | Value | Assessment |
+|----------|------|-------|-----------|
+| **Hold %** | Service Games Held | **82.7%** | Solid, tour average |
+| **Break %** | Return Games Won | **17.8%** | Below tour average (~20%) |
 
-| **Tiebreak** | TB Frequency | 15/34 sets = ~44% | Moderate TB rate |
-| | TB Win Rate | 40.0% (6-9 record) | Poor in TBs (small sample) |
+| **Tiebreak** | TB Frequency | Unknown | - |
+| | TB Win Rate | **40.0%** (6-9) | Below 50%, pressure issues |
+| | TB Sample | 15 tiebreaks | Adequate sample |
 
-### Serve Statistics
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **1st Serve In %** | 64.6% | Average |
-| **1st Serve Won %** | 72.7% | Solid |
-| **2nd Serve Won %** | 50.5% | Vulnerable on 2nd serve |
-| **Ace %** | 7.6% | Moderate |
-| **Double Fault %** | 2.9% | Good (low DF rate) |
-| **Service Points Won** | 64.8% | Decent overall |
-| **Return Points Won** | 34.2% | Weak returner |
-
-### Enhanced Statistics
-
-#### Elo Ratings
-
-| Surface | Elo | Rank |
-|---------|-----|------|
-| Overall | 1778 | #61 |
-| Hard | 1734 | #57 |
-| Clay | 1691 | #76 |
-| Grass | 1680 | #45 |
-
-**Elo Assessment:** Mid-tier tour player, hard court Elo slightly below overall.
-
-#### Recent Form (Last 9 Matches)
-
-| Date | Tournament | Surface | Result | Score | DR |
-|------|-----------|---------|--------|-------|-----|
-| 05-Jan-26 | Hong Kong | Hard | W | 6-3 6-4 | 1.02 |
-| 05-Jan-26 | Hong Kong | Hard | W | 6-2 7-6(4) | 1.48 |
-| 02-Nov-25 | Metz | Hard | W | 4-6 6-2 6-4 | 0.53 |
-| 02-Nov-25 | Metz | Hard | L | 6-4 7-6(6) | 1.43 |
-| 02-Nov-25 | Metz | Hard | L | 2-6 6-3 7-5 | 1.24 |
-| 02-Nov-25 | Metz | Hard | L | 4-6 6-4 6-4 | 1.22 |
-| 27-Oct-25 | Paris Masters | Hard | W | 3-6 7-6(5) 6-4 | 0.97 |
-| 27-Oct-25 | Paris Masters | Hard | L | 3-6 6-3 6-1 | 1.25 |
-| 27-Oct-25 | Paris Masters | Hard | L | 6-2 6-3 | 1.60 |
-
-**Form Analysis:**
-- Last N Record: 4-5
-- Avg Dominance Ratio: 1.19 (slightly winning more games than losing)
-- Three-Set %: 55.6% (competitive matches)
-- Avg Games/Match: 24.9 games
-- Form Trend: "Improving" (recent Hong Kong wins)
-
-#### Clutch Statistics
+### Game Distribution Metrics
 
 | Metric | Value | Context |
 |--------|-------|---------|
-| **BP Conversion** | 36.0% (36/100) | Below tour avg (~40%) |
-| **BP Saved** | 60.6% (63/104) | Tour average (~60%) |
-| **TB Serve Win %** | 67.9% | Good serving in TBs |
-| **TB Return Win %** | 32.1% | Weak returning in TBs |
+| **Avg Total Games** | 23.2 | Last 52 weeks |
+| **Games Won** | 396 total | - |
+| **Games Lost** | 394 total | - |
+| **Game Win %** | 50.1% | Barely above even |
+| **Avg Breaks Per Match** | 2.14 | Lower break rate |
 
-**Clutch Assessment:** Average under pressure, neither particularly clutch nor vulnerable.
+### Serve Statistics
 
-#### Key Games
+| Metric | Value | Assessment |
+|--------|-------|-----------|
+| **1st Serve In %** | 64.6% | Average |
+| **1st Serve Won %** | 72.7% | Solid |
+| **2nd Serve Won %** | 50.5% | Weak - exploitable |
 
-| Metric | Value | Implication |
-|--------|-------|-------------|
-| **Consolidation** | 76.7% (23/30) | Good at holding after breaking |
-| **Breakback** | 10.8% (4/37) | VERY POOR - rarely breaks back |
-| **Serving for Set** | 100.0% | Perfect set closure |
-| **Serving for Match** | 100.0% | Perfect match closure |
+### Enhanced Statistics
 
-**Pattern:** Excellent closer when ahead, but struggles to fight back when broken (low breakback rate).
+**Elo Ratings:**
+- Overall: 1778 (Rank #40)
+- Hard Court: 1734
+- Elo vs Taberner Hard: +276 points (significant gap)
 
-#### Playing Style
+**Recent Form:**
+- Last 9 Record: 4-5 (44.4%)
+- Form Trend: Improving
+- Dominance Ratio: 1.19 (winning more games than losing)
+- Three-Set %: 55.6% (competitive matches)
+- Avg Games Per Match: 24.9
 
-| Metric | Value | Classification |
-|--------|-------|---------------|
-| **Winner/UFE Ratio** | 1.14 | Balanced |
-| **Winners per Point** | 20.3% | Moderate aggression |
-| **UFE per Point** | 17.3% | Moderate errors |
-| **Style** | Balanced | Neither error-prone nor hyper-aggressive |
+**Clutch Statistics:**
+- BP Conversion: 36.0% (below tour avg ~40%)
+- BP Saved: 60.6% (around tour avg ~60%)
+- TB Serve Win: 67.9% (good serving in TBs)
+
+**Key Games:**
+- Consolidation: 76.7% (sometimes gives breaks back)
+- Breakback: 10.8% (very poor at immediate response)
+- Serving for Set: 100.0% (perfect closer when ahead)
+
+**Playing Style:**
+- Winner/UFE Ratio: 1.14 (balanced)
+- Style Classification: Balanced
+- Moderate consistency, not particularly aggressive or error-prone
+
+### Physical & Context
+
+| Factor | Value |
+|--------|-------|
+| Age | Unknown |
+| Handedness | Right-handed |
+| Rest Days | Unknown |
+| Sets Last 7d | Unknown |
 
 ---
 
-## Carlos Taberner - Complete Profile
+## Taberner C. - Complete Profile
 
 ### Rankings & Form
 
-| Metric | Value | **CRITICAL ISSUE** |
-|--------|-------|--------------------|
-| **ATP Rank** | #98 (630 points) | - |
-| **Elo Overall** | 1626 (#156) | 152 Elo points below Sonego |
-| **Elo Hard Court** | **1458 (#263)** | **276 points below Sonego on HARD** |
-| **Recent Form** | 5-4 (Last 9 matches) | **Mostly CHALLENGER clay** |
-| **Form Trend** | Improving | **Not at tour level** |
-| **Win % (L52W)** | **0.0% (0-1)** | **ONLY 1 TOUR-LEVEL MATCH** |
+| Metric | Value | Context |
+|--------|-------|---------|
+| **ATP Rank** | #98 (ELO: 1626 points) | - |
+| **Hard Court Elo** | 1458 | Very weak on hard |
+| **Recent Form** | 5-4 (Last 9 matches) | - |
+| **Win % (Tour-Level)** | **0.0% (0-1)** | **CRITICAL: Only 1 tour match!** |
+| **Form Trend** | Improving | Based on Challenger level |
 
-### SEVERE DATA QUALITY WARNING
+### Surface Performance (Hard Court)
 
-**Taberner has virtually NO tour-level statistics in Last 52 Weeks:**
-- Only 1 tour-level match recorded (0-1 loss)
-- ALL hold/break statistics = 0.0%
-- ALL serve/return statistics = 0.0%
-- Recent matches are Challenger-level on CLAY (not hard court)
-- Last tour-level hard court match: Adelaide Q1 (Jan 12, 2026) - LOSS 3-6 2-6
+**CRITICAL DATA LIMITATION:**
 
-**Surface Mismatch:**
-- Taberner's recent form: 8 of last 9 matches on CLAY
-- This match: HARD COURT (Australian Open)
-- Hard Court Elo: 1458 (#263) - VERY WEAK on hard courts
+| Metric | Value | Issue |
+|--------|-------|-------|
+| **Tour-Level Matches** | **1 match** | **Insufficient sample** |
+| **Tour-Level Win %** | 0.0% (0-1) | **Cannot use** |
+| **Avg Total Games** | 0.0 | **Missing data** |
 
-### Surface Performance (ALL SURFACES - Last 52 Weeks Tour Level)
+### Hold/Break Analysis
 
-| Metric | Value | **RELIABILITY** |
-|--------|-------|-----------------|
-| **Matches Played** | **1** | **INSUFFICIENT** |
-| **Avg Total Games** | 0.0 | **NO DATA** |
-| **Games Won** | 0 | **NO DATA** |
-| **Games Lost** | 0 | **NO DATA** |
-| **Game Win %** | 0.0% | **NO DATA** |
+**TOUR-LEVEL DATA (UNUSABLE):**
 
-### Hold/Break Analysis (TOUR LEVEL)
+| Category | Stat | Value | Issue |
+|----------|------|-------|-------|
+| **Hold %** | Service Games Held | **0.0%** | **NO DATA** |
+| **Break %** | Return Games Won | **0.0%** | **NO DATA** |
+| **Tiebreak** | TB Win Rate | 0.0% (0-0) | **NO DATA** |
+| **Avg Breaks Per Match** | 0.0 | **NO DATA** |
 
-| Category | Stat | Value | **RELIABILITY** |
-|----------|------|-------|-----------------|
-| **Hold %** | Service Games Held | **0.0%** | **NO RELIABLE DATA** |
-| **Break %** | Return Games Won | **0.0%** | **NO RELIABLE DATA** |
-| **Breaks/Match** | Average Breaks | **0.0** | **NO RELIABLE DATA** |
+**CHALLENGER-LEVEL DATA (LIMITED USEFULNESS):**
+From 15 Challenger matches:
+- BP Conversion: 53.0% (elite at Challenger level)
+- BP Saved: 59.5% (close to tour average)
+- TB Serve Win: 66.7%
+- Consolidation: 75.4%
+- Breakback: 30.8%
+- Serving for Set: 77.3%
 
-| **Tiebreak** | TB Frequency | 0.0% | **NO DATA** |
-| | TB Win Rate | 0.0% (0-0 record) | **NO DATA** |
+**WARNING:** Challenger statistics are NOT directly transferable to tour-level, especially Grand Slam level. Players typically experience:
+- 5-10% drop in hold % (weaker serve vs stronger returners)
+- 3-5% drop in break % (harder to break tour-level servers)
+- Overall performance degradation against superior competition
 
-### Serve Statistics (TOUR LEVEL)
+### Game Distribution Metrics
 
-| Metric | Value | **RELIABILITY** |
-|--------|-------|-----------------|
+**TOUR-LEVEL:** All zeros (unusable)
+
+**RECENT FORM (9 matches, mostly Challenger):**
+- Last 9 Record: 5-4 (55.6%)
+- Dominance Ratio: 1.26 (good at Challenger level)
+- Three-Set %: 55.6%
+- Avg Games Per Match: 23.3
+
+### Serve Statistics (Tour-Level)
+
+| Metric | Value | Issue |
+|--------|-------|-------|
 | **1st Serve In %** | 0.0% | **NO DATA** |
 | **1st Serve Won %** | 0.0% | **NO DATA** |
 | **2nd Serve Won %** | 0.0% | **NO DATA** |
-| **Ace %** | 0.0% | **NO DATA** |
-| **Double Fault %** | 0.0% | **NO DATA** |
 
-### Challenger-Level Form (NOT TOUR LEVEL)
+### Enhanced Statistics
 
-The briefing includes statistics from Challenger matches, but these are:
-1. **Different competition level** (lower quality opponents)
-2. **Different surface** (mostly clay, not hard court)
-3. **Not predictive** for Grand Slam hard court performance
+**Elo Ratings:**
+- Overall: 1626 (Rank #98)
+- Hard Court: 1458 (very weak - equivalent to ~200th ranked on hard)
+- Elo Deficit: -276 points vs Sonego on hard
 
-#### Recent Challenger Form (Last 9 Matches - NOT APPLICABLE)
+**Playing Style:**
+- Winner/UFE Ratio: 0.74 (error-prone)
+- Style Classification: Error-prone
+- More unforced errors than winners - significant weakness
 
-| Date | Tournament | Surface | Result | Score | DR |
-|------|-----------|---------|--------|-------|-----|
-| 12-Jan-26 | Adelaide Q1 | Hard | L | 3-6 2-6 | 0.57 |
-| 17-Nov-25 | Montemar CH | Clay | L | 6-4 3-6 6-3 | 1.00 |
-| 17-Nov-25 | Montemar CH | Clay | W | 6-0 6-1 | 2.25 |
-| 10-Nov-25 | Montevideo CH | Clay | W | 6-2 2-6 7-6(4) | 0.88 |
-| 10-Nov-25 | Montevideo CH | Clay | W | 7-6(2) 6-3 | 1.08 |
-| 10-Nov-25 | Montevideo CH | Clay | W | 6-0 6-2 | 2.50 |
-| 03-Nov-25 | Lima 2 CH | Clay | L | 2-6 7-5 6-4 | 0.95 |
-| 20-Oct-25 | Costa do Sauipe CH | Clay | L | 4-6 6-3 6-4 | 0.94 |
-| 20-Oct-25 | Costa do Sauipe CH | Clay | W | 6-3 3-6 6-4 | 1.15 |
+### Physical & Context
 
-**Form Analysis (Challenger Level - Limited Applicability):**
-- Last N Record: 5-4 (but against Challenger-level opponents)
-- Avg Dominance Ratio: 1.26 (at Challenger level)
-- Three-Set %: 55.6%
-- Avg Games/Match: 23.3 games (3-set Challenger matches)
-- Most recent HARD COURT result: LOSS in Adelaide qualifying
-
-#### Challenger-Level Statistics (NOT TOUR LEVEL)
-
-The briefing includes clutch stats, key games, and playing style from Challenger matches:
-
-**Clutch Stats (Challenger):**
-- BP Conversion: 53.0% (62/117) - Good at Challenger level
-- BP Saved: 59.5% (69/116) - Average
-- TB Serve Win: 66.7%
-- TB Return Win: 31.7%
-
-**Key Games (Challenger):**
-- Consolidation: 75.4% (43/57)
-- Breakback: 30.8% (12/39) - Better than Sonego at Challenger level
-- Serving for Set: 77.3%
-- Serving for Match: 80.0%
-
-**Playing Style (Challenger):**
-- Winner/UFE Ratio: 0.74 - **ERROR-PRONE**
-- Winners per Point: 10.0%
-- UFE per Point: 14.1%
-- Style: Error-Prone
-
-**CRITICAL:** These Challenger-level statistics are NOT reliable predictors for Grand Slam tour-level hard court performance.
+| Factor | Value |
+|--------|-------|
+| Age | Unknown |
+| Handedness | Unknown |
+| Rest Days | Unknown |
+| Sets Last 7d | Unknown |
 
 ---
 
@@ -290,154 +240,199 @@ The briefing includes clutch stats, key games, and playing style from Challenger
 
 ### Elo Comparison
 
-| Metric | Sonego | Taberner | Differential |
-|--------|--------|----------|--------------|
-| **Overall Elo** | 1778 (#61) | 1626 (#156) | +152 (Sonego) |
-| **Hard Court Elo** | 1734 (#57) | **1458 (#263)** | **+276 (Sonego)** |
+| Metric | Sonego L. | Taberner C. | Differential |
+|--------|-----------|-------------|--------------|
+| **Overall Elo** | 1778 (#40) | 1626 (#98) | +152 (Sonego) |
+| **Hard Court Elo** | 1734 | 1458 | **+276 (Sonego)** |
 
-**Quality Rating:** LOW (Taberner hard court Elo = 1458)
-- Taberner's hard court Elo ranks #263 (bottom quartile of tour)
-- Sonego's hard court Elo ranks #57 (mid-tier)
+**Quality Rating:** LOW (Taberner very weak on hard court)
+- Taberner's hard court Elo (1458) is equivalent to a player ranked ~200th on hard
+- Sonego is a solid mid-level ATP player
+- Large Elo gap suggests significant quality difference
 
-**Elo Edge:** Sonego by 276 points on hard courts
-- **SIGNIFICANT GAP** (>200 points) - massive mismatch on this surface
-- Taberner is a clay court specialist (Clay Elo: 1612, #122)
-- Hard court is Taberner's weakest surface by far
+**Elo Edge:** Sonego by 276 points on hard court
+- **Significant gap (>200)**: Normally boosts confidence in favorite
+- **BUT**: Cannot use this for modeling without opponent's hold/break data
 
 ### Recent Form Analysis
 
-| Player | Last 10 | Trend | Avg DR | 3-Set% | Avg Games | Surface |
-|--------|---------|-------|--------|--------|-----------|---------|
-| Sonego | 4-5 | Improving | 1.19 | 55.6% | 24.9 | Hard (tour) |
-| Taberner | 5-4 | Improving | 1.26 | 55.6% | 23.3 | Clay (Challenger) |
+| Player | Last 9/10 | Trend | Avg DR | 3-Set% | Avg Games |
+|--------|-----------|-------|--------|--------|-----------|
+| Sonego | 4-5 | improving | 1.19 | 55.6% | 24.9 |
+| Taberner | 5-4 | improving | 1.26 | 55.6% | 23.3 (Challenger) |
 
-**Form Advantage:** UNCLEAR - Cannot compare tour-level to Challenger-level form
-- Sonego: Tour-level hard court matches
-- Taberner: Challenger-level clay court matches
-- **Not comparable datasets**
+**Form Indicators:**
+- **Dominance Ratio (DR):** Taberner's 1.26 is at Challenger level, not comparable to tour
+- **Three-Set Frequency:** Both similar (55-56%), suggests competitive matches
+- **Avg Games:** Taberner's 23.3 is from Challenger level (not applicable)
 
-### Data Quality Assessment
+**Form Advantage:** Cannot assess reliably due to competition level difference
 
-| Player | Tour Matches (L52W) | Hard Court Data | Hold/Break Data | Reliability |
-|--------|-------------------|-----------------|----------------|-------------|
-| Sonego | 34 | Yes (multiple) | Yes (82.7% hold, 17.8% break) | **HIGH** |
-| Taberner | **1** | **No (0 on hard)** | **No (all 0.0%)** | **CRITICALLY LOW** |
-
-**Overall Data Quality:** **CRITICALLY LOW**
-- Cannot reliably model Taberner's tour-level hard court hold/break rates
-- Elo suggests massive mismatch, but insufficient granular data for totals/spread modeling
+**CRITICAL ISSUE:** Taberner's recent form is primarily from Challenger events, not tour-level. Performance metrics from Challenger level typically don't translate directly to Grand Slam competition.
 
 ---
 
-## Estimated Hold/Break Rates (HIGHLY UNCERTAIN)
+## Estimated Hold/Break Rates (Taberner - Due to Missing Data)
 
-Given the absence of tour-level data for Taberner, we can only make ROUGH ESTIMATES based on:
-1. Elo differential (276 points on hard courts)
-2. Challenger-level patterns (error-prone style)
-3. Most recent hard court result (Adelaide qualifying loss 3-6 2-6)
+Since Taberner has no tour-level hold/break data, we must estimate based on:
 
-### Estimated Rates (VERY LOW CONFIDENCE)
+### Estimation Method 1: Elo-Based Expectation
 
-| Player | Est. Hold % | Est. Break % | Confidence |
-|--------|-------------|--------------|------------|
-| **Sonego** | 82.7% | 17.8% | High (actual L52W data) |
-| **Taberner** | **~65-70%** | **~12-15%** | **VERY LOW (estimate only)** |
+For hard court Elo 1458 (very weak):
+- Expected Hold %: ~73-76% (well below tour average 80%)
+- Expected Break %: ~12-15% (well below tour average 20%)
 
-**Estimation Basis:**
-- Taberner's hard court Elo (1458) suggests bottom-quartile tour performance
-- Typical bottom-quartile hard court hold rates: 65-75%
-- Error-prone style (W/UFE 0.74) suggests more service breaks
-- Adelaide qualifying loss (3-6 2-6) suggests poor hard court serving
-- Against Sonego's 82.7% hold, Taberner likely struggles more
+Rationale:
+- 276 Elo point deficit suggests significant weakness
+- Error-prone style (0.74 W/UFE ratio) reduces hold % further
+- Hard court is his weakest surface by far
 
-**CRITICAL:** These are ROUGH ESTIMATES, not reliable statistics. Cannot confidently model game distributions.
+### Estimation Method 2: Challenger Stats Adjusted Down
 
----
+Challenger stats (BP saved 59.5%):
+- Suggests Challenger-level hold ~75-78%
+- Adjusted for tour-level: ~68-72% hold (5-10% drop typical)
+- Adjusted break %: ~10-13% (Challenger breaks don't translate up)
 
-## Game Distribution Analysis - CANNOT RELIABLY MODEL
+### Estimation Method 3: Competition Analysis
 
-### Why Modeling is Unreliable
+Players ranked ~200th on a surface typically:
+- Hold: 70-75% against mid-tier opposition
+- Break: 12-16% against mid-tier opposition
 
-1. **No tour-level hold/break data for Taberner on hard courts**
-2. **Challenger-level statistics not applicable to Grand Slam**
-3. **Best-of-5 format** (not Best-of-3) adds complexity
-4. **Surface mismatch** (Taberner's recent matches on clay, not hard)
-5. **Competition level gap** (Challenger vs Grand Slam)
+### Best Estimate (Highly Uncertain)
 
-### Theoretical Distribution (IF we had reliable data)
+**Estimated Taberner Hold %:** 70-75% (extremely wide range)
+**Estimated Taberner Break %:** 12-15% (extremely wide range)
 
-If Sonego holds at 82.7% and Taberner at ~67.5% (estimated):
-- Expected set scores: Sonego would likely win most sets 6-3, 6-4
-- Tiebreak probability: Low (asymmetric hold rates)
-- Straight sets probability: High (3-0 or 3-1 likely)
-- Expected total games (5-set): ~36-42 games (very wide range due to uncertainty)
-- Expected game margin: Sonego likely wins by 8-12 games
-
-**Market Line Analysis:**
-- Market totals: O/U 30.5 games
-- Market spread: Sonego -7.5 games
-
-**Market Implications:**
-- Totals line of 30.5 suggests market expects VERY DOMINANT Sonego performance (3-0 or 3-1)
-- Spread of -7.5 suggests market expects ~19-11 type game margin
-- These lines appear reasonable given the massive Elo gap
-
-**Problem:** Cannot confidently validate or contradict market without reliable Taberner data.
+**CONFIDENCE IN ESTIMATES:** Very Low
+- No tour-level data to validate
+- Large quality gap makes extrapolation unreliable
+- Style weakness (error-prone) adds uncertainty
+- Best-of-5 format may amplify weaknesses
 
 ---
 
-## Totals Analysis - PASS RECOMMENDED
+## Game Distribution Analysis (UNRELIABLE)
+
+**WARNING:** The following analysis uses estimated hold/break rates for Taberner. Treat all probabilities as highly uncertain.
+
+### Attempted Model Inputs
+
+**Sonego:**
+- Hold: 82.7%
+- Break: 17.8%
+
+**Taberner (ESTIMATED):**
+- Hold: ~72.5% (midpoint of 70-75% range)
+- Break: ~13.5% (midpoint of 12-15% range)
+
+### Expected Set Outcomes (Best-of-5)
+
+Due to missing data, cannot reliably calculate:
+- Set score probabilities
+- Tiebreak occurrence rates
+- Straight sets vs 5-set probabilities
+- Total games distribution
+
+**Qualitative Assessment:**
+- Large quality gap suggests Sonego should dominate
+- Error-prone opponent (0.74 W/UFE) increases likelihood of breaks
+- Best-of-5 format favors favorite (more time to assert quality)
+- Expected result: Sonego in straight sets or 4 sets
+
+### Total Games Distribution (UNRELIABLE)
+
+Cannot generate reliable distribution without opponent's tour-level data.
+
+**Market Line: 30.5 games** (Best-of-5)
+
+This line suggests:
+- Bookmaker expects 4 sets (30-32 games typical for 4-set match)
+- Possible 5 sets if competitive
+- Under 30.5 implies straight sets (24-27 games)
+
+**Model vs Market:** Cannot compare without reliable model
+
+---
+
+## Totals Analysis
 
 | Metric | Value |
 |--------|-------|
-| **Expected Total Games** | Unable to calculate reliably |
-| **95% Confidence Interval** | Too wide to be useful (28-45 games estimated) |
-| **Fair Line** | Cannot determine |
+| **Expected Total Games** | **INSUFFICIENT DATA** |
+| **95% Confidence Interval** | **Cannot calculate** |
+| **Fair Line** | **Cannot determine** |
 | **Market Line** | O/U 30.5 |
-| **Model Edge** | **PASS - Insufficient data** |
+| **P(Over)** | **Cannot calculate** |
+| **P(Under)** | **Cannot calculate** |
 
-### Why PASS on Totals
+### Why Pass on Totals
 
-1. **No reliable hold/break data for Taberner at tour level**
-2. **Best-of-5 format** increases variance significantly
-3. **Cannot validate market line** of 30.5 without Taberner's hard court stats
-4. **Confidence interval too wide** (±7-8 games minimum)
-5. **Risk of unknown factors** (Taberner's actual tour-level hard court form)
+**Critical Data Limitations:**
+1. **No tour-level hold % for Taberner** - Cannot model set scores
+2. **No tour-level break % for Taberner** - Cannot estimate game flow
+3. **Estimation range too wide** (70-75% hold = 5 percentage points)
+   - 5pp range in hold % translates to ~3-5 games difference in expected total
+   - This uncertainty alone exceeds typical confidence intervals
+4. **No tiebreak data for Taberner** - Major variance driver unknown
+5. **Best-of-5 format amplifies uncertainty** - More sets = compounding error
 
-**Theoretical Analysis (if we trusted the estimates):**
-- IF Taberner holds at ~67.5% and Sonego at 82.7%
-- Expected match: 3-0 or 3-1 Sonego (dominant)
-- Set scores likely: 6-3, 6-4, 6-2 type sets
-- Total games: 3-0 = 27-30 games; 3-1 = 36-40 games
-- Market line 30.5 suggests expectation of dominant 3-0 or tight 3-1
+**Model Unreliability:**
+- Using estimated 72.5% hold for Taberner: Would suggest Under 30.5
+- Using 70% hold (lower bound): Would suggest Under 28.5
+- Using 75% hold (upper bound): Would suggest Over 31.5
+- **6 game swing** based on estimation uncertainty alone
 
-**Market appears reasonable, but cannot confidently bet UNDER without reliable data.**
+**Market May Have Information Edge:**
+- Bookmaker may have access to practice reports, recent Challenger stats
+- Line at 30.5 (fairly high for best-of-5) suggests they expect competitiveness
+- Cannot determine if market is mispriced without reliable model
+
+**VERDICT:** **PASS** - Cannot calculate edge with confidence
 
 ---
 
-## Handicap Analysis - PASS RECOMMENDED
+## Handicap Analysis
 
 | Metric | Value |
 |--------|-------|
-| **Expected Game Margin** | Unable to calculate reliably |
-| **95% Confidence Interval** | Too wide to be useful |
-| **Fair Spread** | Cannot determine |
-| **Market Spread** | Sonego -7.5 |
-| **Model Edge** | **PASS - Insufficient data** |
+| **Expected Game Margin** | **INSUFFICIENT DATA** |
+| **95% Confidence Interval** | **Cannot calculate** |
+| **Fair Spread** | **Cannot determine** |
+| **Market Line** | Sonego -7.5 games |
 
-### Why PASS on Spread
+### Spread Analysis (Limited)
 
-1. **Same data quality issues as totals**
-2. **Cannot model Taberner's game-winning ability** on hard courts at tour level
-3. **Elo suggests massive gap**, but granular hold/break needed for spread modeling
-4. **Best-of-5 variance** makes spread even more uncertain than totals
+**Market Spread: Sonego -7.5 games**
 
-**Theoretical Analysis (if we trusted the estimates):**
-- IF Sonego wins 3-0: Likely wins 19-11 to 18-12 (7-8 game margin)
-- IF Sonego wins 3-1: Margin depends on which set Taberner wins (could be 5-10 games)
-- Market spread -7.5 suggests expectation of tight 3-0 or Taberner stealing one set
+This implies:
+- Bookmaker expects Sonego to win ~38-30 in games (typical 4-set win)
+- Straight sets (3-0): ~24-16 = 8 game margin
+- 4 sets (3-1): ~32-24 = 8 game margin
+- Market pricing in likely Sonego dominance
 
-**Market spread appears reasonable given Elo gap, but cannot confidently bet either side.**
+**Factors Supporting Large Margin:**
+- 276 Elo point gap (very significant)
+- Taberner error-prone (0.74 W/UFE ratio)
+- Best-of-5 favors favorite (more time to dominate)
+- Sonego's 82.7% hold vs estimated ~72.5% for Taberner (10pp gap)
+
+**Factors Against Large Margin:**
+- Uncertainty in Taberner's tour-level hold/break
+- If Taberner holds better than estimated (closer to 75%), margin shrinks
+- If Sonego has off day, gap narrows quickly
+
+### Spread Coverage Probabilities
+
+**Cannot calculate reliably** without Taberner's tour-level data.
+
+**Qualitative Assessment of -7.5:**
+- If Taberner truly holds 70-72%: Sonego likely covers easily (3-0 or 3-1)
+- If Taberner holds 75%+: Spread becomes close
+- 5% swing in opponent hold % = ~3-4 game margin change
+
+**VERDICT:** **PASS** - Cannot calculate edge with confidence
 
 ---
 
@@ -445,23 +440,29 @@ If Sonego holds at 82.7% and Taberner at ~67.5% (estimated):
 
 ### Totals
 
-| Source | Line | Over Odds | Under Odds | Implied Over | Implied Under | Vig |
-|--------|------|-----------|------------|--------------|---------------|-----|
-| Market | O/U 30.5 | 1.82 | 1.94 | 54.9% | 51.5% | 6.4% |
-| No-Vig | O/U 30.5 | - | - | 51.6% | 48.4% | 0% |
-| Model | Cannot calculate reliably | - | - | - | - | - |
+| Source | Line | Over | Under | Vig | Edge |
+|--------|------|------|-------|-----|------|
+| Model | N/A | N/A | N/A | - | - |
+| Sportsbet.io | O/U 30.5 | 1.82 (51.6% no-vig) | 1.94 (48.4% no-vig) | 5.8% | Cannot calculate |
 
-**Edge:** Cannot determine - PASS
+**Market Observations:**
+- Total of 30.5 is fairly high for best-of-5 with expected quality gap
+- Suggests bookmaker expects 4-5 sets rather than straight sets
+- May reflect inside information on Taberner's actual tour-level ability
+- No-vig slightly favors Over (51.6% vs 48.4%)
 
 ### Game Spread
 
-| Source | Line | Sonego Odds | Taberner Odds | Implied Sonego | Implied Taberner | Vig |
-|--------|------|-------------|---------------|----------------|------------------|-----|
-| Market | Sonego -7.5 | 1.70 | 2.08 | 58.8% | 48.1% | 6.9% |
-| No-Vig | Sonego -7.5 | - | - | 55.0% | 45.0% | 0% |
-| Model | Cannot calculate reliably | - | - | - | - | - |
+| Source | Line | Fav | Dog | Vig | Edge |
+|--------|------|-----|-----|-----|------|
+| Model | N/A | N/A | N/A | - | - |
+| Sportsbet.io | Sonego -7.5 | 1.70 (55.0% no-vig) | 2.08 (45.0% no-vig) | 7.1% | Cannot calculate |
 
-**Edge:** Cannot determine - PASS
+**Market Observations:**
+- Spread of -7.5 implies ~32-24 game expectation (8 game margin)
+- No-vig favors Sonego covering (55.0% vs 45.0%)
+- Relatively high spread given lack of data on underdog
+- May reflect sharp money or bookmaker's internal modeling
 
 ---
 
@@ -474,17 +475,17 @@ If Sonego holds at 82.7% and Taberner at ~67.5% (estimated):
 | **Market** | Total Games |
 | **Selection** | **PASS** |
 | **Target Price** | N/A |
-| **Edge** | **INSUFFICIENT DATA** |
+| **Edge** | **Cannot calculate** |
 | **Confidence** | **PASS** |
-| **Stake** | **0.0 units** |
+| **Stake** | 0 units |
 
 **Rationale:**
 
-Taberner has virtually no tour-level statistics in the Last 52 Weeks period (only 1 match, 0-1 record). All hold/break percentages are 0.0%, making it impossible to reliably model expected total games. While the market line of O/U 30.5 appears reasonable given the massive Elo gap (Sonego +276 on hard courts) and suggests a dominant Sonego performance, we cannot validate this line without Taberner's actual tour-level hard court hold/break rates.
+Cannot reliably model game distributions without Taberner's tour-level hold/break statistics. Estimation uncertainty (5 percentage points in hold % translates to 5+ games in expected total) exceeds typical confidence intervals. Best-of-5 format compounds this uncertainty across more sets.
 
-Additionally, this is a Best-of-5 Grand Slam match, which increases variance significantly compared to the Best-of-3 matches in our historical data. Without reliable data on Taberner's tour-level performance on hard courts, the confidence interval for expected total games would be unacceptably wide (estimated ±7-8 games minimum).
+The market line of 30.5 may reflect information not available in public statistics (recent practice form, Challenger performance translation, etc.). Without ability to validate model against market, cannot identify edge.
 
-**PASS - Insufficient data quality to exploit any perceived edge.**
+**Pass on both Over and Under.**
 
 ### Game Spread Recommendation
 
@@ -493,79 +494,78 @@ Additionally, this is a Best-of-5 Grand Slam match, which increases variance sig
 | **Market** | Game Handicap |
 | **Selection** | **PASS** |
 | **Target Price** | N/A |
-| **Edge** | **INSUFFICIENT DATA** |
+| **Edge** | **Cannot calculate** |
 | **Confidence** | **PASS** |
-| **Stake** | **0.0 units** |
+| **Stake** | 0 units |
 
 **Rationale:**
 
-Same critical data quality issues apply to the spread market. While Sonego's hard court Elo (1734) is 276 points higher than Taberner's (1458), suggesting a significant mismatch, we cannot reliably convert this Elo differential into an expected game margin without Taberner's tour-level hold/break statistics.
+While the 276 Elo point gap and Taberner's error-prone style (0.74 W/UFE ratio) suggest Sonego should win comfortably, the uncertainty in Taberner's tour-level hold rate makes margin modeling unreliable. A 5% swing in opponent hold % translates to 3-4 games in expected margin.
 
-The market spread of Sonego -7.5 games appears reasonable for a 3-0 or 3-1 result in a Best-of-5 match where the favorite dominates, but we have no way to validate whether this line is too high, too low, or fair. The lack of granular data on Taberner's game-winning ability at the tour level on hard courts makes any spread bet pure speculation.
+Market spread of -7.5 appears reasonable given quality gap, but cannot confirm if it's mispriced without reliable opponent data. The bookmaker may have better information on Taberner's actual tour-level ability than public statistics provide.
 
-**PASS - Cannot model expected margin with acceptable confidence.**
+**Pass on both Sonego -7.5 and Taberner +7.5.**
 
 ### Pass Conditions
 
-**BOTH totals and spread: RECOMMEND PASS due to:**
+**Both markets: PASS due to fundamental data limitations**
 
-1. **Critical data gap:** Taberner has only 1 tour-level match in Last 52 Weeks
-2. **Surface mismatch:** Taberner's recent matches almost all on clay, not hard
-3. **Competition level gap:** Recent form from Challenger circuit, not tour level
-4. **Format complexity:** Best-of-5 adds significant variance
-5. **Unable to validate market:** Cannot calculate reliable expected totals or margin
-6. **Confidence interval too wide:** Any estimate would have ±7-8 games minimum uncertainty
-7. **Unknown tour-level form:** Taberner's actual current hard court ability unknown
+**When to reconsider (future matches):**
+- After Taberner plays 5+ more tour-level matches (building sample size)
+- If tour-level hold/break data becomes available
+- If line moves significantly (e.g., total drops to 28.5, spread drops to -5.5)
+- If additional context emerges (injury to Sonego, surface-specific practice reports)
 
-**When data quality improves (future matches):**
-- If Taberner plays more tour-level hard court matches, revisit analysis
-- If more granular statistics become available, recalculate distributions
-- If match format were Best-of-3, uncertainty would be slightly reduced (but still PASS)
+**Do NOT bet either market at current prices given data uncertainty.**
 
 ---
 
 ## Confidence Calculation
 
-### Base Confidence (from edge size)
+### Base Confidence
 
-| Edge Range | Base Level |
-|------------|------------|
-| ≥ 5% | HIGH |
-| 3% - 5% | MEDIUM |
-| 2.5% - 3% | LOW |
-| < 2.5% | PASS |
-
-**Base Confidence:** **PASS** (unable to calculate edge)
+**Edge:** Cannot calculate (insufficient data)
+**Base Level:** **PASS**
 
 ### Data Quality Assessment
 
-| Factor | Assessment | Impact |
-|--------|------------|--------|
-| **Sonego Data** | HIGH (34 tour matches, complete stats) | Positive |
-| **Taberner Data** | **CRITICALLY LOW (1 tour match, all stats 0.0%)** | **Fatal** |
-| **Surface Match** | Sonego: Good; Taberner: **VERY POOR** | Negative |
-| **Competition Level** | Sonego: Tour; Taberner: **Challenger** | Incomparable |
-| **Format** | Best-of-5 (higher variance) | Negative |
+| Component | Status | Impact |
+|-----------|--------|--------|
+| **Sonego Hold/Break** | ✓ Available (34 matches) | Reliable |
+| **Taberner Hold/Break** | ✗ **Missing (only 1 tour match)** | **CRITICAL FAILURE** |
+| **Tiebreak Data** | Partial (Sonego only) | Cannot model TB outcomes |
+| **Recent Form** | Mixed levels (Sonego tour, Taberner Challenger) | Not comparable |
+| **Serve/Return Stats** | Sonego only | Incomplete matchup |
 
-**Overall Data Quality:** **CRITICALLY LOW**
+**Data Quality Rating:** **CRITICAL FAILURE**
+- Missing opponent's primary statistics (hold/break %)
+- Estimation uncertainty too wide for reliable modeling
+- Competition level mismatch (tour vs Challenger form)
 
-Confidence multiplier: 0.0 (insufficient data to generate model)
+### Adjustments Analysis
+
+**Cannot apply standard adjustments without base model:**
+- Form Trend: Both improving, but Taberner's is Challenger-level
+- Elo Gap: +276 Sonego (significant), but can't translate to games without opponent data
+- Clutch Advantage: Cannot assess without opponent's tour-level clutch stats
+- Style Volatility: Taberner error-prone (increases variance), but magnitude unknown
 
 ### Final Confidence
 
 | Metric | Value |
 |--------|-------|
 | **Base Level** | PASS |
-| **Data Quality Adjustment** | Fatal (-100%) |
-| **Final Confidence** | **PASS** |
-| **Confidence Justification** | Cannot reliably model expected games or margin without tour-level hard court statistics for Taberner. Data quality is critically insufficient for any bet recommendation. |
+| **Data Quality** | CRITICAL FAILURE |
+| **Final Confidence** | **PASS - DO NOT BET** |
+| **Confidence Justification** | Cannot model game distributions without opponent's tour-level hold/break data. Estimation uncertainty exceeds acceptable bounds for betting. |
+
+**Key Blocking Factor:**
+1. **Missing tour-level hold/break data for Taberner** - This is the foundational input for totals/handicaps modeling and cannot be substituted with estimates
 
 **Key Risk Factors:**
-1. **Zero tour-level hard court hold/break data for Taberner**
-2. **Challenger-to-Tour level performance gap unknown**
-3. **Best-of-5 format significantly increases variance**
-4. **Surface mismatch (clay to hard) for Taberner**
-5. **Market lines appear reasonable but unverifiable**
+1. Estimation range (70-75% hold) translates to 5+ game swing in expected total
+2. Best-of-5 format compounds uncertainty across additional sets
+3. Market may have information edge (practice reports, recent form insights)
 
 ---
 
@@ -573,116 +573,44 @@ Confidence multiplier: 0.0 (insufficient data to generate model)
 
 ### Variance Drivers
 
-1. **Best-of-5 Format:** Grand Slam matches have much higher variance than Best-of-3
-2. **Taberner's Unknown Tour-Level Ability:** Could be much better or worse than Challenger form suggests
-3. **Hard Court Adaptation:** Taberner's clay form may not translate at all to hard courts
-4. **Match Fitness:** Sonego's ability to maintain level over 5 sets (if needed)
-5. **Taberner's Motivation:** Qualifier/wildcard mentality vs established tour player
+- **Unknown Tour-Level Hold Rate:** Taberner's actual hold % could be anywhere from 68-76%, creating 8+ game uncertainty
+- **Best-of-5 Amplification:** Each set compounds the estimation error
+- **Tiebreak Modeling Impossible:** No data on Taberner's tour-level TB performance
+- **Error-Prone Style Impact:** 0.74 W/UFE ratio suggests volatility, but magnitude unknown at tour level
 
 ### Data Limitations
 
-1. **Taberner tour-level statistics:** Only 1 match in L52W (0.0% for all hold/break stats)
-2. **No hard court tour-level data:** Taberner's only recent hard court match was Adelaide Q1 loss
-3. **Challenger-to-Tour gap:** Unknown how Taberner's Challenger form translates
-4. **Small tiebreak sample for Sonego:** Only 15 TBs (6-9 record, 40% win rate)
-5. **Best-of-5 historical data:** Limited comparable matches in dataset
+**CRITICAL:**
+- Taberner has only 1 tour-level match in last 52 weeks
+- All hold/break/serve/return statistics are zeros (unusable)
+- Cannot validate Challenger stats translate to tour level
+- No historical game distributions to validate model
 
-### Unknown Factors
+**MODERATE:**
+- No H2H history between players
+- Unknown physical condition/rest for both players
+- No context on match timing (day vs night session)
 
-1. **Taberner's actual tour-level hard court hold %:** Could be anywhere from 60-75%
-2. **How Taberner handles Grand Slam pressure:** No recent data
-3. **Sonego's Best-of-5 stamina:** Can he maintain 82.7% hold over 5 sets?
-4. **Weather impact:** Melbourne heat could affect longer rallies
-5. **Scheduling:** Potential for extreme heat or late finish affecting stamina
+### Fundamental Modeling Issue
 
-### Why Market Lines May Be Reasonable (But We Can't Exploit)
+**The Problem:**
+Totals and handicaps modeling requires accurate hold/break rates for BOTH players. With one player's data missing:
+- Cannot model set score probabilities
+- Cannot estimate tiebreak occurrence
+- Cannot calculate expected total games
+- Cannot determine game margin distribution
 
-**Market totals O/U 30.5:**
-- Implies expectation of ~3-0 or tight 3-1 result
-- Consistent with massive Elo gap (Sonego +276 on hard)
-- Under 30.5 = dominant 3-0 (18-12, 19-11 type scores)
-- Over 30.5 = Taberner steals a set or multiple tiebreaks
+**This is equivalent to trying to calculate moneyline odds with only one player's win percentage.**
 
-**Market spread Sonego -7.5:**
-- Implies Sonego wins by ~8+ games (e.g., 19-11, 20-12)
-- Reasonable for 3-0 result where sets are 6-3, 6-4, 6-2
-- If Taberner wins a set, spread could be closer
+### Market Information Advantage
 
-**Problem:** Market may have better information (recent practice form, other data sources) that we lack.
+Bookmakers likely have:
+- Scouting reports from Taberner's recent Challengers
+- Practice session observations
+- Internal models for translating Challenger to tour performance
+- Historical analogues (similar player profiles)
 
----
-
-## Alternative Analysis: Elo-Based Rough Estimate (NOT A BET RECOMMENDATION)
-
-**For informational purposes only**, if we attempt to use ONLY the Elo differential:
-
-### Elo-Based Win Probability
-- Sonego Hard Elo: 1734
-- Taberner Hard Elo: 1458
-- Differential: +276 points
-
-Using standard Elo formula:
-```
-Expected Win% = 1 / (1 + 10^(-diff/400))
-Sonego Expected Win% ≈ 1 / (1 + 10^(-276/400))
-Sonego Expected Win% ≈ 1 / (1 + 10^(-0.69))
-Sonego Expected Win% ≈ 1 / (1 + 0.204)
-Sonego Expected Win% ≈ 83%
-```
-
-**Elo implies Sonego ~83% favorite to win match.**
-
-### Set-Level Expectations (VERY ROUGH)
-- If Sonego 83% to win match
-- For Best-of-5, likely set distribution:
-  - P(3-0): ~40-50%
-  - P(3-1): ~30-40%
-  - P(3-2): ~10-15%
-
-**Most likely outcomes:**
-1. **Sonego 3-0** (40-50% probability)
-   - Set scores: 6-3, 6-4, 6-2 type
-   - Total games: 27-30 games
-   - Game margin: Sonego +9 to +12
-
-2. **Sonego 3-1** (30-40% probability)
-   - Set scores: Mix of 6-3, 6-4, 6-2, with one Taberner set
-   - Total games: 34-40 games
-   - Game margin: Sonego +5 to +9
-
-**Market Comparison:**
-- Market O/U 30.5: Splits difference between 3-0 (27-30) and 3-1 (34-40)
-- Market Sonego -7.5: Expects game margin of 8+ games
-- **Market lines appear roughly aligned with Elo expectations**
-
-**CRITICAL:** This Elo-based analysis does NOT provide sufficient edge to bet. It merely suggests the market is not obviously mispriced. Without granular hold/break data, we cannot identify an exploitable edge of 2.5%+.
-
----
-
-## Conclusion: PASS on Both Markets
-
-### Summary
-
-This match presents a **critical data quality failure** for totals and spread modeling. While the massive Elo differential (Sonego +276 on hard courts) clearly indicates a mismatch, and the market lines appear reasonable given this gap, we cannot:
-
-1. **Reliably model expected total games** without Taberner's tour-level hard court hold/break rates
-2. **Calculate expected game margin** with acceptable confidence intervals
-3. **Validate or contradict market lines** without granular statistical data
-4. **Identify any edge ≥ 2.5%** required for a bet recommendation
-
-**The market may be right, wrong, or fairly priced - we simply don't have the data to determine which.**
-
-### Recommendation: PASS on BOTH totals and spread
-
-**Stake: 0.0 units on all markets**
-
-### Lessons for Future Analysis
-
-1. **Require minimum tour-level sample:** At least 10-15 tour matches in Last 52 Weeks
-2. **Surface-specific data essential:** Challenger clay form does not predict tour hard court performance
-3. **Best-of-5 modeling requires more data:** Higher variance than Best-of-3
-4. **Elo alone insufficient:** Need granular hold/break rates for totals/spread modeling
-5. **When in doubt, PASS:** Better to miss a bet than force one with insufficient data
+**Without access to this information, we're at a significant disadvantage.**
 
 ---
 
@@ -691,59 +619,59 @@ This match presents a **critical data quality failure** for totals and spread mo
 1. **TennisAbstract.com** - Primary source for player statistics (Last 52 Weeks Tour-Level Splits)
    - Sonego: Complete data (34 matches)
    - Taberner: Insufficient tour-level data (1 match only)
-   - Elo ratings: Sonego 1734 (hard), Taberner 1458 (hard)
-   - Recent form, clutch stats, key games, playing style metrics
-   - **Data limitation acknowledged for Taberner**
-
-2. **Sportsbet.io via Sportify/NetBet** - Match odds
-   - Totals: O/U 30.5 (1.82 / 1.94)
-   - Spread: Sonego -7.5 (1.70 / 2.08)
-   - Moneyline: Sonego 1.08, Taberner 7.25 (not analyzed)
-
-3. **Briefing File** - Pre-collected match data
-   - Collection timestamp: 2026-01-19
-   - Data quality rating: "HIGH" (misleading - applies to data collection completeness, not statistical reliability for Taberner)
-   - Includes Challenger-level statistics for Taberner (not applicable to tour-level modeling)
+   - Elo ratings: Sonego 1734 hard, Taberner 1458 hard
+2. **Sportsbet.io** - Match odds
+   - Totals: 30.5 (O: 1.82, U: 1.94)
+   - Spread: Sonego -7.5 (1.70) / Taberner +7.5 (2.08)
+3. **Briefing Data** - Provided via collect_briefing.py
+   - Enhanced statistics (clutch, key games, playing style)
+   - Data quality assessment: LOW (missing critical opponent data)
 
 ---
 
 ## Verification Checklist
 
 ### Core Statistics
-- [x] Hold % collected for Sonego (82.7% - surface-adjusted)
-- [❌] Hold % collected for Taberner (0.0% - **NO TOUR-LEVEL DATA**)
-- [x] Break % collected for Sonego (17.8% - opponent-adjusted)
-- [❌] Break % collected for Taberner (0.0% - **NO TOUR-LEVEL DATA**)
-- [x] Tiebreak statistics collected for Sonego (40% win rate, n=15)
-- [❌] Tiebreak statistics for Taberner (0.0% - **NO DATA**)
-- [❌] Game distribution modeled (UNABLE - insufficient Taberner data)
-- [❌] Expected total games calculated (UNABLE - insufficient data)
-- [❌] Expected game margin calculated (UNABLE - insufficient data)
-- [x] Totals line compared to market (30.5 - unable to validate)
-- [x] Spread line compared to market (-7.5 - unable to validate)
-- [❌] Edge ≥ 2.5% for any recommendations (**NO EDGE CALCULATED**)
-- [x] Confidence intervals appropriately wide (N/A - model not generated)
-- [x] **NO moneyline analysis included** ✓
+- [x] Hold % collected for Sonego (82.7%)
+- [✗] **Hold % collected for Taberner** - **FAILED: No tour data**
+- [x] Break % collected for Sonego (17.8%)
+- [✗] **Break % collected for Taberner** - **FAILED: No tour data**
+- [x] Tiebreak statistics for Sonego (40.0%, n=15)
+- [✗] Tiebreak statistics for Taberner - **FAILED: No tour data**
+- [✗] **Game distribution modeled** - **FAILED: Insufficient input data**
+- [✗] **Expected total games calculated** - **FAILED: Cannot model**
+- [✗] **Expected game margin calculated** - **FAILED: Cannot model**
+- [✗] Totals line compared to market - **FAILED: No model**
+- [✗] Spread line compared to market - **FAILED: No model**
+- [x] Edge calculation attempted - **RESULT: Cannot calculate**
+- [x] **NO moneyline analysis included** - Confirmed
+- [x] **PASS recommendation given** - Due to data limitations
 
 ### Enhanced Analysis
-- [x] Elo ratings extracted (Sonego: 1734 hard; Taberner: 1458 hard)
-- [x] Recent form data included (Sonego: improving, 4-5; Taberner: Challenger only)
-- [x] Clutch stats analyzed (Sonego: complete; Taberner: Challenger level only)
-- [x] Key games metrics reviewed (Sonego: complete; Taberner: Challenger level only)
-- [x] Playing style assessed (Sonego: balanced; Taberner: error-prone at Challenger level)
-- [x] Matchup Quality Assessment section completed (Elo gap identified)
-- [x] Data Quality Assessment section completed (**CRITICAL ISSUES IDENTIFIED**)
+- [x] Elo ratings extracted (Sonego 1734 hard, Taberner 1458 hard)
+- [x] Recent form data included (both players)
+- [x] Clutch stats analyzed (Sonego complete, Taberner Challenger only)
+- [x] Key games metrics reviewed (Sonego complete, Taberner Challenger only)
+- [x] Playing style assessed (Sonego balanced 1.14, Taberner error-prone 0.74)
+- [x] Data quality issue identified and documented
+- [x] PASS recommendation justified with detailed reasoning
 
-### Data Quality Flags
-- [❌] **CRITICAL:** Taberner has only 1 tour-level match in Last 52 Weeks
-- [❌] **CRITICAL:** All Taberner hold/break statistics = 0.0%
-- [❌] **CRITICAL:** Recent Taberner matches are Challenger-level on clay
-- [❌] **CRITICAL:** This is a Best-of-5 hard court Grand Slam match
-- [❌] **CRITICAL:** Cannot reliably model Taberner's expected performance
+### Report Quality
+- [x] YAML frontmatter with PASS recommendations
+- [x] Executive Summary clearly states PASS
+- [x] Data limitations prominently featured
+- [x] Estimation attempts documented with uncertainty ranges
+- [x] Risk section explains why modeling fails
+- [x] All recommendations are PASS (0 units staked)
 
-### Final Recommendation
-- [x] **PASS on totals** (insufficient data)
-- [x] **PASS on spread** (insufficient data)
-- [x] **0.0 units staked**
-- [x] **Data quality issues clearly documented**
-- [x] **Elo-based rough estimate provided for context only**
+---
+
+## Conclusion
+
+**STRONG PASS on both Totals and Spread.**
+
+This match presents a fundamental data challenge: Taberner has essentially no tour-level statistics in the last 52 weeks, making it impossible to reliably model game distributions. While the large Elo gap (276 points) and Sonego's solid tour-level metrics suggest he should dominate, we cannot quantify this edge without Taberner's hold/break rates.
+
+The market lines (30.5 total, -7.5 spread) may reflect information not available in public statistics. Without ability to build a reliable model, we cannot determine if these lines are mispriced.
+
+**This is a clear example of when to pass**: insufficient data to overcome market uncertainty, even when directional bias (Sonego favored) is obvious.

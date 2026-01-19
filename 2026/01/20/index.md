@@ -9,8 +9,8 @@ title: "January 20, 2026 - Tennis Reports"
 
 | Match | Report |
 |-------|--------|
-| Sonego L Vs Taberner C | [sonego_l_vs_taberner_c](australian-open-men/sonego_l_vs_taberner_c.md) |
 | Musetti L Vs Collignon R | [musetti_l_vs_collignon_r](australian-open-men/musetti_l_vs_collignon_r.md) |
+| Sonego L Vs Taberner C | [sonego_l_vs_taberner_c](australian-open-men/sonego_l_vs_taberner_c.md) |
 
 ## Australian Open Women
 
