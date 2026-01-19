@@ -13,6 +13,7 @@ title: "Australian Open Women - January 20, 2026"
 | Grabher J Vs Cocciaretto E | [grabher_j_vs_cocciaretto_e](grabher_j_vs_cocciaretto_e.md) |
 | Gracheva V Vs Golubic V | [gracheva_v_vs_golubic_v](gracheva_v_vs_golubic_v.md) |
 | Kalinskaya A Vs Kartal S | [kalinskaya_a_vs_kartal_s](kalinskaya_a_vs_kartal_s.md) |
+| Kasatkina D Vs Bartunkova N | [kasatkina_d_vs_bartunkova_n](kasatkina_d_vs_bartunkova_n.md) |
 | Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](krueger_a_vs_bejlek_s.md) |
 | Oliynykova O Vs Keys M | [oliynykova_o_vs_keys_m](oliynykova_o_vs_keys_m.md) |
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](pliskova_k_vs_stephens_s.md) |
