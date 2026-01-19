@@ -17,6 +17,7 @@ title: "January 20, 2026 - Tennis Reports"
 | O'Connell C Vs Basavareddy N | [o'connell_c_vs_basavareddy_n](australian-open-men/o'connell_c_vs_basavareddy_n.md) |
 | Fonseca J Vs Spizzirri E | [fonseca_j_vs_spizzirri_e](australian-open-men/fonseca_j_vs_spizzirri_e.md) |
 | Shelton B Vs Humbert U | [shelton_b_vs_humbert_u](australian-open-men/shelton_b_vs_humbert_u.md) |
+| Sweeny D Vs Monfils G | [sweeny_d_vs_monfils_g](australian-open-men/sweeny_d_vs_monfils_g.md) |
 
 ## Australian Open Women
 

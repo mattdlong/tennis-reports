@@ -16,3 +16,4 @@ title: "Australian Open Men - January 20, 2026"
 | O'Connell C Vs Basavareddy N | [o'connell_c_vs_basavareddy_n](o'connell_c_vs_basavareddy_n.md) |
 | Fonseca J Vs Spizzirri E | [fonseca_j_vs_spizzirri_e](fonseca_j_vs_spizzirri_e.md) |
 | Shelton B Vs Humbert U | [shelton_b_vs_humbert_u](shelton_b_vs_humbert_u.md) |
+| Sweeny D Vs Monfils G | [sweeny_d_vs_monfils_g](sweeny_d_vs_monfils_g.md) |
