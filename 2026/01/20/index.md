@@ -10,4 +10,5 @@ title: "January 20, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Fernandez L Vs Tjen J | [fernandez_l_vs_tjen_j](australian-open-women/fernandez_l_vs_tjen_j.md) |
+| Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](australian-open-women/krueger_a_vs_bejlek_s.md) |
 
