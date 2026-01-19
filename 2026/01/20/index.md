@@ -18,6 +18,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Oliynykova O Vs Keys M | [oliynykova_o_vs_keys_m](australian-open-women/oliynykova_o_vs_keys_m.md) |
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](australian-open-women/pliskova_k_vs_stephens_s.md) |
 | Rybakina E Vs Juvan K | [rybakina_e_vs_juvan_k](australian-open-women/rybakina_e_vs_juvan_k.md) |
+| Siegemund L Vs Samsonova L | [siegemund_l_vs_samsonova_l](australian-open-women/siegemund_l_vs_samsonova_l.md) |
 | Sramkova R Vs Ostapenko J | [sramkova_r_vs_ostapenko_j](australian-open-women/sramkova_r_vs_ostapenko_j.md) |
 | Sun L Vs Fruhvirtova L | [sun_l_vs_fruhvirtova_l](australian-open-women/sun_l_vs_fruhvirtova_l.md) |
 | Udvardy P Vs Siniakova K | [udvardy_p_vs_siniakova_k](australian-open-women/udvardy_p_vs_siniakova_k.md) |
