@@ -10,6 +10,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Fernandez L Vs Tjen J | [fernandez_l_vs_tjen_j](australian-open-women/fernandez_l_vs_tjen_j.md) |
+| Gracheva V Vs Golubic V | [gracheva_v_vs_golubic_v](australian-open-women/gracheva_v_vs_golubic_v.md) |
 | Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](australian-open-women/krueger_a_vs_bejlek_s.md) |
 | Udvardy P Vs Siniakova K | [udvardy_p_vs_siniakova_k](australian-open-women/udvardy_p_vs_siniakova_k.md) |
 | Zhang S Vs Preston T | [zhang_s_vs_preston_t](australian-open-women/zhang_s_vs_preston_t.md) |
