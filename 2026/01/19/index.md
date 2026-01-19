@@ -12,6 +12,7 @@ title: "January 19, 2026 - Tennis Reports"
 | Altmaier D Vs Cilic M | [altmaier_d_vs_cilic_m](australian-open-men/altmaier_d_vs_cilic_m.md) |
 | Borges-Auger-Aliassime-2026-01-19 | [borges-auger-aliassime-2026-01-19](australian-open-men/borges-auger-aliassime-2026-01-19.md) |
 | Halys Vs Tabilo 2026-01-19 Australian Open | [halys_vs_tabilo_2026-01-19_australian_open](australian-open-men/halys_vs_tabilo_2026-01-19_australian_open.md) |
+| Mannarino A Vs Hijikata R | [mannarino_a_vs_hijikata_r](australian-open-men/mannarino_a_vs_hijikata_r.md) |
 | Medvedev Vs Dejong Ao2026 R1 | [medvedev_vs_dejong_ao2026_r1](australian-open-men/medvedev_vs_dejong_ao2026_r1.md) |
 | Munar J Vs Svrcina D | [munar_j_vs_svrcina_d](australian-open-men/munar_j_vs_svrcina_d.md) |
 | Navone Vs Medjedovic | [navone_vs_medjedovic](australian-open-men/navone_vs_medjedovic.md) |
