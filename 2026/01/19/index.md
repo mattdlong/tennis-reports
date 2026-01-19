@@ -16,6 +16,7 @@ title: "January 19, 2026 - Tennis Reports"
 | Munar J Vs Svrcina D | [munar_j_vs_svrcina_d](australian-open-men/munar_j_vs_svrcina_d.md) |
 | Navone Vs Medjedovic | [navone_vs_medjedovic](australian-open-men/navone_vs_medjedovic.md) |
 | Paul Vs Kovacevic | [paul_vs_kovacevic](australian-open-men/paul_vs_kovacevic.md) |
+| Popyrin A Vs Muller A | [popyrin_a_vs_muller_a](australian-open-men/popyrin_a_vs_muller_a.md) |
 | Ymer Vs Shevchenko | [ymer_vs_shevchenko](australian-open-men/ymer_vs_shevchenko.md) |
 
 ## Australian Open Women

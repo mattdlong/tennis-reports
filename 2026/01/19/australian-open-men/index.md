@@ -15,4 +15,5 @@ title: "Australian Open Men - January 19, 2026"
 | Munar J Vs Svrcina D | [munar_j_vs_svrcina_d](munar_j_vs_svrcina_d.md) |
 | Navone Vs Medjedovic | [navone_vs_medjedovic](navone_vs_medjedovic.md) |
 | Paul Vs Kovacevic | [paul_vs_kovacevic](paul_vs_kovacevic.md) |
+| Popyrin A Vs Muller A | [popyrin_a_vs_muller_a](popyrin_a_vs_muller_a.md) |
 | Ymer Vs Shevchenko | [ymer_vs_shevchenko](ymer_vs_shevchenko.md) |
