@@ -30,6 +30,7 @@ title: "January 19, 2026 - Tennis Reports"
 |-------|--------|
 | Bondar Vs Mandlik Ao2026 | [bondar_vs_mandlik_ao2026](australian-open-women/bondar_vs_mandlik_ao2026.md) |
 | Mertens E Vs Tararudee L | [mertens_e_vs_tararudee_l](australian-open-women/mertens_e_vs_tararudee_l.md) |
+| Sierra S Vs Uchijima M | [sierra_s_vs_uchijima_m](australian-open-women/sierra_s_vs_uchijima_m.md) |
 | Vekic D Vs Andreeva M | [vekic_d_vs_andreeva_m](australian-open-women/vekic_d_vs_andreeva_m.md) |
 | Yuan Y Vs Swiatek I | [yuan_y_vs_swiatek_i](australian-open-women/yuan_y_vs_swiatek_i.md) |
 
