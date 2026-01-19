@@ -15,6 +15,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](australian-open-women/krueger_a_vs_bejlek_s.md) |
 | Oliynykova O Vs Keys M | [oliynykova_o_vs_keys_m](australian-open-women/oliynykova_o_vs_keys_m.md) |
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](australian-open-women/pliskova_k_vs_stephens_s.md) |
+| Sun L Vs Fruhvirtova L | [sun_l_vs_fruhvirtova_l](australian-open-women/sun_l_vs_fruhvirtova_l.md) |
 | Udvardy P Vs Siniakova K | [udvardy_p_vs_siniakova_k](australian-open-women/udvardy_p_vs_siniakova_k.md) |
 | Valentova T Vs Joint M | [valentova_t_vs_joint_m](australian-open-women/valentova_t_vs_joint_m.md) |
 | Wang X Vs Kalinina A | [wang_x_vs_kalinina_a](australian-open-women/wang_x_vs_kalinina_a.md) |
