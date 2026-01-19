@@ -11,6 +11,7 @@ title: "January 19, 2026 - Tennis Reports"
 |-------|--------|
 | Altmaier D Vs Cilic M | [altmaier_d_vs_cilic_m](australian-open-men/altmaier_d_vs_cilic_m.md) |
 | Borges-Auger-Aliassime-2026-01-19 | [borges-auger-aliassime-2026-01-19](australian-open-men/borges-auger-aliassime-2026-01-19.md) |
+| Damm M Vs Vacherot V | [damm_m_vs_vacherot_v](australian-open-men/damm_m_vs_vacherot_v.md) |
 | Halys Vs Tabilo 2026-01-19 Australian Open | [halys_vs_tabilo_2026-01-19_australian_open](australian-open-men/halys_vs_tabilo_2026-01-19_australian_open.md) |
 | Lehecka J Vs Gea A | [lehecka_j_vs_gea_a](australian-open-men/lehecka_j_vs_gea_a.md) |
 | Mannarino A Vs Hijikata R | [mannarino_a_vs_hijikata_r](australian-open-men/mannarino_a_vs_hijikata_r.md) |
