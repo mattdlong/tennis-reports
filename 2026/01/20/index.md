@@ -15,6 +15,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Khachanov K Vs Michelsen A | [khachanov_k_vs_michelsen_a](australian-open-men/khachanov_k_vs_michelsen_a.md) |
 | Mpetshi Perricard G Vs Baez S | [mpetshi_perricard_g_vs_baez_s](australian-open-men/mpetshi_perricard_g_vs_baez_s.md) |
 | O'Connell C Vs Basavareddy N | [o'connell_c_vs_basavareddy_n](australian-open-men/o'connell_c_vs_basavareddy_n.md) |
+| Fonseca J Vs Spizzirri E | [fonseca_j_vs_spizzirri_e](australian-open-men/fonseca_j_vs_spizzirri_e.md) |
 
 ## Australian Open Women
 

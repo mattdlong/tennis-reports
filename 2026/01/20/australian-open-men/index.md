@@ -14,3 +14,4 @@ title: "Australian Open Men - January 20, 2026"
 | Khachanov K Vs Michelsen A | [khachanov_k_vs_michelsen_a](khachanov_k_vs_michelsen_a.md) |
 | Mpetshi Perricard G Vs Baez S | [mpetshi_perricard_g_vs_baez_s](mpetshi_perricard_g_vs_baez_s.md) |
 | O'Connell C Vs Basavareddy N | [o'connell_c_vs_basavareddy_n](o'connell_c_vs_basavareddy_n.md) |
+| Fonseca J Vs Spizzirri E | [fonseca_j_vs_spizzirri_e](fonseca_j_vs_spizzirri_e.md) |
