@@ -8,6 +8,7 @@ title: "Australian Open Women - January 20, 2026"
 
 | Match | Report |
 |-------|--------|
+| Boulter K Vs Bencic B | [boulter_k_vs_bencic_b](boulter_k_vs_bencic_b.md) |
 | Cirstea S Vs Lys E | [cirstea_s_vs_lys_e](cirstea_s_vs_lys_e.md) |
 | Fernandez L Vs Tjen J | [fernandez_l_vs_tjen_j](fernandez_l_vs_tjen_j.md) |
 | Grabher J Vs Cocciaretto E | [grabher_j_vs_cocciaretto_e](grabher_j_vs_cocciaretto_e.md) |
