@@ -18,6 +18,7 @@ title: "Australian Open Women - January 20, 2026"
 | Kasatkina D Vs Bartunkova N | [kasatkina_d_vs_bartunkova_n](kasatkina_d_vs_bartunkova_n.md) |
 | Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](krueger_a_vs_bejlek_s.md) |
 | Oliynykova O Vs Keys M | [oliynykova_o_vs_keys_m](oliynykova_o_vs_keys_m.md) |
+| Osaka N Vs Ruzic A | [osaka_n_vs_ruzic_a](osaka_n_vs_ruzic_a.md) |
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](pliskova_k_vs_stephens_s.md) |
 | Rybakina E Vs Juvan K | [rybakina_e_vs_juvan_k](rybakina_e_vs_juvan_k.md) |
 | Siegemund L Vs Samsonova L | [siegemund_l_vs_samsonova_l](siegemund_l_vs_samsonova_l.md) |
