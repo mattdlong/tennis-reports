@@ -12,4 +12,5 @@ title: "Australian Open Women - January 20, 2026"
 | Gracheva V Vs Golubic V | [gracheva_v_vs_golubic_v](gracheva_v_vs_golubic_v.md) |
 | Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](krueger_a_vs_bejlek_s.md) |
 | Udvardy P Vs Siniakova K | [udvardy_p_vs_siniakova_k](udvardy_p_vs_siniakova_k.md) |
+| Valentova T Vs Joint M | [valentova_t_vs_joint_m](valentova_t_vs_joint_m.md) |
 | Zhang S Vs Preston T | [zhang_s_vs_preston_t](zhang_s_vs_preston_t.md) |
