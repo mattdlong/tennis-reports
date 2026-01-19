@@ -29,4 +29,5 @@ title: "January 19, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Bondar Vs Mandlik Ao2026 | [bondar_vs_mandlik_ao2026](australian-open-women/bondar_vs_mandlik_ao2026.md) |
+| Vekic D Vs Andreeva M | [vekic_d_vs_andreeva_m](australian-open-women/vekic_d_vs_andreeva_m.md) |
 
