@@ -13,6 +13,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Musetti L Vs Collignon R | [musetti_l_vs_collignon_r](australian-open-men/musetti_l_vs_collignon_r.md) |
 | Quinn E Vs Griekspoor T | [quinn_e_vs_griekspoor_t](australian-open-men/quinn_e_vs_griekspoor_t.md) |
 | Khachanov K Vs Michelsen A | [khachanov_k_vs_michelsen_a](australian-open-men/khachanov_k_vs_michelsen_a.md) |
+| Mpetshi Perricard G Vs Baez S | [mpetshi_perricard_g_vs_baez_s](australian-open-men/mpetshi_perricard_g_vs_baez_s.md) |
 
 ## Australian Open Women
 
