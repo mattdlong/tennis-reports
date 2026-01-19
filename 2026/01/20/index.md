@@ -9,6 +9,7 @@ title: "January 20, 2026 - Tennis Reports"
 
 | Match | Report |
 |-------|--------|
+| Cirstea S Vs Lys E | [cirstea_s_vs_lys_e](australian-open-women/cirstea_s_vs_lys_e.md) |
 | Fernandez L Vs Tjen J | [fernandez_l_vs_tjen_j](australian-open-women/fernandez_l_vs_tjen_j.md) |
 | Grabher J Vs Cocciaretto E | [grabher_j_vs_cocciaretto_e](australian-open-women/grabher_j_vs_cocciaretto_e.md) |
 | Gracheva V Vs Golubic V | [gracheva_v_vs_golubic_v](australian-open-women/gracheva_v_vs_golubic_v.md) |
