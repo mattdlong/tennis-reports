@@ -12,6 +12,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Fernandez L Vs Tjen J | [fernandez_l_vs_tjen_j](australian-open-women/fernandez_l_vs_tjen_j.md) |
 | Grabher J Vs Cocciaretto E | [grabher_j_vs_cocciaretto_e](australian-open-women/grabher_j_vs_cocciaretto_e.md) |
 | Gracheva V Vs Golubic V | [gracheva_v_vs_golubic_v](australian-open-women/gracheva_v_vs_golubic_v.md) |
+| Kalinskaya A Vs Kartal S | [kalinskaya_a_vs_kartal_s](australian-open-women/kalinskaya_a_vs_kartal_s.md) |
 | Krueger A Vs Bejlek S | [krueger_a_vs_bejlek_s](australian-open-women/krueger_a_vs_bejlek_s.md) |
 | Oliynykova O Vs Keys M | [oliynykova_o_vs_keys_m](australian-open-women/oliynykova_o_vs_keys_m.md) |
 | Pliskova K Vs Stephens S | [pliskova_k_vs_stephens_s](australian-open-women/pliskova_k_vs_stephens_s.md) |
