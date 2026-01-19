@@ -14,6 +14,7 @@ title: "Australian Open Men - January 19, 2026"
 | Halys Vs Tabilo 2026-01-19 Australian Open | [halys_vs_tabilo_2026-01-19_australian_open](halys_vs_tabilo_2026-01-19_australian_open.md) |
 | Lehecka J Vs Gea A | [lehecka_j_vs_gea_a](lehecka_j_vs_gea_a.md) |
 | Mannarino A Vs Hijikata R | [mannarino_a_vs_hijikata_r](mannarino_a_vs_hijikata_r.md) |
+| Martinez P Vs Djokovic N | [martinez_p_vs_djokovic_n](martinez_p_vs_djokovic_n.md) |
 | Medvedev Vs Dejong Ao2026 R1 | [medvedev_vs_dejong_ao2026_r1](medvedev_vs_dejong_ao2026_r1.md) |
 | Munar J Vs Svrcina D | [munar_j_vs_svrcina_d](munar_j_vs_svrcina_d.md) |
 | Navone Vs Medjedovic | [navone_vs_medjedovic](navone_vs_medjedovic.md) |
