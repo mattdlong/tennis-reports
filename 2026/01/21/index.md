@@ -14,6 +14,7 @@ title: "January 21, 2026 - Tennis Reports"
 | Majchrzak K Vs Marozsan F | [majchrzak_k_vs_marozsan_f](australian-open-men/majchrzak_k_vs_marozsan_f.md) |
 | Faria J Vs Rublev A | [faria_j_vs_rublev_a](australian-open-men/faria_j_vs_rublev_a.md) |
 | Etcheverry T Vs Fery A | [etcheverry_t_vs_fery_a](australian-open-men/etcheverry_t_vs_fery_a.md) |
+| Medvedev D Vs Halys Q | [medvedev_d_vs_halys_q](australian-open-men/medvedev_d_vs_halys_q.md) |
 
 ## Australian Open Women
 
