@@ -19,4 +19,5 @@ title: "January 21, 2026 - Tennis Reports"
 | Mboko V Vs Mcnally C | [mboko_v_vs_mcnally_c](australian-open-women/mboko_v_vs_mcnally_c.md) |
 | Potapova A Vs Raducanu E | [potapova_a_vs_raducanu_e](australian-open-women/potapova_a_vs_raducanu_e.md) |
 | Frech M Vs Paolini J | [frech_m_vs_paolini_j](australian-open-women/frech_m_vs_paolini_j.md) |
+| Li A Vs Linette M | [li_a_vs_linette_m](australian-open-women/li_a_vs_linette_m.md) |
 
