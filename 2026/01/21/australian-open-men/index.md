@@ -15,3 +15,4 @@ title: "Australian Open Men - January 21, 2026"
 | Etcheverry T Vs Fery A | [etcheverry_t_vs_fery_a](etcheverry_t_vs_fery_a.md) |
 | Medvedev D Vs Halys Q | [medvedev_d_vs_halys_q](medvedev_d_vs_halys_q.md) |
 | Opelka R Vs Davidovich Fokina A | [opelka_r_vs_davidovich_fokina_a](opelka_r_vs_davidovich_fokina_a.md) |
+| Alcaraz C Vs Hanfmann Y | [alcaraz_c_vs_hanfmann_y](alcaraz_c_vs_hanfmann_y.md) |
