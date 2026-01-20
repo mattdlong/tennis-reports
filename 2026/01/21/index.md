@@ -21,6 +21,7 @@ title: "January 21, 2026 - Tennis Reports"
 | Thompson J Vs Borges N | [thompson_j_vs_borges_n](australian-open-men/thompson_j_vs_borges_n.md) |
 | Nava E Vs Norrie C | [nava_e_vs_norrie_c](australian-open-men/nava_e_vs_norrie_c.md) |
 | Tien L Vs Shevchenko A | [tien_l_vs_shevchenko_a](australian-open-men/tien_l_vs_shevchenko_a.md) |
+| Zverev A Vs Muller A | [zverev_a_vs_muller_a](australian-open-men/zverev_a_vs_muller_a.md) |
 
 ## Australian Open Women
 
