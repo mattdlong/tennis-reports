@@ -17,6 +17,7 @@ title: "January 21, 2026 - Tennis Reports"
 | Medvedev D Vs Halys Q | [medvedev_d_vs_halys_q](australian-open-men/medvedev_d_vs_halys_q.md) |
 | Opelka R Vs Davidovich Fokina A | [opelka_r_vs_davidovich_fokina_a](australian-open-men/opelka_r_vs_davidovich_fokina_a.md) |
 | Alcaraz C Vs Hanfmann Y | [alcaraz_c_vs_hanfmann_y](australian-open-men/alcaraz_c_vs_hanfmann_y.md) |
+| Bublik A Vs Fucsovics M | [bublik_a_vs_fucsovics_m](australian-open-men/bublik_a_vs_fucsovics_m.md) |
 
 ## Australian Open Women
 
