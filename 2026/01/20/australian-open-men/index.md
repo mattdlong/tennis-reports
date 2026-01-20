@@ -22,3 +22,4 @@ title: "Australian Open Men - January 20, 2026"
 | Duckworth J Vs Prizmic D | [duckworth_j_vs_prizmic_d](duckworth_j_vs_prizmic_d.md) |
 | Kopriva V Vs Struff J | [kopriva_v_vs_struff_j](kopriva_v_vs_struff_j.md) |
 | Dimitrov G Vs Machac T | [dimitrov_g_vs_machac_t](dimitrov_g_vs_machac_t.md) |
+| Royer V Vs Fritz T | [royer_v_vs_fritz_t](royer_v_vs_fritz_t.md) |
