@@ -20,3 +20,4 @@ title: "Australian Open Men - January 20, 2026"
 | Nardi L Vs Wu Y | [nardi_l_vs_wu_y](nardi_l_vs_wu_y.md) |
 | Hurkacz H Vs Bergs Z | [hurkacz_h_vs_bergs_z](hurkacz_h_vs_bergs_z.md) |
 | Duckworth J Vs Prizmic D | [duckworth_j_vs_prizmic_d](duckworth_j_vs_prizmic_d.md) |
+| Kopriva V Vs Struff J | [kopriva_v_vs_struff_j](kopriva_v_vs_struff_j.md) |

@@ -21,6 +21,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Nardi L Vs Wu Y | [nardi_l_vs_wu_y](australian-open-men/nardi_l_vs_wu_y.md) |
 | Hurkacz H Vs Bergs Z | [hurkacz_h_vs_bergs_z](australian-open-men/hurkacz_h_vs_bergs_z.md) |
 | Duckworth J Vs Prizmic D | [duckworth_j_vs_prizmic_d](australian-open-men/duckworth_j_vs_prizmic_d.md) |
+| Kopriva V Vs Struff J | [kopriva_v_vs_struff_j](australian-open-men/kopriva_v_vs_struff_j.md) |
 
 ## Australian Open Women
 
