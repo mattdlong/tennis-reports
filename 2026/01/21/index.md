@@ -20,6 +20,7 @@ title: "January 21, 2026 - Tennis Reports"
 | Bublik A Vs Fucsovics M | [bublik_a_vs_fucsovics_m](australian-open-men/bublik_a_vs_fucsovics_m.md) |
 | Thompson J Vs Borges N | [thompson_j_vs_borges_n](australian-open-men/thompson_j_vs_borges_n.md) |
 | Nava E Vs Norrie C | [nava_e_vs_norrie_c](australian-open-men/nava_e_vs_norrie_c.md) |
+| Tien L Vs Shevchenko A | [tien_l_vs_shevchenko_a](australian-open-men/tien_l_vs_shevchenko_a.md) |
 
 ## Australian Open Women
 
