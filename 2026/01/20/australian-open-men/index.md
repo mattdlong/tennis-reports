@@ -24,3 +24,4 @@ title: "Australian Open Men - January 20, 2026"
 | Dimitrov G Vs Machac T | [dimitrov_g_vs_machac_t](dimitrov_g_vs_machac_t.md) |
 | Royer V Vs Fritz T | [royer_v_vs_fritz_t](royer_v_vs_fritz_t.md) |
 | Gaston H Vs Sinner J | [gaston_h_vs_sinner_j](gaston_h_vs_sinner_j.md) |
+| Mochizuki S Vs Tsitsipas S | [mochizuki_s_vs_tsitsipas_s](mochizuki_s_vs_tsitsipas_s.md) |
