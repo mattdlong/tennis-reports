@@ -19,6 +19,7 @@ title: "January 21, 2026 - Tennis Reports"
 | Alcaraz C Vs Hanfmann Y | [alcaraz_c_vs_hanfmann_y](australian-open-men/alcaraz_c_vs_hanfmann_y.md) |
 | Bublik A Vs Fucsovics M | [bublik_a_vs_fucsovics_m](australian-open-men/bublik_a_vs_fucsovics_m.md) |
 | Thompson J Vs Borges N | [thompson_j_vs_borges_n](australian-open-men/thompson_j_vs_borges_n.md) |
+| Nava E Vs Norrie C | [nava_e_vs_norrie_c](australian-open-men/nava_e_vs_norrie_c.md) |
 
 ## Australian Open Women
 
