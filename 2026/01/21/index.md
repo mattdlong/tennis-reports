@@ -22,4 +22,5 @@ title: "January 21, 2026 - Tennis Reports"
 | Li A Vs Linette M | [li_a_vs_linette_m](australian-open-women/li_a_vs_linette_m.md) |
 | Muchova K Vs Parks A | [muchova_k_vs_parks_a](australian-open-women/muchova_k_vs_parks_a.md) |
 | Ruse E Vs Tomljanovic A | [ruse_e_vs_tomljanovic_a](australian-open-women/ruse_e_vs_tomljanovic_a.md) |
+| Sakkari M Vs Andreeva M | [sakkari_m_vs_andreeva_m](australian-open-women/sakkari_m_vs_andreeva_m.md) |
 

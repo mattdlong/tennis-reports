@@ -21,3 +21,4 @@ title: "Australian Open Women - January 21, 2026"
 | Li A Vs Linette M | [li_a_vs_linette_m](li_a_vs_linette_m.md) |
 | Muchova K Vs Parks A | [muchova_k_vs_parks_a](muchova_k_vs_parks_a.md) |
 | Ruse E Vs Tomljanovic A | [ruse_e_vs_tomljanovic_a](ruse_e_vs_tomljanovic_a.md) |
+| Sakkari M Vs Andreeva M | [sakkari_m_vs_andreeva_m](sakkari_m_vs_andreeva_m.md) |
