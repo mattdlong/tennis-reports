@@ -16,4 +16,5 @@ title: "January 21, 2026 - Tennis Reports"
 | Hunter S Vs Baptiste H | [hunter_s_vs_baptiste_h](australian-open-women/hunter_s_vs_baptiste_h.md) |
 | Gauff C Vs Danilovic O | [gauff_c_vs_danilovic_o](australian-open-women/gauff_c_vs_danilovic_o.md) |
 | Kudermetova P Vs Tauson C | [kudermetova_p_vs_tauson_c](australian-open-women/kudermetova_p_vs_tauson_c.md) |
+| Mboko V Vs Mcnally C | [mboko_v_vs_mcnally_c](australian-open-women/mboko_v_vs_mcnally_c.md) |
 
