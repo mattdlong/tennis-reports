@@ -18,3 +18,4 @@ title: "Australian Open Men - January 20, 2026"
 | Shelton B Vs Humbert U | [shelton_b_vs_humbert_u](shelton_b_vs_humbert_u.md) |
 | Sweeny D Vs Monfils G | [sweeny_d_vs_monfils_g](sweeny_d_vs_monfils_g.md) |
 | Nardi L Vs Wu Y | [nardi_l_vs_wu_y](nardi_l_vs_wu_y.md) |
+| Hurkacz H Vs Bergs Z | [hurkacz_h_vs_bergs_z](hurkacz_h_vs_bergs_z.md) |

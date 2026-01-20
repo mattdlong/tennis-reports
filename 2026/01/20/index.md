@@ -19,6 +19,7 @@ title: "January 20, 2026 - Tennis Reports"
 | Shelton B Vs Humbert U | [shelton_b_vs_humbert_u](australian-open-men/shelton_b_vs_humbert_u.md) |
 | Sweeny D Vs Monfils G | [sweeny_d_vs_monfils_g](australian-open-men/sweeny_d_vs_monfils_g.md) |
 | Nardi L Vs Wu Y | [nardi_l_vs_wu_y](australian-open-men/nardi_l_vs_wu_y.md) |
+| Hurkacz H Vs Bergs Z | [hurkacz_h_vs_bergs_z](australian-open-men/hurkacz_h_vs_bergs_z.md) |
 
 ## Australian Open Women
 
