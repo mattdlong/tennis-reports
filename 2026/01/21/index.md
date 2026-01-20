@@ -14,4 +14,5 @@ title: "January 21, 2026 - Tennis Reports"
 | Gibson T Vs Shnaider D | [gibson_t_vs_shnaider_d](australian-open-women/gibson_t_vs_shnaider_d.md) |
 | Putintseva Y Vs Jacquemot E | [putintseva_y_vs_jacquemot_e](australian-open-women/putintseva_y_vs_jacquemot_e.md) |
 | Hunter S Vs Baptiste H | [hunter_s_vs_baptiste_h](australian-open-women/hunter_s_vs_baptiste_h.md) |
+| Gauff C Vs Danilovic O | [gauff_c_vs_danilovic_o](australian-open-women/gauff_c_vs_danilovic_o.md) |
 
