@@ -23,6 +23,7 @@ title: "January 21, 2026 - Tennis Reports"
 | Tien L Vs Shevchenko A | [tien_l_vs_shevchenko_a](australian-open-men/tien_l_vs_shevchenko_a.md) |
 | Zverev A Vs Muller A | [zverev_a_vs_muller_a](australian-open-men/zverev_a_vs_muller_a.md) |
 | Medjedovic H Vs De Minaur A | [medjedovic_h_vs_de_minaur_a](australian-open-men/medjedovic_h_vs_de_minaur_a.md) |
+| Tiafoe F Vs Comesana F | [tiafoe_f_vs_comesana_f](australian-open-men/tiafoe_f_vs_comesana_f.md) |
 
 ## Australian Open Women
 

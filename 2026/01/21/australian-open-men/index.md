@@ -22,3 +22,4 @@ title: "Australian Open Men - January 21, 2026"
 | Tien L Vs Shevchenko A | [tien_l_vs_shevchenko_a](tien_l_vs_shevchenko_a.md) |
 | Zverev A Vs Muller A | [zverev_a_vs_muller_a](zverev_a_vs_muller_a.md) |
 | Medjedovic H Vs De Minaur A | [medjedovic_h_vs_de_minaur_a](medjedovic_h_vs_de_minaur_a.md) |
+| Tiafoe F Vs Comesana F | [tiafoe_f_vs_comesana_f](tiafoe_f_vs_comesana_f.md) |
