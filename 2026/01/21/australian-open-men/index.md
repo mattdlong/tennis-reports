@@ -21,3 +21,4 @@ title: "Australian Open Men - January 21, 2026"
 | Nava E Vs Norrie C | [nava_e_vs_norrie_c](nava_e_vs_norrie_c.md) |
 | Tien L Vs Shevchenko A | [tien_l_vs_shevchenko_a](tien_l_vs_shevchenko_a.md) |
 | Zverev A Vs Muller A | [zverev_a_vs_muller_a](zverev_a_vs_muller_a.md) |
+| Medjedovic H Vs De Minaur A | [medjedovic_h_vs_de_minaur_a](medjedovic_h_vs_de_minaur_a.md) |
