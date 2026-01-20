@@ -12,3 +12,4 @@ title: "Australian Open Women - January 21, 2026"
 | Svitolina E Vs Klimovicova L | [svitolina_e_vs_klimovicova_l](svitolina_e_vs_klimovicova_l.md) |
 | Sabalenka A Vs Bai Z | [sabalenka_a_vs_bai_z](sabalenka_a_vs_bai_z.md) |
 | Putintseva Y Vs Jacquemot E | [putintseva_y_vs_jacquemot_e](putintseva_y_vs_jacquemot_e.md) |
+| Hunter S Vs Baptiste H | [hunter_s_vs_baptiste_h](hunter_s_vs_baptiste_h.md) |
