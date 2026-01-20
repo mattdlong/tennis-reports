@@ -5,6 +5,12 @@ title: "January 21, 2026 - Tennis Reports"
 
 # January 21, 2026
 
+## Australian Open Men
+
+| Match | Report |
+|-------|--------|
+| Cerundolo F Vs Dzumhur D | [cerundolo_f_vs_dzumhur_d](australian-open-men/cerundolo_f_vs_dzumhur_d.md) |
+
 ## Australian Open Women
 
 | Match | Report |
