@@ -17,3 +17,4 @@ title: "Australian Open Women - January 21, 2026"
 | Kudermetova P Vs Tauson C | [kudermetova_p_vs_tauson_c](kudermetova_p_vs_tauson_c.md) |
 | Mboko V Vs Mcnally C | [mboko_v_vs_mcnally_c](mboko_v_vs_mcnally_c.md) |
 | Potapova A Vs Raducanu E | [potapova_a_vs_raducanu_e](potapova_a_vs_raducanu_e.md) |
+| Frech M Vs Paolini J | [frech_m_vs_paolini_j](frech_m_vs_paolini_j.md) |
