@@ -20,4 +20,5 @@ title: "January 21, 2026 - Tennis Reports"
 | Potapova A Vs Raducanu E | [potapova_a_vs_raducanu_e](australian-open-women/potapova_a_vs_raducanu_e.md) |
 | Frech M Vs Paolini J | [frech_m_vs_paolini_j](australian-open-women/frech_m_vs_paolini_j.md) |
 | Li A Vs Linette M | [li_a_vs_linette_m](australian-open-women/li_a_vs_linette_m.md) |
+| Muchova K Vs Parks A | [muchova_k_vs_parks_a](australian-open-women/muchova_k_vs_parks_a.md) |
 
