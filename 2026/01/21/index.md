@@ -14,4 +14,5 @@ title: "January 21, 2026 - Tennis Reports"
 | Sabalenka A Vs Bai Z | [sabalenka_a_vs_bai_z](australian-open-women/sabalenka_a_vs_bai_z.md) |
 | Putintseva Y Vs Jacquemot E | [putintseva_y_vs_jacquemot_e](australian-open-women/putintseva_y_vs_jacquemot_e.md) |
 | Hunter S Vs Baptiste H | [hunter_s_vs_baptiste_h](australian-open-women/hunter_s_vs_baptiste_h.md) |
+| Gauff C Vs Danilovic O | [gauff_c_vs_danilovic_o](australian-open-women/gauff_c_vs_danilovic_o.md) |
 
