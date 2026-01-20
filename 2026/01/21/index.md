@@ -11,6 +11,7 @@ title: "January 21, 2026 - Tennis Reports"
 |-------|--------|
 | Cerundolo F Vs Dzumhur D | [cerundolo_f_vs_dzumhur_d](australian-open-men/cerundolo_f_vs_dzumhur_d.md) |
 | Paul T Vs Tirante T | [paul_t_vs_tirante_t](australian-open-men/paul_t_vs_tirante_t.md) |
+| Majchrzak K Vs Marozsan F | [majchrzak_k_vs_marozsan_f](australian-open-men/majchrzak_k_vs_marozsan_f.md) |
 
 ## Australian Open Women
 
