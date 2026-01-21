@@ -12,6 +12,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Hijikata R Vs Vacherot V | [hijikata_r_vs_vacherot_v](australian-open-men/hijikata_r_vs_vacherot_v.md) |
 | Baez S Vs Darderi L | [baez_s_vs_darderi_l](australian-open-men/baez_s_vs_darderi_l.md) |
 | Khachanov K Vs Basavareddy N | [khachanov_k_vs_basavareddy_n](australian-open-men/khachanov_k_vs_basavareddy_n.md) |
+| Mensik J Vs Jodar R | [mensik_j_vs_jodar_r](australian-open-men/mensik_j_vs_jodar_r.md) |
 
 ## Australian Open Women
 
