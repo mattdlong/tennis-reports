@@ -14,6 +14,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Khachanov K Vs Basavareddy N | [khachanov_k_vs_basavareddy_n](australian-open-men/khachanov_k_vs_basavareddy_n.md) |
 | Mensik J Vs Jodar R | [mensik_j_vs_jodar_r](australian-open-men/mensik_j_vs_jodar_r.md) |
 | Musetti L Vs Sonego L | [musetti_l_vs_sonego_l](australian-open-men/musetti_l_vs_sonego_l.md) |
+| Hurkacz H Vs Quinn E | [hurkacz_h_vs_quinn_e](australian-open-men/hurkacz_h_vs_quinn_e.md) |
 
 ## Australian Open Women
 
