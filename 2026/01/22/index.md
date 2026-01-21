@@ -16,6 +16,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Musetti L Vs Sonego L | [musetti_l_vs_sonego_l](australian-open-men/musetti_l_vs_sonego_l.md) |
 | Hurkacz H Vs Quinn E | [hurkacz_h_vs_quinn_e](australian-open-men/hurkacz_h_vs_quinn_e.md) |
 | Van De Zandschulp B Vs Shang J | [van_de_zandschulp_b_vs_shang_j](australian-open-men/van_de_zandschulp_b_vs_shang_j.md) |
+| Machac T Vs Tsitsipas S | [machac_t_vs_tsitsipas_s](australian-open-men/machac_t_vs_tsitsipas_s.md) |
 
 ## Australian Open Women
 
