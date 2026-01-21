@@ -15,6 +15,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Mensik J Vs Jodar R | [mensik_j_vs_jodar_r](australian-open-men/mensik_j_vs_jodar_r.md) |
 | Musetti L Vs Sonego L | [musetti_l_vs_sonego_l](australian-open-men/musetti_l_vs_sonego_l.md) |
 | Hurkacz H Vs Quinn E | [hurkacz_h_vs_quinn_e](australian-open-men/hurkacz_h_vs_quinn_e.md) |
+| Van De Zandschulp B Vs Shang J | [van_de_zandschulp_b_vs_shang_j](australian-open-men/van_de_zandschulp_b_vs_shang_j.md) |
 
 ## Australian Open Women
 
