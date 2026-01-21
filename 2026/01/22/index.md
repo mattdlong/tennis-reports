@@ -14,4 +14,5 @@ title: "January 22, 2026 - Tennis Reports"
 | Kalinskaya A Vs Grabher J | [kalinskaya_a_vs_grabher_j](australian-open-women/kalinskaya_a_vs_grabher_j.md) |
 | Inglis M Vs Siegemund L | [inglis_m_vs_siegemund_l](australian-open-women/inglis_m_vs_siegemund_l.md) |
 | Siniakova K Vs Anisimova A | [siniakova_k_vs_anisimova_a](australian-open-women/siniakova_k_vs_anisimova_a.md) |
+| Fruhvirtova L Vs Valentova T | [fruhvirtova_l_vs_valentova_t](australian-open-women/fruhvirtova_l_vs_valentova_t.md) |
 

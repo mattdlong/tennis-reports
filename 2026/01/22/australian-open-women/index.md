@@ -13,3 +13,4 @@ title: "Australian Open Women - January 22, 2026"
 | Kalinskaya A Vs Grabher J | [kalinskaya_a_vs_grabher_j](kalinskaya_a_vs_grabher_j.md) |
 | Inglis M Vs Siegemund L | [inglis_m_vs_siegemund_l](inglis_m_vs_siegemund_l.md) |
 | Siniakova K Vs Anisimova A | [siniakova_k_vs_anisimova_a](siniakova_k_vs_anisimova_a.md) |
+| Fruhvirtova L Vs Valentova T | [fruhvirtova_l_vs_valentova_t](fruhvirtova_l_vs_valentova_t.md) |
