@@ -5,6 +5,12 @@ title: "January 22, 2026 - Tennis Reports"
 
 # January 22, 2026
 
+## Australian Open Men
+
+| Match | Report |
+|-------|--------|
+| Hijikata R Vs Vacherot V | [hijikata_r_vs_vacherot_v](australian-open-men/hijikata_r_vs_vacherot_v.md) |
+
 ## Australian Open Women
 
 | Match | Report |
