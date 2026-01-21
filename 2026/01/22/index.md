@@ -17,6 +17,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Hurkacz H Vs Quinn E | [hurkacz_h_vs_quinn_e](australian-open-men/hurkacz_h_vs_quinn_e.md) |
 | Van De Zandschulp B Vs Shang J | [van_de_zandschulp_b_vs_shang_j](australian-open-men/van_de_zandschulp_b_vs_shang_j.md) |
 | Machac T Vs Tsitsipas S | [machac_t_vs_tsitsipas_s](australian-open-men/machac_t_vs_tsitsipas_s.md) |
+| Shapovalov D Vs Cilic M | [shapovalov_d_vs_cilic_m](australian-open-men/shapovalov_d_vs_cilic_m.md) |
 
 ## Australian Open Women
 

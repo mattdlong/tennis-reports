@@ -16,3 +16,4 @@ title: "Australian Open Men - January 22, 2026"
 | Hurkacz H Vs Quinn E | [hurkacz_h_vs_quinn_e](hurkacz_h_vs_quinn_e.md) |
 | Van De Zandschulp B Vs Shang J | [van_de_zandschulp_b_vs_shang_j](van_de_zandschulp_b_vs_shang_j.md) |
 | Machac T Vs Tsitsipas S | [machac_t_vs_tsitsipas_s](machac_t_vs_tsitsipas_s.md) |
+| Shapovalov D Vs Cilic M | [shapovalov_d_vs_cilic_m](shapovalov_d_vs_cilic_m.md) |
