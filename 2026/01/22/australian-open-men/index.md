@@ -19,3 +19,4 @@ title: "Australian Open Men - January 22, 2026"
 | Shapovalov D Vs Cilic M | [shapovalov_d_vs_cilic_m](shapovalov_d_vs_cilic_m.md) |
 | Kopriva V Vs Fritz T | [kopriva_v_vs_fritz_t](kopriva_v_vs_fritz_t.md) |
 | Duckworth J Vs Sinner J | [duckworth_j_vs_sinner_j](duckworth_j_vs_sinner_j.md) |
+| Munar J Vs Ruud C | [munar_j_vs_ruud_c](munar_j_vs_ruud_c.md) |

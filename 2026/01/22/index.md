@@ -20,6 +20,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Shapovalov D Vs Cilic M | [shapovalov_d_vs_cilic_m](australian-open-men/shapovalov_d_vs_cilic_m.md) |
 | Kopriva V Vs Fritz T | [kopriva_v_vs_fritz_t](australian-open-men/kopriva_v_vs_fritz_t.md) |
 | Duckworth J Vs Sinner J | [duckworth_j_vs_sinner_j](australian-open-men/duckworth_j_vs_sinner_j.md) |
+| Munar J Vs Ruud C | [munar_j_vs_ruud_c](australian-open-men/munar_j_vs_ruud_c.md) |
 
 ## Australian Open Women
 
