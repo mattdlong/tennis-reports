@@ -16,4 +16,5 @@ title: "January 22, 2026 - Tennis Reports"
 | Siniakova K Vs Anisimova A | [siniakova_k_vs_anisimova_a](australian-open-women/siniakova_k_vs_anisimova_a.md) |
 | Fruhvirtova L Vs Valentova T | [fruhvirtova_l_vs_valentova_t](australian-open-women/fruhvirtova_l_vs_valentova_t.md) |
 | Bartunkova N Vs Bencic B | [bartunkova_n_vs_bencic_b](australian-open-women/bartunkova_n_vs_bencic_b.md) |
+| Bouzkova M Vs Swiatek I | [bouzkova_m_vs_swiatek_i](australian-open-women/bouzkova_m_vs_swiatek_i.md) |
 

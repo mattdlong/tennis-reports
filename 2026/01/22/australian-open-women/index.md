@@ -15,3 +15,4 @@ title: "Australian Open Women - January 22, 2026"
 | Siniakova K Vs Anisimova A | [siniakova_k_vs_anisimova_a](siniakova_k_vs_anisimova_a.md) |
 | Fruhvirtova L Vs Valentova T | [fruhvirtova_l_vs_valentova_t](fruhvirtova_l_vs_valentova_t.md) |
 | Bartunkova N Vs Bencic B | [bartunkova_n_vs_bencic_b](bartunkova_n_vs_bencic_b.md) |
+| Bouzkova M Vs Swiatek I | [bouzkova_m_vs_swiatek_i](bouzkova_m_vs_swiatek_i.md) |
