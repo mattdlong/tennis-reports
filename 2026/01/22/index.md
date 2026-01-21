@@ -10,6 +10,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Hijikata R Vs Vacherot V | [hijikata_r_vs_vacherot_v](australian-open-men/hijikata_r_vs_vacherot_v.md) |
+| Baez S Vs Darderi L | [baez_s_vs_darderi_l](australian-open-men/baez_s_vs_darderi_l.md) |
 
 ## Australian Open Women
 
