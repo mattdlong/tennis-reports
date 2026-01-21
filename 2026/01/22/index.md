@@ -13,6 +13,7 @@ title: "January 22, 2026 - Tennis Reports"
 | Baez S Vs Darderi L | [baez_s_vs_darderi_l](australian-open-men/baez_s_vs_darderi_l.md) |
 | Khachanov K Vs Basavareddy N | [khachanov_k_vs_basavareddy_n](australian-open-men/khachanov_k_vs_basavareddy_n.md) |
 | Mensik J Vs Jodar R | [mensik_j_vs_jodar_r](australian-open-men/mensik_j_vs_jodar_r.md) |
+| Musetti L Vs Sonego L | [musetti_l_vs_sonego_l](australian-open-men/musetti_l_vs_sonego_l.md) |
 
 ## Australian Open Women
 
