@@ -10,3 +10,4 @@ title: "Australian Open Women - January 23, 2026"
 |-------|--------|
 | Muchova K Vs Linette M | [muchova_k_vs_linette_m](muchova_k_vs_linette_m.md) |
 | Svitolina E Vs Shnaider D | [svitolina_e_vs_shnaider_d](svitolina_e_vs_shnaider_d.md) |
+| Ruse E Vs Andreeva M | [ruse_e_vs_andreeva_m](ruse_e_vs_andreeva_m.md) |
