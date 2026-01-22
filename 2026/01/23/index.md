@@ -5,6 +5,12 @@ title: "January 23, 2026 - Tennis Reports"
 
 # January 23, 2026
 
+## Australian Open Men
+
+| Match | Report |
+|-------|--------|
+| Tien L Vs Borges N | [tien_l_vs_borges_n](australian-open-men/tien_l_vs_borges_n.md) |
+
 ## Australian Open Women
 
 | Match | Report |
