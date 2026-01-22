@@ -11,6 +11,7 @@ title: "January 23, 2026 - Tennis Reports"
 |-------|--------|
 | Tien L Vs Borges N | [tien_l_vs_borges_n](australian-open-men/tien_l_vs_borges_n.md) |
 | Medvedev D Vs Marozsan F | [medvedev_d_vs_marozsan_f](australian-open-men/medvedev_d_vs_marozsan_f.md) |
+| Paul T Vs Davidovich Fokina A | [paul_t_vs_davidovich_fokina_a](australian-open-men/paul_t_vs_davidovich_fokina_a.md) |
 
 ## Australian Open Women
 
