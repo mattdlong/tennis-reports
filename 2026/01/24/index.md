@@ -10,6 +10,7 @@ title: "January 24, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Khachanov K Vs Darderi L | [khachanov_k_vs_darderi_l](australian-open-men/khachanov_k_vs_darderi_l.md) |
+| Musetti L Vs Machac T | [musetti_l_vs_machac_t](australian-open-men/musetti_l_vs_machac_t.md) |
 
 ## Australian Open Women
 
