@@ -23,4 +23,5 @@ title: "January 24, 2026 - Tennis Reports"
 | Stearns P Vs Anisimova A | [stearns_p_vs_anisimova_a](australian-open-women/stearns_p_vs_anisimova_a.md) |
 | Kalinskaya A Vs Swiatek I | [kalinskaya_a_vs_swiatek_i](australian-open-women/kalinskaya_a_vs_swiatek_i.md) |
 | Rybakina E Vs Valentova T | [rybakina_e_vs_valentova_t](australian-open-women/rybakina_e_vs_valentova_t.md) |
+| Osaka N Vs Inglis M | [osaka_n_vs_inglis_m](australian-open-women/osaka_n_vs_inglis_m.md) |
 
