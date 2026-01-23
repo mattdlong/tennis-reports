@@ -14,6 +14,7 @@ title: "January 24, 2026 - Tennis Reports"
 | Spizzirri E Vs Sinner J | [spizzirri_e_vs_sinner_j](australian-open-men/spizzirri_e_vs_sinner_j.md) |
 | Wawrinka S Vs Fritz T | [wawrinka_s_vs_fritz_t](australian-open-men/wawrinka_s_vs_fritz_t.md) |
 | Mensik J Vs Quinn E | [mensik_j_vs_quinn_e](australian-open-men/mensik_j_vs_quinn_e.md) |
+| Van De Zandschulp B Vs Djokovic N | [van_de_zandschulp_b_vs_djokovic_n](australian-open-men/van_de_zandschulp_b_vs_djokovic_n.md) |
 
 ## Australian Open Women
 
