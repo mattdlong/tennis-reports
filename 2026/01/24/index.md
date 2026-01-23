@@ -19,4 +19,5 @@ title: "January 24, 2026 - Tennis Reports"
 |-------|--------|
 | Pegula J Vs Selekhmeteva O | [pegula_j_vs_selekhmeteva_o](australian-open-women/pegula_j_vs_selekhmeteva_o.md) |
 | Stearns P Vs Anisimova A | [stearns_p_vs_anisimova_a](australian-open-women/stearns_p_vs_anisimova_a.md) |
+| Kalinskaya A Vs Swiatek I | [kalinskaya_a_vs_swiatek_i](australian-open-women/kalinskaya_a_vs_swiatek_i.md) |
 
