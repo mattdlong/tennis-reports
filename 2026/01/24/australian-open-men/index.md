@@ -14,3 +14,4 @@ title: "Australian Open Men - January 24, 2026"
 | Wawrinka S Vs Fritz T | [wawrinka_s_vs_fritz_t](wawrinka_s_vs_fritz_t.md) |
 | Mensik J Vs Quinn E | [mensik_j_vs_quinn_e](mensik_j_vs_quinn_e.md) |
 | Van De Zandschulp B Vs Djokovic N | [van_de_zandschulp_b_vs_djokovic_n](van_de_zandschulp_b_vs_djokovic_n.md) |
+| Cilic M Vs Ruud C | [cilic_m_vs_ruud_c](cilic_m_vs_ruud_c.md) |
