@@ -9,3 +9,4 @@ title: "Australian Open Women - January 24, 2026"
 | Match | Report |
 |-------|--------|
 | Pegula J Vs Selekhmeteva O | [pegula_j_vs_selekhmeteva_o](pegula_j_vs_selekhmeteva_o.md) |
+| Stearns P Vs Anisimova A | [stearns_p_vs_anisimova_a](stearns_p_vs_anisimova_a.md) |
