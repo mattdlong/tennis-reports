@@ -5,6 +5,12 @@ title: "January 24, 2026 - Tennis Reports"
 
 # January 24, 2026
 
+## Australian Open Men
+
+| Match | Report |
+|-------|--------|
+| Khachanov K Vs Darderi L | [khachanov_k_vs_darderi_l](australian-open-men/khachanov_k_vs_darderi_l.md) |
+
 ## Australian Open Women
 
 | Match | Report |
