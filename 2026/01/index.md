@@ -19,4 +19,4 @@ title: "January 2026 - Tennis Reports"
 | [January 22](22/) | [Australian Open Men](22/australian-open-men/) (12), [Australian Open Women](22/australian-open-women/) (9) |
 | [January 23](23/) | [Australian Open Men](23/australian-open-men/) (6), [Australian Open Women](23/australian-open-women/) (3) |
 | [January 24](24/) | [Australian Open Men](24/australian-open-men/) (7), [Australian Open Women](24/australian-open-women/) (5) |
-| [January 25](25/) | [Australian Open Men](25/australian-open-men/) (3) |
+| [January 25](25/) | [Australian Open Men](25/australian-open-men/) (3), [Australian Open Women](25/australian-open-women/) (1) |
