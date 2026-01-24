@@ -18,4 +18,5 @@ title: "January 25, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Sabalenka A Vs Mboko V | [sabalenka_a_vs_mboko_v](australian-open-women/sabalenka_a_vs_mboko_v.md) |
+| Gauff C Vs Muchova K | [gauff_c_vs_muchova_k](australian-open-women/gauff_c_vs_muchova_k.md) |
 
