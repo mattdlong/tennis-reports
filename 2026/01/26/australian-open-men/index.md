@@ -10,3 +10,4 @@ title: "Australian Open Men - January 26, 2026"
 |-------|--------|
 | Darderi L Vs Sinner J | [darderi_l_vs_sinner_j](darderi_l_vs_sinner_j.md) |
 | Musetti L Vs Fritz T | [musetti_l_vs_fritz_t](musetti_l_vs_fritz_t.md) |
+| Mensik J Vs Djokovic N | [mensik_j_vs_djokovic_n](mensik_j_vs_djokovic_n.md) |

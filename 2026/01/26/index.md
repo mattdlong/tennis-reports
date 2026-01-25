@@ -11,4 +11,5 @@ title: "January 26, 2026 - Tennis Reports"
 |-------|--------|
 | Darderi L Vs Sinner J | [darderi_l_vs_sinner_j](australian-open-men/darderi_l_vs_sinner_j.md) |
 | Musetti L Vs Fritz T | [musetti_l_vs_fritz_t](australian-open-men/musetti_l_vs_fritz_t.md) |
+| Mensik J Vs Djokovic N | [mensik_j_vs_djokovic_n](australian-open-men/mensik_j_vs_djokovic_n.md) |
 
