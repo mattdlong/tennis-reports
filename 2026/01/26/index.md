@@ -18,4 +18,5 @@ title: "January 26, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Pegula J Vs Keys M | [pegula_j_vs_keys_m](australian-open-women/pegula_j_vs_keys_m.md) |
+| Inglis M Vs Swiatek I | [inglis_m_vs_swiatek_i](australian-open-women/inglis_m_vs_swiatek_i.md) |
 
