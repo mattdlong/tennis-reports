@@ -16,4 +16,5 @@ title: "January 27, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Pegula J Vs Anisimova A | [pegula_j_vs_anisimova_a](australian-open-women/pegula_j_vs_anisimova_a.md) |
+| Gauff C Vs Svitolina E | [gauff_c_vs_svitolina_e](australian-open-women/gauff_c_vs_svitolina_e.md) |
 
