@@ -11,3 +11,9 @@ title: "January 27, 2026 - Tennis Reports"
 |-------|--------|
 | Musetti L Vs Djokovic N | [musetti_l_vs_djokovic_n](australian-open-men/musetti_l_vs_djokovic_n.md) |
 
+## Australian Open Women
+
+| Match | Report |
+|-------|--------|
+| Pegula J Vs Anisimova A | [pegula_j_vs_anisimova_a](australian-open-women/pegula_j_vs_anisimova_a.md) |
+

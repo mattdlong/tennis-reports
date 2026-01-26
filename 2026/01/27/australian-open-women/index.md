@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Australian Open Women - January 27, 2026"
+---
+
+# Australian Open Women
+## January 27, 2026
+
+| Match | Report |
+|-------|--------|
+| Pegula J Vs Anisimova A | [pegula_j_vs_anisimova_a](pegula_j_vs_anisimova_a.md) |
