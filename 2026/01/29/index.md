@@ -10,4 +10,5 @@ title: "January 29, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Sabalenka A Vs Svitolina E | [sabalenka_a_vs_svitolina_e](australian-open-women/sabalenka_a_vs_svitolina_e.md) |
+| Pegula J Vs Rybakina E | [pegula_j_vs_rybakina_e](australian-open-women/pegula_j_vs_rybakina_e.md) |
 
