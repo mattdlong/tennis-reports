@@ -7,4 +7,4 @@ title: "2026 - Tennis Reports"
 
 | Month | Days |
 |-------|------|
-| [January](01/) | 17 days |
+| [January](01/) | 18 days |
