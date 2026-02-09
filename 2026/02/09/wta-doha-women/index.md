@@ -18,3 +18,4 @@ title: "Wta Doha Women - February 9, 2026"
 | E Raducanu Vs C Osorio | [e_raducanu_vs_c_osorio](e_raducanu_vs_c_osorio.md) |
 | A Anisimova Vs Ka Pliskova | [a_anisimova_vs_ka_pliskova](a_anisimova_vs_ka_pliskova.md) |
 | J Tjen Vs B Haddad Maia | [j_tjen_vs_b_haddad_maia](j_tjen_vs_b_haddad_maia.md) |
+| M Andreeva Vs M Linette | [m_andreeva_vs_m_linette](m_andreeva_vs_m_linette.md) |
