@@ -13,3 +13,4 @@ title: "Wta Doha Women - February 9, 2026"
 | A Eala Vs T Valentova | [a_eala_vs_t_valentova](a_eala_vs_t_valentova.md) |
 | A Zakharova Vs J Ostapenko | [a_zakharova_vs_j_ostapenko](a_zakharova_vs_j_ostapenko.md) |
 | Q Zheng Vs S Kenin | [q_zheng_vs_s_kenin](q_zheng_vs_s_kenin.md) |
+| M Sakkari Vs Z Sonmez | [m_sakkari_vs_z_sonmez](m_sakkari_vs_z_sonmez.md) |
