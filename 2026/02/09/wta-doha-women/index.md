@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Wta Doha Women - February 9, 2026"
+---
+
+# Wta Doha Women
+## February 9, 2026
+
+| Match | Report |
+|-------|--------|
+| K Siniakova Vs C Tauson | [k_siniakova_vs_c_tauson](k_siniakova_vs_c_tauson.md) |
