@@ -18,4 +18,5 @@ title: "February 9, 2026 - Tennis Reports"
 | A Kalinskaya Vs J Bouzas Maneiro | [a_kalinskaya_vs_j_bouzas_maneiro](wta-doha-women/a_kalinskaya_vs_j_bouzas_maneiro.md) |
 | E Raducanu Vs C Osorio | [e_raducanu_vs_c_osorio](wta-doha-women/e_raducanu_vs_c_osorio.md) |
 | A Anisimova Vs Ka Pliskova | [a_anisimova_vs_ka_pliskova](wta-doha-women/a_anisimova_vs_ka_pliskova.md) |
+| J Tjen Vs B Haddad Maia | [j_tjen_vs_b_haddad_maia](wta-doha-women/j_tjen_vs_b_haddad_maia.md) |
 
