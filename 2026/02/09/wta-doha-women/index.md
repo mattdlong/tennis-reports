@@ -15,3 +15,4 @@ title: "Wta Doha Women - February 9, 2026"
 | Q Zheng Vs S Kenin | [q_zheng_vs_s_kenin](q_zheng_vs_s_kenin.md) |
 | M Sakkari Vs Z Sonmez | [m_sakkari_vs_z_sonmez](m_sakkari_vs_z_sonmez.md) |
 | A Kalinskaya Vs J Bouzas Maneiro | [a_kalinskaya_vs_j_bouzas_maneiro](a_kalinskaya_vs_j_bouzas_maneiro.md) |
+| E Raducanu Vs C Osorio | [e_raducanu_vs_c_osorio](e_raducanu_vs_c_osorio.md) |
