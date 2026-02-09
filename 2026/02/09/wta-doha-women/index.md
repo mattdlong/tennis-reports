@@ -9,3 +9,4 @@ title: "Wta Doha Women - February 9, 2026"
 | Match | Report |
 |-------|--------|
 | K Siniakova Vs C Tauson | [k_siniakova_vs_c_tauson](k_siniakova_vs_c_tauson.md) |
+| E Navarro Vs T Maria | [e_navarro_vs_t_maria](e_navarro_vs_t_maria.md) |
