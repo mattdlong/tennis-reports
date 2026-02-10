@@ -13,6 +13,7 @@ title: "February 10, 2026 - Tennis Reports"
 | G Dimitrov Vs A Michelsen | [g_dimitrov_vs_a_michelsen](atp-dallas-men/g_dimitrov_vs_a_michelsen.md) |
 | S Shimabukuro Vs M Kecmanovic | [s_shimabukuro_vs_m_kecmanovic](atp-dallas-men/s_shimabukuro_vs_m_kecmanovic.md) |
 | G Diallo Vs B Shelton | [g_diallo_vs_b_shelton](atp-dallas-men/g_diallo_vs_b_shelton.md) |
+| F Cobolli Vs J Pinnington Jones | [f_cobolli_vs_j_pinnington_jones](atp-dallas-men/f_cobolli_vs_j_pinnington_jones.md) |
 
 ## Wta Doha Women
 
