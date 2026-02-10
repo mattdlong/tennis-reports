@@ -11,6 +11,7 @@ title: "February 10, 2026 - Tennis Reports"
 |-------|--------|
 | M Cilic Vs L Tien | [m_cilic_vs_l_tien](atp-dallas-men/m_cilic_vs_l_tien.md) |
 | G Dimitrov Vs A Michelsen | [g_dimitrov_vs_a_michelsen](atp-dallas-men/g_dimitrov_vs_a_michelsen.md) |
+| S Shimabukuro Vs M Kecmanovic | [s_shimabukuro_vs_m_kecmanovic](atp-dallas-men/s_shimabukuro_vs_m_kecmanovic.md) |
 
 ## Wta Doha Women
 
