@@ -5,6 +5,12 @@ title: "February 10, 2026 - Tennis Reports"
 
 # February 10, 2026
 
+## Atp Dallas Men
+
+| Match | Report |
+|-------|--------|
+| M Cilic Vs L Tien | [m_cilic_vs_l_tien](atp-dallas-men/m_cilic_vs_l_tien.md) |
+
 ## Wta Doha Women
 
 | Match | Report |
