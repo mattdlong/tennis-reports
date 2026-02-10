@@ -17,3 +17,4 @@ title: "Wta Doha Women - February 10, 2026"
 | L Noskova Vs V Gracheva | [l_noskova_vs_v_gracheva](l_noskova_vs_v_gracheva.md) |
 | D Yastremska Vs E Svitolina | [d_yastremska_vs_e_svitolina](d_yastremska_vs_e_svitolina.md) |
 | C Osorio Vs K Siniakova | [c_osorio_vs_k_siniakova](c_osorio_vs_k_siniakova.md) |
+| I Swiatek Vs J Tjen | [i_swiatek_vs_j_tjen](i_swiatek_vs_j_tjen.md) |

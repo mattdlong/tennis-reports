@@ -18,4 +18,5 @@ title: "February 10, 2026 - Tennis Reports"
 | L Noskova Vs V Gracheva | [l_noskova_vs_v_gracheva](wta-doha-women/l_noskova_vs_v_gracheva.md) |
 | D Yastremska Vs E Svitolina | [d_yastremska_vs_e_svitolina](wta-doha-women/d_yastremska_vs_e_svitolina.md) |
 | C Osorio Vs K Siniakova | [c_osorio_vs_k_siniakova](wta-doha-women/c_osorio_vs_k_siniakova.md) |
+| I Swiatek Vs J Tjen | [i_swiatek_vs_j_tjen](wta-doha-women/i_swiatek_vs_j_tjen.md) |
 
