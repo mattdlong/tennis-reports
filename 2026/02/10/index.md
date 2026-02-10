@@ -21,4 +21,5 @@ title: "February 10, 2026 - Tennis Reports"
 | I Swiatek Vs J Tjen | [i_swiatek_vs_j_tjen](wta-doha-women/i_swiatek_vs_j_tjen.md) |
 | T Valentova Vs K Muchova | [t_valentova_vs_k_muchova](wta-doha-women/t_valentova_vs_k_muchova.md) |
 | A Parks Vs Q Zheng | [a_parks_vs_q_zheng](wta-doha-women/a_parks_vs_q_zheng.md) |
+| Xin Wang Vs E Rybakina | [xin_wang_vs_e_rybakina](wta-doha-women/xin_wang_vs_e_rybakina.md) |
 
