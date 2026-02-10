@@ -15,4 +15,5 @@ title: "February 10, 2026 - Tennis Reports"
 | E Alexandrova Vs J Ostapenko | [e_alexandrova_vs_j_ostapenko](wta-doha-women/e_alexandrova_vs_j_ostapenko.md) |
 | E Cocciaretto Vs C Gauff | [e_cocciaretto_vs_c_gauff](wta-doha-women/e_cocciaretto_vs_c_gauff.md) |
 | V Zvonareva Vs V Mboko | [v_zvonareva_vs_v_mboko](wta-doha-women/v_zvonareva_vs_v_mboko.md) |
+| L Noskova Vs V Gracheva | [l_noskova_vs_v_gracheva](wta-doha-women/l_noskova_vs_v_gracheva.md) |
 
