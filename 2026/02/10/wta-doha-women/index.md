@@ -19,3 +19,4 @@ title: "Wta Doha Women - February 10, 2026"
 | C Osorio Vs K Siniakova | [c_osorio_vs_k_siniakova](c_osorio_vs_k_siniakova.md) |
 | I Swiatek Vs J Tjen | [i_swiatek_vs_j_tjen](i_swiatek_vs_j_tjen.md) |
 | T Valentova Vs K Muchova | [t_valentova_vs_k_muchova](t_valentova_vs_k_muchova.md) |
+| A Parks Vs Q Zheng | [a_parks_vs_q_zheng](a_parks_vs_q_zheng.md) |
