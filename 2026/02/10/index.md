@@ -22,4 +22,5 @@ title: "February 10, 2026 - Tennis Reports"
 | T Valentova Vs K Muchova | [t_valentova_vs_k_muchova](wta-doha-women/t_valentova_vs_k_muchova.md) |
 | A Parks Vs Q Zheng | [a_parks_vs_q_zheng](wta-doha-women/a_parks_vs_q_zheng.md) |
 | Xin Wang Vs E Rybakina | [xin_wang_vs_e_rybakina](wta-doha-women/xin_wang_vs_e_rybakina.md) |
+| E Navarro Vs A Kalinskaya | [e_navarro_vs_a_kalinskaya](wta-doha-women/e_navarro_vs_a_kalinskaya.md) |
 

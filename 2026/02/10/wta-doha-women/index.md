@@ -21,3 +21,4 @@ title: "Wta Doha Women - February 10, 2026"
 | T Valentova Vs K Muchova | [t_valentova_vs_k_muchova](t_valentova_vs_k_muchova.md) |
 | A Parks Vs Q Zheng | [a_parks_vs_q_zheng](a_parks_vs_q_zheng.md) |
 | Xin Wang Vs E Rybakina | [xin_wang_vs_e_rybakina](xin_wang_vs_e_rybakina.md) |
+| E Navarro Vs A Kalinskaya | [e_navarro_vs_a_kalinskaya](e_navarro_vs_a_kalinskaya.md) |
