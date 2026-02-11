@@ -10,4 +10,5 @@ title: "February 11, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | V Gracheva Vs M Sakkari | [v_gracheva_vs_m_sakkari](wta-doha-women/v_gracheva_vs_m_sakkari.md) |
+| A Li Vs E Cocciaretto | [a_li_vs_e_cocciaretto](wta-doha-women/a_li_vs_e_cocciaretto.md) |
 
