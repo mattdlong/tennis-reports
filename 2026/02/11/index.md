@@ -14,4 +14,5 @@ title: "February 11, 2026 - Tennis Reports"
 | M Andreeva Vs V Mboko | [m_andreeva_vs_v_mboko](wta-doha-women/m_andreeva_vs_v_mboko.md) |
 | J Ostapenko Vs C Osorio | [j_ostapenko_vs_c_osorio](wta-doha-women/j_ostapenko_vs_c_osorio.md) |
 | I Swiatek Vs D Kasatkina | [i_swiatek_vs_d_kasatkina](wta-doha-women/i_swiatek_vs_d_kasatkina.md) |
+| Ka Pliskova Vs K Muchova | [ka_pliskova_vs_k_muchova](wta-doha-women/ka_pliskova_vs_k_muchova.md) |
 
