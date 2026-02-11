@@ -14,3 +14,4 @@ title: "Wta Doha Women - February 11, 2026"
 | J Ostapenko Vs C Osorio | [j_ostapenko_vs_c_osorio](j_ostapenko_vs_c_osorio.md) |
 | I Swiatek Vs D Kasatkina | [i_swiatek_vs_d_kasatkina](i_swiatek_vs_d_kasatkina.md) |
 | Ka Pliskova Vs K Muchova | [ka_pliskova_vs_k_muchova](ka_pliskova_vs_k_muchova.md) |
+| Q Zheng Vs E Rybakina | [q_zheng_vs_e_rybakina](q_zheng_vs_e_rybakina.md) |
