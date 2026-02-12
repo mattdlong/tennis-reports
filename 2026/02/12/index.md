@@ -13,6 +13,7 @@ title: "February 12, 2026 - Tennis Reports"
 | K Khachanov Vs J Munar | [k_khachanov_vs_j_munar](atp-rotterdam-men/k_khachanov_vs_j_munar.md) |
 | B Van De Zandschulp Vs S Tsitsipas | [b_van_de_zandschulp_vs_s_tsitsipas](atp-rotterdam-men/b_van_de_zandschulp_vs_s_tsitsipas.md) |
 | A De Minaur Vs S Wawrinka | [a_de_minaur_vs_s_wawrinka](atp-rotterdam-men/a_de_minaur_vs_s_wawrinka.md) |
+| H Medjedovic Vs F Auger-Aliassime | [h_medjedovic_vs_f_auger-aliassime](atp-rotterdam-men/h_medjedovic_vs_f_auger-aliassime.md) |
 
 ## Wta Doha Women
 
