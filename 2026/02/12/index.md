@@ -5,6 +5,12 @@ title: "February 12, 2026 - Tennis Reports"
 
 # February 12, 2026
 
+## Atp Rotterdam Men
+
+| Match | Report |
+|-------|--------|
+| U Humbert Vs G Den Ouden | [u_humbert_vs_g_den_ouden](atp-rotterdam-men/u_humbert_vs_g_den_ouden.md) |
+
 ## Wta Doha Women
 
 | Match | Report |
