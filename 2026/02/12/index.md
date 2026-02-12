@@ -11,4 +11,5 @@ title: "February 12, 2026 - Tennis Reports"
 |-------|--------|
 | J Ostapenko Vs E Cocciaretto | [j_ostapenko_vs_e_cocciaretto](wta-doha-women/j_ostapenko_vs_e_cocciaretto.md) |
 | I Swiatek Vs M Sakkari | [i_swiatek_vs_m_sakkari](wta-doha-women/i_swiatek_vs_m_sakkari.md) |
+| V Mboko Vs E Rybakina | [v_mboko_vs_e_rybakina](wta-doha-women/v_mboko_vs_e_rybakina.md) |
 
