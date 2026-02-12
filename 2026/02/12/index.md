@@ -14,6 +14,7 @@ title: "February 12, 2026 - Tennis Reports"
 | B Van De Zandschulp Vs S Tsitsipas | [b_van_de_zandschulp_vs_s_tsitsipas](atp-rotterdam-men/b_van_de_zandschulp_vs_s_tsitsipas.md) |
 | A De Minaur Vs S Wawrinka | [a_de_minaur_vs_s_wawrinka](atp-rotterdam-men/a_de_minaur_vs_s_wawrinka.md) |
 | H Medjedovic Vs F Auger-Aliassime | [h_medjedovic_vs_f_auger-aliassime](atp-rotterdam-men/h_medjedovic_vs_f_auger-aliassime.md) |
+| J-L Struff Vs A Bublik | [j-l_struff_vs_a_bublik](atp-rotterdam-men/j-l_struff_vs_a_bublik.md) |
 
 ## Wta Doha Women
 
