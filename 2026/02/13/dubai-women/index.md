@@ -13,3 +13,4 @@ title: "Dubai Women - February 13, 2026"
 | P Stearns Vs V Zvonareva | [p_stearns_vs_v_zvonareva](p_stearns_vs_v_zvonareva.md) |
 | T Valentova Vs K Birrell | [t_valentova_vs_k_birrell](t_valentova_vs_k_birrell.md) |
 | A Sasnovich Vs P Marcinko | [a_sasnovich_vs_p_marcinko](a_sasnovich_vs_p_marcinko.md) |
+| A Zakharova Vs J Grabher | [a_zakharova_vs_j_grabher](a_zakharova_vs_j_grabher.md) |

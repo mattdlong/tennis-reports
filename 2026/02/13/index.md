@@ -14,6 +14,7 @@ title: "February 13, 2026 - Tennis Reports"
 | P Stearns Vs V Zvonareva | [p_stearns_vs_v_zvonareva](dubai-women/p_stearns_vs_v_zvonareva.md) |
 | T Valentova Vs K Birrell | [t_valentova_vs_k_birrell](dubai-women/t_valentova_vs_k_birrell.md) |
 | A Sasnovich Vs P Marcinko | [a_sasnovich_vs_p_marcinko](dubai-women/a_sasnovich_vs_p_marcinko.md) |
+| A Zakharova Vs J Grabher | [a_zakharova_vs_j_grabher](dubai-women/a_zakharova_vs_j_grabher.md) |
 
 ## Wta Doha Women
 
