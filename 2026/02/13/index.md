@@ -5,6 +5,12 @@ title: "February 13, 2026 - Tennis Reports"
 
 # February 13, 2026
 
+## Dubai Women
+
+| Match | Report |
+|-------|--------|
+| K Volynets Vs A Parks | [k_volynets_vs_a_parks](dubai-women/k_volynets_vs_a_parks.md) |
+
 ## Wta Doha Women
 
 | Match | Report |
