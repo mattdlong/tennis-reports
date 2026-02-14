@@ -13,6 +13,7 @@ title: "February 14, 2026 - Tennis Reports"
 | Q Halys Vs M Alkaya | [q_halys_vs_m_alkaya](doha-men/q_halys_vs_m_alkaya.md) |
 | J Mccabe Vs J Choinski | [j_mccabe_vs_j_choinski](doha-men/j_mccabe_vs_j_choinski.md) |
 | A Vukic Vs P Herbert | [a_vukic_vs_p_herbert](doha-men/a_vukic_vs_p_herbert.md) |
+| N Basilashvili Vs O Virtanen | [n_basilashvili_vs_o_virtanen](doha-men/n_basilashvili_vs_o_virtanen.md) |
 
 ## Dubai Women
 
