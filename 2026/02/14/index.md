@@ -30,4 +30,5 @@ title: "February 14, 2026 - Tennis Reports"
 | K Birrell Vs K Volynets | [k_birrell_vs_k_volynets](wta-dubai-women/k_birrell_vs_k_volynets.md) |
 | P Stearns Vs G Ruse | [p_stearns_vs_g_ruse](wta-dubai-women/p_stearns_vs_g_ruse.md) |
 | E Cocciaretto Vs A Zakharova | [e_cocciaretto_vs_a_zakharova](wta-dubai-women/e_cocciaretto_vs_a_zakharova.md) |
+| S Kartal Vs A Sasnovich | [s_kartal_vs_a_sasnovich](wta-dubai-women/s_kartal_vs_a_sasnovich.md) |
 
