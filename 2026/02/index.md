@@ -13,4 +13,4 @@ title: "February 2026 - Tennis Reports"
 | [February 11](11/) | [Wta Doha Women](11/wta-doha-women/) (7) |
 | [February 12](12/) | [Atp Rotterdam Men](12/atp-rotterdam-men/) (6), [Wta Doha Women](12/wta-doha-women/) (4) |
 | [February 13](13/) | [Dubai Women](13/dubai-women/) (6), [Wta Doha Women](13/wta-doha-women/) (2) |
-| [February 14](14/) | [Doha Men](14/doha-men/) (1), [Dubai Women](14/dubai-women/) (4), [Wta Doha Women](14/wta-doha-women/) (1), [Wta Dubai Women](14/wta-dubai-women/) (7) |
+| [February 14](14/) | [Doha Men](14/doha-men/) (2), [Dubai Women](14/dubai-women/) (4), [Wta Doha Women](14/wta-doha-women/) (1), [Wta Dubai Women](14/wta-dubai-women/) (7) |
