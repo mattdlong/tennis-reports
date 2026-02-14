@@ -14,3 +14,9 @@ title: "February 14, 2026 - Tennis Reports"
 | E Cocciaretto Vs A Zakharova | [e_cocciaretto_vs_a_zakharova](dubai-women/e_cocciaretto_vs_a_zakharova.md) |
 | S Kartal Vs A Sasnovich | [s_kartal_vs_a_sasnovich](dubai-women/s_kartal_vs_a_sasnovich.md) |
 
+## Wta Dubai Women
+
+| Match | Report |
+|-------|--------|
+| H Baptiste Vs R Sramkova | [h_baptiste_vs_r_sramkova](wta-dubai-women/h_baptiste_vs_r_sramkova.md) |
+
