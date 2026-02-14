@@ -15,6 +15,7 @@ title: "February 14, 2026 - Tennis Reports"
 | A Vukic Vs P Herbert | [a_vukic_vs_p_herbert](doha-men/a_vukic_vs_p_herbert.md) |
 | N Basilashvili Vs O Virtanen | [n_basilashvili_vs_o_virtanen](doha-men/n_basilashvili_vs_o_virtanen.md) |
 | M Trungelliti Vs B Harris | [m_trungelliti_vs_b_harris](doha-men/m_trungelliti_vs_b_harris.md) |
+| Carballes Baena Vs Oconnell | [carballes_baena_vs_oconnell](doha-men/carballes_baena_vs_oconnell.md) |
 
 ## Dubai Women
 
