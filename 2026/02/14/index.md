@@ -14,6 +14,7 @@ title: "February 14, 2026 - Tennis Reports"
 | J Mccabe Vs J Choinski | [j_mccabe_vs_j_choinski](doha-men/j_mccabe_vs_j_choinski.md) |
 | A Vukic Vs P Herbert | [a_vukic_vs_p_herbert](doha-men/a_vukic_vs_p_herbert.md) |
 | N Basilashvili Vs O Virtanen | [n_basilashvili_vs_o_virtanen](doha-men/n_basilashvili_vs_o_virtanen.md) |
+| M Trungelliti Vs B Harris | [m_trungelliti_vs_b_harris](doha-men/m_trungelliti_vs_b_harris.md) |
 
 ## Dubai Women
 
