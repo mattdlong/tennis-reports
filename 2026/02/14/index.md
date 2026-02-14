@@ -19,4 +19,5 @@ title: "February 14, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | H Baptiste Vs R Sramkova | [h_baptiste_vs_r_sramkova](wta-dubai-women/h_baptiste_vs_r_sramkova.md) |
+| K Rakhimova Vs E Seidel | [k_rakhimova_vs_e_seidel](wta-dubai-women/k_rakhimova_vs_e_seidel.md) |
 
