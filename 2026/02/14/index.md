@@ -28,4 +28,5 @@ title: "February 14, 2026 - Tennis Reports"
 | K Rakhimova Vs E Seidel | [k_rakhimova_vs_e_seidel](wta-dubai-women/k_rakhimova_vs_e_seidel.md) |
 | M Frech Vs V Gracheva | [m_frech_vs_v_gracheva](wta-dubai-women/m_frech_vs_v_gracheva.md) |
 | K Birrell Vs K Volynets | [k_birrell_vs_k_volynets](wta-dubai-women/k_birrell_vs_k_volynets.md) |
+| P Stearns Vs G Ruse | [p_stearns_vs_g_ruse](wta-dubai-women/p_stearns_vs_g_ruse.md) |
 
