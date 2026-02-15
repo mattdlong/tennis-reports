@@ -14,3 +14,4 @@ title: "Wta Dubai Women - February 15, 2026"
 | T Maria Vs K Birrell | [t_maria_vs_k_birrell](t_maria_vs_k_birrell.md) |
 | P Stearns Vs Q Zheng | [p_stearns_vs_q_zheng](p_stearns_vs_q_zheng.md) |
 | A Pavlyuchenkova Vs B Krejcikova | [a_pavlyuchenkova_vs_b_krejcikova](a_pavlyuchenkova_vs_b_krejcikova.md) |
+| L Samsonova Vs L Fernandez | [l_samsonova_vs_l_fernandez](l_samsonova_vs_l_fernandez.md) |
