@@ -16,4 +16,5 @@ title: "February 15, 2026 - Tennis Reports"
 | P Stearns Vs Q Zheng | [p_stearns_vs_q_zheng](wta-dubai-women/p_stearns_vs_q_zheng.md) |
 | A Pavlyuchenkova Vs B Krejcikova | [a_pavlyuchenkova_vs_b_krejcikova](wta-dubai-women/a_pavlyuchenkova_vs_b_krejcikova.md) |
 | L Samsonova Vs L Fernandez | [l_samsonova_vs_l_fernandez](wta-dubai-women/l_samsonova_vs_l_fernandez.md) |
+| E Seidel Vs C Bucsa | [e_seidel_vs_c_bucsa](wta-dubai-women/e_seidel_vs_c_bucsa.md) |
 
