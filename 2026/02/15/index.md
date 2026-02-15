@@ -10,4 +10,5 @@ title: "February 15, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | L Noskova Vs A Li | [l_noskova_vs_a_li](wta-dubai-women/l_noskova_vs_a_li.md) |
+| D Yastremska Vs J Tjen | [d_yastremska_vs_j_tjen](wta-dubai-women/d_yastremska_vs_j_tjen.md) |
 
