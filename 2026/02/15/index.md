@@ -18,4 +18,5 @@ title: "February 15, 2026 - Tennis Reports"
 | L Samsonova Vs L Fernandez | [l_samsonova_vs_l_fernandez](wta-dubai-women/l_samsonova_vs_l_fernandez.md) |
 | E Seidel Vs C Bucsa | [e_seidel_vs_c_bucsa](wta-dubai-women/e_seidel_vs_c_bucsa.md) |
 | D Shnaider Vs M Joint | [d_shnaider_vs_m_joint](wta-dubai-women/d_shnaider_vs_m_joint.md) |
+| L Sun Vs M Linette | [l_sun_vs_m_linette](wta-dubai-women/l_sun_vs_m_linette.md) |
 
