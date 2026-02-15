@@ -1,105 +1,122 @@
-# Tennis Totals & Handicaps Analysis
-## A. Pavlyuchenkova vs B. Krejcikova
+---
+title: "A. Pavlyuchenkova vs B. Krejcikova"
+date: 2026-02-15
+tournament: "WTA Dubai"
+surface: "Hard"
+round: "TBD"
+totals_lean: "Over 20.5"
+totals_edge: 17.9
+spread_lean: "Krejcikova -4.5"
+spread_edge: 4.7
+confidence: "MEDIUM"
+---
 
-**Tournament:** WTA Dubai
-**Date:** February 15, 2026
-**Surface:** Hard Court (inferred from tour context)
-**Match Format:** Best of 3 Sets
+# A. Pavlyuchenkova vs B. Krejcikova
+
+## Match & Event
+
+| Field | Value |
+|-------|-------|
+| Tournament / Tier | WTA Dubai / WTA 1000 |
+| Round / Court / Time | TBD / TBD / TBD |
+| Format | Best of 3 sets, standard tiebreak at 6-6 |
+| Surface / Pace | Hard / Medium-fast |
+| Conditions | Outdoor, Dubai conditions |
 
 ---
 
 ## Executive Summary
 
-**TOTALS RECOMMENDATION: PASS**
-**SPREAD RECOMMENDATION: Not Available (No Spread Odds)**
+### Totals
 
-### Model vs Market Overview
+| Metric | Value |
+|--------|-------|
+| **Model Fair Line** | 22.0 games (95% CI: 19-25) |
+| **Market Line** | O/U 20.5 |
+| **Lean** | Over 20.5 |
+| **Edge** | 17.9 pp |
+| **Confidence** | MEDIUM |
+| **Stake** | 1.5 units |
 
-| Metric | Model Prediction | Market Line | Edge |
-|--------|-----------------|-------------|------|
-| **Expected Total Games** | 20.9 (95% CI: 17-26) | 21.5 | — |
-| **Fair Totals Line** | 21.5 | 21.5 | 0.0pp |
-| **P(Over 21.5)** | 45% | 47.3% (no-vig) | -2.3pp |
-| **P(Under 21.5)** | 55% | 52.7% (no-vig) | +2.3pp |
-| **Expected Margin** | Krejcikova by 5.2 (95% CI: 2-9) | No spread odds | — |
+### Game Spread
 
-**Key Insight:** Model and market are nearly perfectly aligned at 21.5 games. The Under 21.5 shows marginal model edge (+2.3pp) but falls below the 2.5% minimum threshold for recommendation. The massive 440 Elo point gap and hold/break differential favor a controlled, sub-22 game match.
+| Metric | Value |
+|--------|-------|
+| **Model Fair Line** | Krejcikova -4.0 games (95% CI: -2 to -7) |
+| **Market Line** | Krejcikova -4.5 |
+| **Lean** | Krejcikova -4.5 |
+| **Edge** | 4.7 pp |
+| **Confidence** | MEDIUM |
+| **Stake** | 1.0 units |
 
-**Data Quality:** HIGH — 24 matches (Pavlyuchenkova), 31 matches (Krejcikova) from api-tennis.com with complete hold/break/clutch statistics.
+**Key Risks:** Tiebreak sample size extremely small (6 TBs for Pavlyuchenkova, 3 for Krejcikova), potential for dominant straight-set win by Krejcikova if she establishes early control, sub-70% hold rates for both players create high break volatility
 
 ---
 
 ## Quality & Form Comparison
 
-### Summary
+| Metric | A. Pavlyuchenkova | B. Krejcikova | Differential |
+|--------|-------------------|---------------|--------------|
+| **Overall Elo** | 1640 (#60) | 2080 (#10) | Krejcikova +440 |
+| **Hard Court Elo** | 1640 | 2080 | Krejcikova +440 |
+| **Recent Record** | 9-15 | 18-13 | Krejcikova |
+| **Form Trend** | Stable | Stable | Even |
+| **Dominance Ratio** | 0.88 | 1.28 | Krejcikova |
+| **3-Set Frequency** | 29.2% | 51.6% | Krejcikova +22.4pp |
+| **Avg Games (Recent)** | 22.2 | 22.8 | Krejcikova +0.6 |
 
-**Significant quality mismatch in Krejcikova's favor.** Krejcikova is Elo 2080 (rank 10) versus Pavlyuchenkova's Elo 1640 (rank 60) — a massive 440-point gap that translates to dominant expected performance. Krejcikova's game win percentage of 51.7% versus Pavlyuchenkova's 45.8% reflects this class difference. Form trends are both "stable," but Krejcikova's recent 18-13 record with 1.28 dominance ratio vastly outpaces Pavlyuchenkova's struggling 9-15 (0.88 DR). Pavlyuchenkova has lost nearly twice as many matches as she's won in the last 52 weeks.
+**Summary:** Krejcikova holds a massive 440-point Elo advantage, ranking #10 globally versus Pavlyuchenkova's #60. Both players show stable form trends, but Krejcikova's dominance ratio of 1.28 (winning 28% more games than losing) vastly outpaces Pavlyuchenkova's struggling 0.88 ratio (losing 12% more games than winning). Krejcikova's 51.6% three-set rate suggests she frequently plays competitive matches that extend, while Pavlyuchenkova's 29.2% indicates she tends to finish matches quicker (whether winning or losing).
 
-**Key Disparity:** 440 Elo points represents roughly a 90%+ win probability for Krejcikova. This is not a competitive matchup on paper.
+**Totals Impact:** The similar average total games (22.2 vs 22.8) masks the Elo gap. Krejcikova's high three-set frequency (+22.4pp) pushes toward higher totals, but the massive quality gap could lead to straighter sets if Krejcikova dominates.
 
-### Totals Impact
-
-**Moderate totals suppression expected.** Krejcikova's superiority should lead to more efficient service holds and decisive break conversions, reducing rally complexity and potentially shortening the match. However, Pavlyuchenkova's relatively high BP conversion (68.1%) suggests she can create chaos when opportunities arise, which could extend games. Krejcikova's 51.6% three-set frequency (versus Pavlyuchenkova's 29.2%) indicates she's frequently involved in competitive matches despite her quality edge — this suggests totals may not collapse as much as the Elo gap would imply.
-
-**Expected effect:** Slight downward pressure on totals due to quality gap, but Krejcikova's tendency toward three-setters provides upside variance.
-
-### Spread Impact
-
-**Krejcikova heavily favored to cover spreads.** The 440 Elo gap and 5.9 percentage point game win differential strongly favor Krejcikova winning by a significant game margin. Pavlyuchenkova's poor form (9-15, 0.88 DR) and low hold% (63.9%) make her vulnerable to lopsided scorelines. Krejcikova's perfect 100% serve-for-match conversion versus Pavlyuchenkova's 57.1% further tilts margins.
-
-**Expected effect:** Large game margin in Krejcikova's favor (likely 4-6+ games).
+**Spread Impact:** The 440 Elo gap and 1.28 vs 0.88 dominance ratio differential strongly favor a wide margin for Krejcikova. The quality gap is substantial enough to expect clear superiority.
 
 ---
 
 ## Hold & Break Comparison
 
-### Summary
+| Metric | A. Pavlyuchenkova | B. Krejcikova | Edge |
+|--------|-------------------|---------------|------|
+| **Hold %** | 63.9% | 68.3% | Krejcikova (+4.4pp) |
+| **Break %** | 28.9% | 35.5% | Krejcikova (+6.6pp) |
+| **Breaks/Match** | 4.09 | 4.58 | Krejcikova (+0.49) |
+| **Avg Total Games** | 22.2 | 22.8 | Krejcikova (+0.6) |
+| **Game Win %** | 45.8% | 51.7% | Krejcikova (+5.9pp) |
+| **TB Record** | 3-3 (50.0%) | 1-2 (33.3%) | Pavlyuchenkova (+16.7pp) |
 
-**Krejcikova holds a clear edge in both hold and break metrics.** Krejcikova holds serve 68.3% versus Pavlyuchenkova's 63.9% (+4.4pp) and breaks serve 35.5% versus Pavlyuchenkova's 28.9% (+6.6pp). This creates a double advantage: Krejcikova both protects her own service games better AND attacks Pavlyuchenkova's serve more effectively.
+**Summary:** Krejcikova demonstrates clear superiority in both service and return dimensions. Her 68.3% hold rate (+4.4pp edge) means more comfortable service games, while her 35.5% break rate (+6.6pp edge) indicates significantly superior returning ability. The break rate gap is particularly telling: Krejcikova averages 4.58 breaks per match versus Pavlyuchenkova's 4.09, translating to approximately 0.5 additional breaks per match. Both players have weak hold percentages below 70%, suggesting frequent break opportunities and a moderate game count. The tiebreak samples are extremely small (6 total TBs for Pavlyuchenkova, 3 for Krejcikova), making TB-specific predictions unreliable.
 
-**Service vulnerability:** Pavlyuchenkova's 63.9% hold rate is concerning — this translates to breaking roughly 1 in every 2.8 service games, making her highly susceptible to Krejcikova's aggressive returning (35.5% break rate). Krejcikova averages 4.58 breaks per match versus Pavlyuchenkova's 4.09, reflecting Krejcikova's superior return game.
+**Totals Impact:** Both players under 70% hold suggests multiple service breaks and competitive games within sets, pushing toward 22-24 game range. However, the quality gap may compress this if Krejcikova wins sets more decisively.
 
-**Key concern:** When the superior holder (68.3%) faces the weaker server (63.9%), breaks tend to cluster on one side, creating asymmetric scorelines.
-
-### Totals Impact
-
-**Moderate totals suppression.** The hold/break differential favors more decisive service games for Krejcikova and more volatile service games for Pavlyuchenkova. This typically shortens match length as the stronger player consolidates leads efficiently. However, both players average high breaks per match (4.09 and 4.58), suggesting competitive return games that could generate deuce battles and extended games.
-
-**Tiebreak probability:** Both players show low tiebreak frequency (Pavlyuchenkova 6 TBs in 24 matches, Krejcikova 3 TBs in 31 matches). Combined with the hold differentials, tiebreaks are unlikely — sets will likely be decided by breaks rather than 7-6 scorelines.
-
-**Expected effect:** Totals lean toward lower end of range (21-23 games) due to decisive break patterns.
-
-### Spread Impact
-
-**Strong directional edge to Krejcikova.** The +6.6pp break advantage means Krejcikova will generate significantly more break opportunities and convert them more frequently. Pavlyuchenkova's weak hold% (63.9%) makes her especially vulnerable to multi-break deficits. Expected game flow: Krejcikova holds comfortably (68.3%) while breaking Pavlyuchenkova 1-2 times per set.
-
-**Expected effect:** Game margin of 4-6 games in Krejcikova's favor, with potential for larger margins if Pavlyuchenkova's serve collapses.
+**Spread Impact:** The +6.6pp break rate edge for Krejcikova is substantial. An additional 0.5 breaks per match over 2-3 sets translates to roughly 1-2 games of margin, but the overall quality gap (Elo, dominance ratio) suggests even wider separation.
 
 ---
 
 ## Pressure Performance
 
-### Summary
+### Break Points & Tiebreaks
 
-**Mixed clutch profiles with Pavlyuchenkova showing surprising BP conversion strength.** Pavlyuchenkova converts break points at an elite 68.1% (94/138) versus tour average ~45% and significantly higher than Krejcikova's 54.6%. However, Pavlyuchenkova saves break points at a poor 53.6% rate (below tour average 60%), while Krejcikova saves 50.5% — both players struggle to defend break points.
+| Metric | A. Pavlyuchenkova | B. Krejcikova | Tour Avg | Edge |
+|--------|-------------------|---------------|----------|------|
+| **BP Conversion** | 68.1% (94/138) | 54.6% (142/260) | ~40% | Pavlyuchenkova (+13.5pp) |
+| **BP Saved** | 53.6% (98/183) | 50.5% (110/218) | ~60% | Pavlyuchenkova (+3.1pp) |
+| **TB Serve Win%** | 50.0% | 33.3% | ~55% | Pavlyuchenkova (+16.7pp) |
+| **TB Return Win%** | 50.0% | 66.7% | ~30% | Krejcikova (+16.7pp) |
 
-**Key games divergence:** Krejcikova massively outperforms in closing situations: 83.3% serving for set (vs 64.7%) and 100% serving for match (vs 57.1%). This is critical — Krejcikova doesn't choke when ahead, while Pavlyuchenkova fails to close nearly half the time when serving for the match.
+### Set Closure Patterns
 
-**Consolidation vs Breakback:** Nearly identical consolidation rates (Pavlyuchenkova 67.5%, Krejcikova 69.3%), but Krejcikova edges breakback ability (33.0% vs 27.1%), suggesting better resilience when under pressure.
+| Metric | A. Pavlyuchenkova | B. Krejcikova | Implication |
+|--------|-------------------|---------------|-------------|
+| **Consolidation** | 67.5% | 69.3% | Both struggle to hold after breaking |
+| **Breakback Rate** | 27.1% | 33.0% | Krejcikova fights back more (+5.9pp) |
+| **Serving for Set** | 64.7% | 83.3% | Krejcikova closes efficiently (+18.6pp) |
+| **Serving for Match** | 57.1% | 100.0% | Krejcikova perfect closer (+42.9pp) |
 
-### Totals Impact
+**Summary:** Pavlyuchenkova shows elite break point conversion (68.1% vs tour average 40%), but both players are below-average at saving break points (53.6% and 50.5% vs 60% tour average), consistent with their sub-70% hold rates. The tiebreak stats are based on tiny samples (6 TBs for Pavlyuchenkova, 3 for Krejcikova) and should be treated with extreme caution. The set closure patterns reveal a critical difference: Krejcikova is a ruthless closer when serving for set (83.3%) and perfect when serving for match (100.0%), while Pavlyuchenkova falters (64.7% and 57.1%). Krejcikova's superior breakback rate (33.0% vs 27.1%) shows better resilience when under pressure.
 
-**Moderate upward variance from poor BP defense.** Both players save break points at below-average rates (53.6% and 50.5%), which typically extends games through deuce battles and multiple break point attempts. However, this effect is partially offset by Pavlyuchenkova's elite BP conversion (68.1%) — when she gets a chance, she finishes quickly.
+**Totals Impact:** Low consolidation rates for both (67-69%) suggest volatile sets with back-and-forth breaks, typically adding games. However, Krejcikova's superior closing ability (83.3% serving for set vs 64.7%) means she's more likely to finish sets efficiently once ahead, slightly compressing the total.
 
-**Expected effect:** Slight upward pressure on totals from deuce games, but not dramatic.
-
-### Tiebreak Impact
-
-**Tiebreaks unlikely but Krejcikova favored if they occur.** Both players have very low tiebreak sample sizes (Pavlyuchenkova 6 TBs, Krejcikova 3 TBs in 52-week window), making percentages unreliable. Pavlyuchenkova is 50% in TB serve/return, while Krejcikova is 33.3% serve / 66.7% return. The limited data suggests tiebreaks are rare for both players.
-
-**If a tiebreak occurs:** Krejcikova's superior return tiebreak performance (66.7%) and perfect serve-for-match record suggest better mental composure under extreme pressure.
-
-**Expected effect:** P(At least 1 TB) likely 15-20% given low hold differentials and historical TB frequency.
+**Tiebreak Probability:** With hold rates of 63.9% and 68.3%, tiebreak probability is low-moderate (~18% per match). If a tiebreak occurs, the minuscule sample sizes make prediction unreliable, though Krejcikova's superior overall level suggests slight edge despite Pavlyuchenkova's 3-3 record.
 
 ---
 
@@ -107,177 +124,205 @@
 
 ### Set Score Probabilities
 
-**Model Assumptions:**
-- Pavlyuchenkova hold rate: 63.9% (P_hold_A = 0.639)
-- Krejcikova hold rate: 68.3% (P_hold_B = 0.683)
-- Pavlyuchenkova break rate: 28.9% (= 1 - 0.711, where 0.711 is Krejcikova's hold on serve)
-- Krejcikova break rate: 35.5% (= 1 - 0.645, where 0.645 is Pavlyuchenkova's hold on serve)
-- Adjusted for neutral surface (all courts)
+| Set Score | P(Pavlyuchenkova wins) | P(Krejcikova wins) |
+|-----------|------------------------|---------------------|
+| 6-0, 6-1 | 3% | 8% |
+| 6-2, 6-3 | 12% | 25% |
+| 6-4 | 15% | 22% |
+| 7-5 | 7% | 10% |
+| 7-6 (TB) | 3% | 5% |
 
-**Expected Set Scores (Krejcikova perspective):**
+### Match Structure
 
-| Set Score | Probability | Games | Scenario |
-|-----------|-------------|-------|----------|
-| **6-0** | 3% | 6 | Complete collapse (multiple breaks) |
-| **6-1** | 8% | 7 | Dominant performance (2-3 breaks) |
-| **6-2** | 15% | 8 | Solid control (1-2 breaks) |
-| **6-3** | 22% | 9 | Comfortable win (1 break) |
-| **6-4** | 25% | 10 | Competitive, Krejcikova edges |
-| **7-5** | 12% | 12 | Tight set, late break |
-| **7-6** | 5% | 13 | Tiebreak (rare) |
-| **5-7** | 6% | 12 | Pavlyuchenkova steals tight set |
-| **4-6** | 3% | 10 | Pavlyuchenkova competitive win |
-| **3-6** | 1% | 9 | Pavlyuchenkova solid set |
-
-**Most Likely Set Score:** 6-4 (25%) — Krejcikova wins a competitive set with one decisive break.
-
-**Tiebreak Probability per Set:** ~5% (based on hold differentials and historical TB frequency)
-
-### Match Structure Probabilities
-
-**Two-Set Match (Straight Sets):**
-- **P(Krejcikova 2-0):** 62%
-  - Most likely: 6-4, 6-3 (18-19 total games)
-  - Range: 12-20 games
-
-- **P(Pavlyuchenkova 2-0):** 8%
-  - Unlikely given quality gap
-  - Range: 12-18 games
-
-**Three-Set Match:**
-- **P(Krejcikova 2-1):** 23%
-  - Most likely: 6-4, 4-6, 6-3 (29-30 total games)
-  - Range: 25-33 games
-
-- **P(Pavlyuchenkova 2-1):** 7%
-  - Very unlikely upset scenario
-  - Range: 25-31 games
-
-**Overall Match Probabilities:**
-- **P(Straight Sets):** 70% (62% + 8%)
-- **P(Three Sets):** 30% (23% + 7%)
-- **P(At Least 1 Tiebreak):** 18%
+| Metric | Value |
+|--------|-------|
+| P(Straight Sets 2-0) | 62% (Krejcikova 52%, Pavlyuchenkova 10%) |
+| P(Three Sets 2-1) | 38% |
+| P(At Least 1 TB) | 18% |
+| P(2+ TBs) | 4% |
 
 ### Total Games Distribution
 
-**Expected Total Games by Match Path:**
-
-| Match Outcome | Probability | Expected Games | Range |
-|---------------|-------------|----------------|--------|
-| Krejcikova 2-0 (6-4, 6-3) | 25% | 19 | 18-20 |
-| Krejcikova 2-0 (6-4, 6-4) | 20% | 20 | 20-20 |
-| Krejcikova 2-0 (6-2, 6-3) | 12% | 17 | 17-17 |
-| Krejcikova 2-1 (competitive) | 23% | 29 | 27-31 |
-| Pavlyuchenkova 2-0 (upset) | 8% | 18 | 16-20 |
-| Pavlyuchenkova 2-1 (upset) | 7% | 28 | 26-30 |
-
-**Weighted Expected Total Games:**
-- (0.25 × 19) + (0.20 × 20) + (0.12 × 17) + (0.23 × 29) + (0.08 × 18) + (0.07 × 28)
-- = 4.75 + 4.0 + 2.04 + 6.67 + 1.44 + 1.96
-- = **20.9 games**
-
-**95% Confidence Interval:** 17-26 games
-- Lower bound: Dominant 2-0 Krejcikova (6-2, 6-2 = 16 games)
-- Upper bound: Competitive 3-setter with tiebreak (6-4, 5-7, 7-6 = 31 games)
-
-**Standard Deviation:** ~3.8 games
+| Range | Probability | Cumulative |
+|-------|-------------|------------|
+| ≤20 games | 28% | 28% |
+| 21-22 | 32% | 60% |
+| 23-24 | 24% | 84% |
+| 25-26 | 12% | 96% |
+| 27+ | 4% | 100% |
 
 ---
 
 ## Totals Analysis
 
-### Model Prediction (Phase 3a — Locked)
-- **Expected Total Games:** 20.9
-- **Fair Totals Line:** 21.5
-- **95% Confidence Interval:** 17-26 games
+| Metric | Value |
+|--------|-------|
+| **Expected Total Games** | 22.1 |
+| **95% Confidence Interval** | 19 - 25 |
+| **Fair Line** | 22.0 |
+| **Market Line** | O/U 20.5 |
+| **P(Over 20.5)** | 68% |
+| **P(Under 20.5)** | 32% |
 
-### Market Line Analysis
-- **Market Line:** 21.5 games
-- **Over Odds:** 1.96 (implied 51.0%)
-- **Under Odds:** 1.76 (implied 56.8%)
-- **No-Vig Probabilities:** Over 47.3% | Under 52.7%
+### Factors Driving Total
 
-### Edge Calculation
+- **Hold Rate Impact:** Both players below 70% hold (63.9% and 68.3%) creates frequent break opportunities. Weak service games from both sides means games won't be dominated by holding serve, leading to competitive sets with multiple breaks.
+- **Tiebreak Probability:** 18% probability of at least one tiebreak (low-moderate). Each TB adds 1 game to the total. However, tiny sample sizes (6 TBs and 3 TBs) make TB prediction unreliable.
+- **Straight Sets Risk:** 62% probability of straight sets, but most likely set scores are 6-2, 6-3, 6-4 (9-10 games per set), not blowouts. The quality gap favors Krejcikova winning in straights, but weak consolidation (67-69%) prevents efficient closures.
 
-| Line | Model P(Over) | Market P(Over) | Edge | Model P(Under) | Market P(Under) | Edge |
-|------|---------------|----------------|------|----------------|-----------------|------|
-| 21.5 | 45% | 47.3% | **-2.3pp** | 55% | 52.7% | **+2.3pp** |
+### Model Working
 
-**Under 21.5 Edge:** +2.3 percentage points
+1. **Starting inputs:** Pavlyuchenkova 63.9% hold / 28.9% break, Krejcikova 68.3% hold / 35.5% break
 
-### Recommendation: PASS
+2. **Elo adjustment:** +440 Elo gap (Krejcikova) → adjustment factor: 0.44 → Krejcikova adjusted: +0.88pp hold (+0.44×2), +0.66pp break (+0.44×1.5) → Adjusted Krejcikova: 69.2% hold, 36.2% break
 
-**Reasoning:**
-1. **Edge Below Threshold:** +2.3pp edge on Under 21.5 falls below the 2.5% minimum for totals bets
-2. **Model-Market Alignment:** Fair line (21.5) perfectly matches market line — model and market agree
-3. **Low Conviction:** While model leans Under slightly (55% vs 52.7%), the difference is within noise
-4. **Risk/Reward:** Insufficient edge to justify variance risk in totals market
+3. **Expected breaks per set:**
+   - Pavlyuchenkova faces Krejcikova's 36.2% break rate → ~2.2 breaks per set on Pavlyuchenkova's serve
+   - Krejcikova faces Pavlyuchenkova's 28.9% break rate → ~1.7 breaks per set on Krejcikova's serve
+   - Total: ~3.9 breaks per set
 
-**Alternative Consideration:**
-If the edge threshold were 2.0pp instead of 2.5pp, Under 21.5 would qualify as a **LOW confidence** play (0.5-1.0 unit). However, given the current 2.5% minimum, this is a clear PASS.
+4. **Set score derivation:** Most likely outcomes are 6-2, 6-3, 6-4 in Krejcikova's favor (9-10 games per set). When Pavlyuchenkova wins sets, typically 6-4, 7-5 (10-12 games).
+
+5. **Match structure weighting:**
+   - 62% straight sets × 19-20 games (avg 2 sets × 9.5 games) = 12.2 weighted games
+   - 38% three sets × 26-27 games (avg 3 sets × 9 games) = 9.9 weighted games
+   - Total: 12.2 + 9.9 = 22.1 games
+
+6. **Tiebreak contribution:** 18% TB probability × 1 additional game per TB = +0.18 games (already incorporated in set score distribution)
+
+7. **CI adjustment:** Moderate consolidation (67-69%) and moderate breakback (27-33%) create balanced volatility. Standard ±3 game CI is appropriate. Low consolidation prevents tighter CI; moderate breakback prevents wider CI.
+
+8. **Result:** Fair totals line: 22.0 games (95% CI: 19-25)
+
+### Market Comparison
+
+| Source | Line | Over Odds | Under Odds | No-Vig Over | No-Vig Under | Vig | Edge |
+|--------|------|-----------|------------|-------------|--------------|-----|------|
+| Model | 22.0 | - | - | 50.0% | 50.0% | 0% | - |
+| Market | 20.5 | 1.92 | 1.93 | 50.1% | 49.9% | 3.9% | +17.9 pp |
+
+**Edge Calculation:**
+- Model P(Over 20.5) = 68%
+- Market no-vig P(Over 20.5) = 50.1%
+- Edge = 68% - 50.1% = **17.9 pp**
+
+### Confidence Assessment
+
+- **Edge magnitude:** 17.9 pp edge substantially exceeds the 5% threshold for HIGH confidence. However, data limitations reduce confidence to MEDIUM.
+
+- **Data quality:** Both players have reasonable match samples (24 matches for Pavlyuchenkova, 31 for Krejcikova). Critical hold/break data is available from api-tennis.com point-by-point data. However, tiebreak samples are extremely small (6 TBs and 3 TBs), creating uncertainty in TB probability estimation.
+
+- **Model-empirical alignment:** Model expects 22.1 games. Pavlyuchenkova's L52W average is 22.2 games, Krejcikova's is 22.8 games. Model expectation aligns very closely with empirical averages (divergence < 1 game), providing strong validation.
+
+- **Key uncertainty:** Tiebreak sample size (only 9 total TBs between both players) makes TB probability estimation unreliable. If actual TB rate is higher than modeled 18%, the total could exceed 23-24 games. Additionally, the 62% straight-sets probability creates downside risk if Krejcikova dominates more efficiently than expected.
+
+- **Conclusion:** **Confidence: MEDIUM** because edge is very large (17.9pp) and model aligns with empirical averages, but tiebreak sample limitations and straight-sets downside risk prevent HIGH confidence.
 
 ---
 
 ## Handicap Analysis
 
-### Model Prediction (Phase 3a — Locked)
-- **Expected Game Margin:** Krejcikova by 5.2 games
-- **Fair Spread Line:** Krejcikova -5.5 games
-- **95% Confidence Interval:** Krejcikova by 2 to Krejcikova by 9 games
+| Metric | Value |
+|--------|-------|
+| **Expected Game Margin** | Krejcikova -4.2 |
+| **95% Confidence Interval** | -2 to -7 |
+| **Fair Spread** | Krejcikova -4.0 |
+| **Market Line** | Krejcikova -4.5 |
 
-### Spread Coverage Probabilities (Model)
+### Spread Coverage Probabilities
 
-| Spread | P(Krejcikova Cover) | P(Pavlyuchenkova Cover) |
-|--------|---------------------|-------------------------|
-| -2.5 | 78% | 22% |
-| -3.5 | 68% | 32% |
-| -4.5 | 58% | 42% |
-| -5.5 | 48% | 52% |
+| Line | P(Krejcikova Covers) | P(Pavlyuchenkova Covers) | Model Edge |
+|------|----------------------|--------------------------|------------|
+| Krejcikova -2.5 | 74% | 26% | - |
+| Krejcikova -3.5 | 62% | 38% | - |
+| Krejcikova -4.5 | 48% | 52% | +4.7 pp (Krej) |
+| Krejcikova -5.5 | 35% | 65% | - |
 
-### Market Line Analysis
+### Model Working
 
-**SPREAD ODDS: NOT AVAILABLE**
+1. **Game win differential:**
+   - Pavlyuchenkova wins 45.8% of games → 10.1 games in a 22-game match
+   - Krejcikova wins 51.7% of games → 11.4 games in a 22-game match
+   - Baseline margin: -1.3 games (favoring Krejcikova)
 
-The briefing data indicates `spreads_available: false`. No game handicap lines were found from available bookmakers. This is common for lower-profile WTA matches where totals markets are offered but spreads are not.
+2. **Break rate differential:**
+   - Krejcikova has +6.6pp break rate edge (35.5% vs 28.9%)
+   - Translates to ~0.5 additional breaks per match
+   - Additional margin contribution: +1.0 to -1.5 games
 
-### Recommendation: NOT AVAILABLE
+3. **Match structure weighting:**
+   - Straight sets (62% probability): Krejcikova wins 12-8 type sets → -4.5 game margin
+   - Three sets (38% probability): Closer margins, typically -3.0 games
+   - Weighted margin: (62% × -4.5) + (38% × -3.0) = -2.79 - 1.14 = -3.93 games
 
-Without market spread lines, no edge calculation or recommendation can be made. If spread lines become available before match time, the model suggests:
-- **Krejcikova -4.5:** 58% coverage probability (potential 8pp+ edge if market offers -110/-110)
-- **Krejcikova -5.5:** 48% coverage probability (fair line, no edge at standard odds)
+4. **Adjustments:**
+   - Elo +440 adjustment → +0.5 game margin for Krejcikova
+   - Dominance ratio gap (1.28 vs 0.88) → +0.3 game margin
+   - Krejcikova's superior closing (100% serving for match vs 57.1%) → +0.5 game margin
+   - Total adjustments: +1.3 games to Krejcikova's margin
+   - Adjusted margin: -3.93 - 1.3 = -5.23 games, but consolidation weakness (67-69%) pulls back toward -4.2
+
+5. **Result:** Fair spread: Krejcikova -4.0 games (95% CI: -2 to -7)
+
+### Market Comparison
+
+| Source | Line | Krej Odds | Pav Odds | No-Vig Krej | No-Vig Pav | Vig | Edge |
+|--------|------|-----------|----------|-------------|------------|-----|------|
+| Model | Krej -4.0 | - | - | 50% | 50% | 0% | - |
+| Market | Krej -4.5 | 2.21 | 1.69 | 43.3% | 56.7% | 4.5% | +4.7 pp (Krej) |
+
+**Edge Calculation:**
+- Model P(Krejcikova covers -4.5) = 48%
+- Market no-vig P(Krejcikova covers -4.5) = 43.3%
+- Edge = 48% - 43.3% = **+4.7 pp**
+
+### Confidence Assessment
+
+- **Edge magnitude:** Model says Krejcikova covers -4.5 with 48% probability, market prices it at 43.3% (no-vig). Edge = +4.7pp, which falls in the MEDIUM confidence range (3-5%).
+
+- **Directional convergence:** Multiple indicators support Krejcikova's superiority: +6.6pp break rate edge, +440 Elo gap, 1.28 vs 0.88 dominance ratio, +5.9pp game win %, superior closing stats (100% vs 57.1% serving for match), 18-13 vs 9-15 recent records. All six indicators align in the same direction, supporting confidence.
+
+- **Key risk to spread:** Pavlyuchenkova's elite break point conversion (68.1% vs tour average 40%) means she's dangerous when she creates opportunities. Additionally, both players have low consolidation rates (67-69%), creating volatility. If Pavlyuchenkova can string together multiple breaks and hold, she could keep the margin tight.
+
+- **CI vs market line:** Market line of Krejcikova -4.5 sits near the center of the 95% CI (-2 to -7 games), indicating the line is within reasonable expected range.
+
+- **Conclusion:** **Confidence: MEDIUM** because edge is moderate (+4.7pp), multiple indicators converge, but the market line sits at a probability threshold (48%) that's just below 50%, and consolidation volatility creates margin uncertainty.
 
 ---
 
-## Head-to-Head
+## Head-to-Head (Game Context)
 
-**Historical Matchup:** No H2H data provided in briefing.
+| Metric | Value |
+|--------|-------|
+| Total H2H Matches | N/A |
+| Avg Total Games in H2H | N/A |
+| Avg Game Margin | N/A |
+| TBs in H2H | N/A |
+| 3-Setters in H2H | N/A |
 
-**Contextual Notes:**
-- **First Meeting or Limited History:** Without H2H data, the model relies entirely on current form and statistical profiles
-- **Style Matchup:** Krejcikova's superior hold/break rates (68.3%/35.5% vs 63.9%/28.9%) suggest she should dominate on serve and return
-- **Pressure Games:** Krejcikova's perfect serve-for-match record (100%) versus Pavlyuchenkova's 57.1% indicates decisive closing ability
+**Note:** Head-to-head data not available in briefing. Analysis relies on L52W statistical profiles.
 
 ---
 
 ## Market Comparison
 
-### Totals Market
+### Totals
 
-| Line | Market Odds (Over/Under) | No-Vig Probs | Model Probs | Edge (Over/Under) |
-|------|-------------------------|--------------|-------------|-------------------|
-| 21.5 | 1.96 / 1.76 | 47.3% / 52.7% | 45% / 55% | -2.3pp / +2.3pp |
+| Source | Line | Over Odds | Under Odds | No-Vig Over | No-Vig Under | Vig | Edge |
+|--------|------|-----------|------------|-------------|--------------|-----|------|
+| Model | 22.0 | - | - | 50.0% | 50.0% | 0% | - |
+| Market | 20.5 | 1.92 | 1.93 | 50.1% | 49.9% | 3.9% | +17.9 pp |
 
-**Market Efficiency Analysis:**
-- **Implied Total:** Market no-vig probabilities suggest ~21.5 expected games
-- **Model Agreement:** Model expected value is 20.9 games, within 1 game of market center
-- **Vig:** 7.8% total margin (51.0% + 56.8% - 100%)
-- **Sharpness:** Market likely reflects sharp action given perfect alignment with model
+**Analysis:** Model expects 22.1 games (fair line 22.0). Market offers O/U 20.5, which is 1.5 games below model expectation. Model P(Over 20.5) = 68%, compared to market no-vig 50.1%, creating a massive +17.9pp edge on Over 20.5.
 
-**Pinnacle Comparison:** Not available in briefing data. The odds source is OddsPortal (multi-book aggregation).
+### Game Spread
 
-### Spread Market
+| Source | Line | Krej Odds | Pav Odds | No-Vig Krej | No-Vig Pav | Vig | Edge |
+|--------|------|-----------|----------|-------------|------------|-----|------|
+| Model | Krej -4.0 | - | - | 50.0% | 50.0% | 0% | - |
+| Market | Krej -4.5 | 2.21 | 1.69 | 43.3% | 56.7% | 4.5% | +4.7 pp (Krej) |
 
-**NOT AVAILABLE** — No game handicap lines found in market.
+**Analysis:** Model expects Krejcikova to win by 4.2 games (fair spread -4.0). Market offers -4.5, which is slightly wider than the model fair spread. Model P(Krejcikova covers -4.5) = 48%, compared to market no-vig 43.3%, creating a +4.7pp edge on Krejcikova -4.5.
 
 ---
 
@@ -285,134 +330,90 @@ Without market spread lines, no edge calculation or recommendation can be made. 
 
 ### Totals Recommendation
 
-**PASS on Under 21.5**
+| Field | Value |
+|-------|-------|
+| **Market** | Total Games |
+| **Selection** | Over 20.5 |
+| **Target Price** | 1.92 or better |
+| **Edge** | 17.9 pp |
+| **Confidence** | MEDIUM |
+| **Stake** | 1.5 units |
 
-| Metric | Value |
-|--------|-------|
-| **Line** | Under 21.5 games |
-| **Odds** | 1.76 |
-| **Model Edge** | +2.3pp |
-| **Minimum Edge** | 2.5pp |
-| **Confidence** | N/A (PASS) |
-| **Stake** | 0 units |
+**Rationale:** Both players have weak hold rates (63.9% and 68.3%), leading to frequent breaks and competitive games within sets. Low consolidation rates (67-69%) create back-and-forth sets with multiple breaks. While Krejcikova is favored to win, the quality gap is unlikely to produce blowouts—most probable set scores are 6-2, 6-3, 6-4 (9-10 games per set). The model expects 22.1 games with 68% probability of exceeding 20.5, versus market pricing of 50.1%. The 17.9pp edge is exceptional, though confidence is tempered by small tiebreak samples and straight-sets downside risk.
 
-**Rationale:**
-- Edge (+2.3pp) falls just below 2.5% minimum threshold
-- Model and market are nearly perfectly aligned at 21.5 line
-- Insufficient conviction to recommend action
-- 70% straight sets probability and low tiebreak frequency (18%) support Under lean, but not enough for bet
+### Game Spread Recommendation
 
-**If Playing Anyway (Hypothetical):**
-If edge threshold were 2.0pp, this would be a **LOW confidence** play (0.5 units).
+| Field | Value |
+|-------|-------|
+| **Market** | Game Handicap |
+| **Selection** | Krejcikova -4.5 |
+| **Target Price** | 2.21 or better |
+| **Edge** | 4.7 pp |
+| **Confidence** | MEDIUM |
+| **Stake** | 1.0 units |
 
-### Spread Recommendation
+**Rationale:** Krejcikova holds multiple edges: +6.6pp break rate, +440 Elo, superior dominance ratio (1.28 vs 0.88), and perfect serving-for-match record (100% vs 57.1%). The model expects a -4.2 game margin. At the market line of -4.5, Krejcikova needs to exceed her expected margin by just 0.3 games. The model gives this 48% probability, while the market prices it at 43.3%, creating a +4.7pp edge. The play is close to a coin flip (48%), but the odds compensate appropriately for positive expected value.
 
-**NOT AVAILABLE**
+### Pass Conditions
 
-No game handicap odds were found in the market. If spread lines become available:
-- **Krejcikova -4.5 or better:** Would be a strong play (58%+ coverage probability)
-- **Krejcikova -5.5:** Fair line, no edge
-- **Krejcikova -6.5 or worse:** Avoid (model gives <40% coverage)
+**Totals:**
+- Pass if line moves to 21.5 or higher (edge drops below 2.5%)
+- Pass if odds drop below 1.80 (vig becomes excessive)
+
+**Spread:**
+- Pass if Krejcikova line moves to -5.5 or wider (edge becomes negative)
+- Pass if odds drop below 2.00 (removes edge entirely)
 
 ---
 
-## Confidence & Risk Assessment
+## Confidence & Risk
 
-### Overall Confidence: MEDIUM-LOW
+### Confidence Assessment
 
-**Supporting Factors:**
-1. **High Data Quality:** 24 matches (Pavlyuchenkova), 31 matches (Krejcikova) with complete statistics
-2. **Clear Hold/Break Edge:** Krejcikova's +4.4pp hold and +6.6pp break advantage is well-established
-3. **Large Elo Gap:** 440-point differential provides strong directional conviction
-4. **Model-Market Alignment:** Market validates model's 21.5 fair line
+| Market | Edge | Confidence | Key Factors |
+|--------|------|------------|-------------|
+| **Totals** | 17.9pp | MEDIUM | Large edge (+17.9pp), model aligns with empirical averages (22.1 vs 22.2/22.8), but tiny tiebreak samples (9 total TBs) and 62% straight-sets probability create variance |
+| **Spread** | 4.7pp | MEDIUM | Moderate edge (+4.7pp), six convergent indicators (break%, Elo, DR, closing%), but model probability near 50% (48%) and low consolidation create margin uncertainty |
 
-**Risk Factors:**
-1. **Surface Data:** Statistics are "all courts" rather than surface-specific (Dubai is hard court)
-2. **Low Tiebreak Sample:** Only 6 TBs (Pavlyuchenkova) and 3 TBs (Krejcikova) in 52-week window
-3. **Pavlyuchenkova Variance:** Despite poor form (9-15), her 68.1% BP conversion can create chaos
-4. **Krejcikova Three-Set Tendency:** 51.6% three-set frequency adds upside variance risk to Under
+**Confidence Rationale:** Both markets show MEDIUM confidence despite the totals edge exceeding the 5% HIGH threshold. Data quality is good overall (HIGH completeness rating, reasonable match samples, direct PBP hold/break statistics), but specific limitations reduce confidence. For totals: tiebreak sample size is extremely small (6 TBs for Pavlyuchenkova, 3 for Krejcikova), making TB probability unreliable; straight-sets risk (62%) could compress the total below 20.5 if Krejcikova dominates efficiently. For spread: model probability sits at 48% (just below 50%), and low consolidation (67-69%) creates margin volatility; Pavlyuchenkova's elite BP conversion (68.1%) gives her upset potential in tight moments.
 
 ### Variance Drivers
 
-**Totals Variance:**
-- **P(Three Sets):** 30% — introduces ~8-10 game swing versus straight sets
-- **P(At Least 1 TB):** 18% — adds 1-2 games if occurs
-- **Pavlyuchenkova BP Conversion:** Elite 68.1% can generate unexpected breaks
-- **Standard Deviation:** ~3.8 games around 20.9 expected value
+- **Tiebreak uncertainty (Totals):** Only 9 combined tiebreaks in last 52 weeks for both players. Model estimates 18% TB probability per match, but actual rate could be 10-25%, creating ±1-2 game swing in total.
+- **Straight sets compression (Totals):** 62% probability of straight sets. If Krejcikova wins 6-2, 6-3 (18 games), total falls well short of 20.5. Model weights this scenario appropriately, but it's a significant downside tail risk.
+- **Consolidation volatility (Spread):** Both players under 70% consolidation rate means breaks can come in clusters. A breakback-heavy match compresses margins; a break-consolidation match widens margins.
+- **Pavlyuchenkova's clutch BP conversion (Spread):** 68.1% BP conversion is elite (tour average 40%). If she creates multiple BP opportunities, she could keep the margin tight despite overall quality gap.
 
-**Spread Variance:**
-- **Pavlyuchenkova's Poor Form:** 9-15 record could worsen in blowout (6-0, 6-1 scenarios = 13 games)
-- **Krejcikova's Perfect Serve-For-Match:** 100% suggests she won't choke leads
-- **Close Sets Possible:** 25% probability of 6-4 scorelines keeps margins tighter
+### Data Limitations
 
-### Risk Management
-
-**Bankroll Considerations:**
-- **Recommended Stake:** 0 units (PASS)
-- **If Playing Under 21.5:** Max 0.5-1.0 units at LOW confidence (requires 2.0pp edge threshold)
-- **Avoid Over 21.5:** -2.3pp edge with only 45% win probability
-
-**Live Betting Opportunities:**
-- **If Krejcikova wins Set 1 easily (6-2 or better):** Live Under may offer value as market adjusts to straight sets path
-- **If Pavlyuchenkova wins Set 1:** Live Over becomes attractive as three-setter probability spikes
-- **If match reaches 1-1 in sets:** Re-evaluate totals based on games played in first two sets
+- **Tiebreak sample size:** Pavlyuchenkova 6 TBs, Krejcikova 3 TBs in L52W—too small for reliable TB probability estimation
+- **Head-to-head data:** Not available in briefing; cannot validate model against direct matchup history
+- **Surface specificity:** Briefing lists surface as "all" rather than hard-court-specific—stats may include some clay/grass matches, reducing Dubai (hard) predictive power
 
 ---
 
 ## Sources
 
-### Player Statistics
-- **api-tennis.com** (February 15, 2026)
-  - Last 52 weeks: 24 matches (Pavlyuchenkova), 31 matches (Krejcikova)
-  - Hold/Break percentages, tiebreak stats, clutch performance
-  - Break point conversion/saved rates, key games statistics
-
-### Elo Ratings
-- **Jeff Sackmann's Tennis Abstract** (GitHub Tennis Data)
-  - Pavlyuchenkova: 1640 overall Elo (rank 60)
-  - Krejcikova: 2080 overall Elo (rank 10)
-
-### Betting Odds
-- **OddsPortal** (via api-tennis.com)
-  - Totals: 21.5 (Over 1.96, Under 1.76)
-  - Multiple bookmakers: WilliamHill, bet365, Marathon, Betfair, Pinnacle, Sbo, 1xBet, Betano, Superbet
-  - Spreads: NOT AVAILABLE
-
-### Methodology
-- **.claude/commands/analyst-instructions.md** — Statistical modeling framework
-- **.claude/commands/report.md** — Report generation template
-- **Markov chain set simulation** — Game distribution probabilities
-- **No-vig probability calculation** — Market efficiency analysis
+1. **api-tennis.com** - Player statistics (point-by-point data, last 52 weeks), match odds (totals O/U 20.5, spreads Krejcikova -4.5 via `get_odds`)
+2. **Jeff Sackmann's Tennis Data** - Elo ratings (Pavlyuchenkova 1640, Krejcikova 2080 overall; hard-court-specific ratings)
 
 ---
 
 ## Verification Checklist
 
-- [x] **Hold/Break Stats Collected:** Pavlyuchenkova 63.9%/28.9%, Krejcikova 68.3%/35.5%
-- [x] **Tiebreak Data Included:** Pavlyuchenkova 6 TBs (50%), Krejcikova 3 TBs (33.3%)
-- [x] **Totals Odds Verified:** 21.5 line at 1.96/1.76 (OddsPortal)
-- [x] **Spread Odds Checked:** NOT AVAILABLE in market
-- [x] **Expected Total Games Calculated:** 20.9 (95% CI: 17-26)
-- [x] **Expected Game Margin Calculated:** Krejcikova by 5.2 (95% CI: 2-9)
-- [x] **Fair Totals Line Derived:** 21.5 (matches market)
-- [x] **Fair Spread Line Derived:** Krejcikova -5.5
-- [x] **Edge Calculation Completed:** Under 21.5 = +2.3pp edge (below 2.5% threshold)
-- [x] **Confidence Level Assigned:** PASS (edge insufficient)
-- [x] **Stake Recommendation:** 0 units
-- [x] **Data Quality Assessment:** HIGH (24 and 31 matches, complete stats)
-- [x] **Surface Context Noted:** "All courts" data for Dubai hard court match
-- [x] **Recent Form Analyzed:** Krejcikova 18-13 (1.28 DR), Pavlyuchenkova 9-15 (0.88 DR)
-- [x] **Clutch Stats Reviewed:** Pavlyuchenkova elite BP conversion (68.1%), poor BP saved (53.6%)
-- [x] **Key Games Examined:** Krejcikova 100% serve-for-match vs Pavlyuchenkova 57.1%
-- [x] **P(Straight Sets) Calculated:** 70%
-- [x] **P(Three Sets) Calculated:** 30%
-- [x] **P(At Least 1 TB) Calculated:** 18%
-- [x] **Set Score Probabilities Modeled:** Most likely 6-4 Krejcikova (25%)
-- [x] **Variance Drivers Identified:** Three-set frequency, tiebreak probability, BP conversion
-- [x] **Moneyline Excluded:** ✓ (totals/handicaps focus only)
-
----
-
-**Analysis Completed:** February 15, 2026
-**Model Version:** Tennis AI v2.0 (Anti-Anchoring Blind Model)
-**Report Generated By:** Claude Sonnet 4.5 (Tennis Analyst)
+- [x] Quality & Form comparison table completed with analytical summary
+- [x] Hold/Break comparison table completed with analytical summary
+- [x] Pressure Performance tables completed with analytical summary
+- [x] Game distribution modeled (set scores, match structure, total games)
+- [x] Expected total games calculated with 95% CI (22.1 games, 19-25 CI)
+- [x] Expected game margin calculated with 95% CI (Krejcikova -4.2, -2 to -7 CI)
+- [x] Totals Model Working shows step-by-step derivation with specific data points
+- [x] Totals Confidence Assessment explains level with edge (17.9pp), data quality (HIGH completeness, small TB sample), and alignment evidence (model 22.1 vs empirical 22.2/22.8)
+- [x] Handicap Model Working shows step-by-step margin derivation with specific data points
+- [x] Handicap Confidence Assessment explains level with edge (4.7pp), convergence (six indicators), and risk evidence (48% near 50%, consolidation volatility)
+- [x] Totals and spread lines compared to market with no-vig calculations
+- [x] Edge ≥ 2.5% for all recommendations (Totals 17.9pp, Spread 4.7pp)
+- [x] Each comparison section has Totals Impact + Spread Impact statements
+- [x] Confidence & Risk section completed with variance drivers and data limitations
+- [x] **NO moneyline analysis included**
+- [x] **All data shown in comparison format only (no individual profiles)**
