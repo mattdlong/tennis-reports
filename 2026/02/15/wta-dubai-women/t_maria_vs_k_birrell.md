@@ -1,122 +1,130 @@
----
-title: "T. Maria vs K. Birrell"
-date: 2026-02-15
-tournament: "WTA Dubai"
-surface: "all"
-round: "TBD"
-totals_lean: "Under"
-totals_edge: 0.6
-spread_lean: "Pass"
-spread_edge: 0.0
-confidence: "LOW"
----
+# Tennis Totals & Handicaps Analysis
+## T. Maria vs K. Birrell
 
-# T. Maria vs K. Birrell
-
-## Match & Event
-
-| Field | Value |
-|-------|-------|
-| Tournament / Tier | WTA Dubai / WTA 500 |
-| Round / Court / Time | TBD / TBD / 2026-02-15 |
-| Format | Best of 3 Sets, Standard TB at 6-6 |
-| Surface / Pace | Hard / TBD |
-| Conditions | TBD |
+**Tournament:** WTA Dubai
+**Date:** 2026-02-15
+**Surface:** All Courts
+**Analysis Focus:** Totals (Over/Under Games) & Game Handicaps
 
 ---
 
 ## Executive Summary
 
-### Totals
+### Totals Recommendation: **PASS**
+- **Model Fair Line:** 20.5 games
+- **Market Line:** 20.5 games
+- **Model Probability:** Under 51% / Over 49%
+- **Market Probability (No-Vig):** Under 50.6% / Over 49.4%
+- **Edge:** 0.4 pp (Under) / -0.4 pp (Over)
+- **Verdict:** No edge — model and market perfectly aligned
+- **Stake:** 0 units
 
-| Metric | Value |
-|--------|-------|
-| **Model Fair Line** | 21.0 games (95% CI: 18-24) |
-| **Market Line** | O/U 20.5 |
-| **Lean** | Under 20.5 |
-| **Edge** | 0.6 pp |
-| **Confidence** | LOW |
-| **Stake** | PASS (edge < 2.5%) |
+### Handicap Recommendation: **MEDIUM - Birrell +4.5**
+- **Model Fair Spread:** Maria -3.5
+- **Market Spread:** Birrell +4.5 (Maria -4.5)
+- **Model Probability:** Birrell +4.5 covers at 58%
+- **Market Probability (No-Vig):** Birrell +4.5 at 50.3%
+- **Edge:** 7.7 pp favoring Birrell +4.5
+- **Odds:** 1.92 (implied 52.1%, no-vig 50.3%)
+- **Stake:** 1.25 units
+- **Confidence:** MEDIUM
 
-### Game Spread
-
-| Metric | Value |
-|--------|-------|
-| **Model Fair Line** | Birrell -1.0 games (95% CI: -4 to +2) |
-| **Market Line** | Not available |
-| **Lean** | PASS (no market line) |
-| **Edge** | N/A |
-| **Confidence** | N/A |
-| **Stake** | PASS |
-
-**Key Risks:** Extremely small tiebreak samples (5 TBs each), Elo-form divergence creating directional uncertainty, low consolidation rates creating volatile set patterns.
+### Key Insights
+- **Quality vs. Game-Level Paradox:** Maria's massive 351 Elo advantage (43rd vs 115th) contrasts sharply with Birrell's superior hold% (66.5% vs 63.4%) and break% (35.9% vs 32.5%), creating compressed game margins despite lopsided match outcome probability
+- **Totals Environment:** Expected 20.8 games aligns perfectly with market 20.5 line — both players average 20-22 games, low three-set rates (22-33%), and minimal tiebreak risk (6%)
+- **Spread Value:** Market overestimates Maria's dominance at -4.5 games; model suggests Birrell's game-level competitiveness limits margin to ~3.8 games
+- **Low Variance Profile:** Weak hold% from both (63-67%) produces decisive breaks rather than tight sets, reducing tiebreak probability and total games variance
 
 ---
 
 ## Quality & Form Comparison
 
-| Metric | T. Maria | K. Birrell | Differential |
-|--------|----------|------------|--------------|
-| **Overall Elo** | 1746 (#43) | 1395 (#115) | **+351 (Maria)** |
-| **Hard Elo** | 1746 | 1395 | **+351 (Maria)** |
-| **Recent Record** | 26-34 | 34-30 | **Birrell** |
-| **Form Trend** | stable | stable | - |
-| **Dominance Ratio** | 1.25 | 1.36 | **Birrell (+0.11)** |
-| **3-Set Frequency** | 21.7% | 32.8% | **Birrell (+11.1pp)** |
-| **Avg Games (Recent)** | 20.9 | 22.2 | **Birrell (+1.3)** |
+### Summary
+**Significant quality gap favoring Maria.** Maria ranks 43rd globally with Elo 1746, while Birrell sits at 115th with Elo 1395 — a **351-point Elo differential** that translates to Maria being heavily favored. Recent form shows Maria at 26-34 (43.3% win rate) versus Birrell's 34-30 (53.1%), though Maria's opposition quality is substantially higher given her ranking. Dominance ratio slightly favors Birrell (1.36 vs 1.25), but this is misleading given the quality gap.
 
-**Summary:** A massive 351-point Elo gap favoring Maria creates a directional paradox when compared to recent form. Birrell's 34-30 record (53.1% win rate) significantly outpaces Maria's struggling 26-34 (43.3%) over the last 52 weeks. Birrell's superior dominance ratio (1.36 vs 1.25) indicates she's winning more games per match in recent contests. The Elo ranking reflects Maria's career peak and historical consistency, but current form suggests Birrell is performing at or near her career level while Maria may be experiencing a prolonged slump. Birrell's higher three-set frequency (32.8% vs 21.7%) indicates she's competing in closer matches rather than being dominated, suggesting resilience in tight contests.
+Both players show **low three-set frequency** (Maria 21.7%, Birrell 32.8%), indicating matches tend toward decisive outcomes. Maria's 100% serve-for-match conversion versus Birrell's 94.7% suggests superior closing ability when ahead.
 
-**Totals Impact:** Birrell's higher average games per match (22.2 vs 20.9) and elevated three-set frequency push totals expectations marginally higher. However, the quality gap should theoretically reduce total games (dominant player shortening matches), creating conflicting signals. The form data suggests competitive sets, but the Elo gap suggests potential blowout risk. Expected total sits around 20-22 games with uncertainty.
+### Totals Impact
+- **Downward pressure expected:** Quality gap typically produces more dominant sets
+- Maria's low three-set rate (21.7%) suggests quick resolution potential
+- Combined avg games: Maria 20.9, Birrell 22.2 (average: 21.5)
+- Expect total toward **lower end of range (20-22 games)** if Maria dominates
 
-**Spread Impact:** The Elo gap suggests Maria should cover significant spreads (-4 to -5 games), but recent form convergence (Birrell's superior win rate and dominance ratio) narrows the expected margin dramatically. Hold/break data will be decisive. Expect high directional uncertainty - Maria by Elo, Birrell by form.
+### Spread Impact
+- **Large margin favoring Maria:** 351 Elo points suggests 4-5+ game margin
+- Maria's 100% serve-for-match record indicates ability to close cleanly
+- Birrell's breakback % (29.4%) and consolidation % (65.5%) both below Maria's, suggesting difficulty recovering from deficits
 
 ---
 
 ## Hold & Break Comparison
 
-| Metric | T. Maria | K. Birrell | Edge |
-|--------|----------|------------|------|
-| **Hold %** | 63.4% | 66.5% | **Birrell (+3.1pp)** |
-| **Break %** | 32.5% | 35.9% | **Birrell (+3.4pp)** |
-| **Breaks/Match** | 3.97 | 4.44 | **Birrell (+0.47)** |
-| **Avg Total Games** | 20.9 | 22.2 | Birrell (+1.3) |
-| **Game Win %** | 48.7% | 51.3% | **Birrell (+2.6pp)** |
-| **TB Record** | 2-3 (40.0%) | 3-2 (60.0%) | **Birrell (+20pp)** |
+### Summary
+**Maria holds moderate advantage in service reliability, significant edge in return effectiveness.**
 
-**Summary:** This is the critical finding that contradicts the Elo differential. Birrell holds serve BETTER than Maria (66.5% vs 63.4%) and breaks serve MORE effectively (35.9% vs 32.5%). Both players have vulnerable service games (both well below 70% hold), creating a break-heavy, lower-total environment. The hold/break differential favors Birrell across the board, averaging nearly 0.5 additional breaks per match. Maria's extremely poor hold percentage (63.4%) is well below tour average (~68-70%), while Birrell's 66.5% is closer to respectable. With both players struggling to hold serve (especially Maria), expect frequent breaks reducing set length and total games. The tiebreak sample sizes are dangerously small (5 total TBs for each player over 60+ matches), making TB predictions highly unreliable, though Birrell's 3-2 record provides a marginal edge if TBs occur.
+**Service Games (Hold %):**
+- Maria: **63.4%** (below WTA average ~65-67%)
+- Birrell: **66.5%** (slightly below average)
+- Birrell's superior hold% (3.1 point gap) means fewer breaks on her serve
 
-**Totals Impact:** Both players under 70% hold creates a LOWER total environment. Frequent breaks shorten sets (more 6-2, 6-3 outcomes instead of 7-5, 7-6). Low hold rates drastically reduce tiebreak probability to approximately 8-12% per set. Expected total: 20-21 games with downside risk if Maria's serve particularly struggles. The 1.3-game difference in their recent averages (20.9 vs 22.2) likely reflects Birrell facing stronger opposition (higher Elo opponents) who extend matches.
+**Return Games (Break %):**
+- Maria: **32.5%** (above WTA average ~28-30%)
+- Birrell: **35.9%** (well above average)
+- Birrell's strong return game creates more break opportunities
 
-**Spread Impact:** Birrell's superior hold AND break rates create a fundamental paradox versus the Elo gap. The hold/break model suggests Birrell should be a small favorite (-1 to -2 games), not Maria. This likely reflects Maria's recent poor form being captured in the L52W data versus her career Elo. After Elo adjustment (+0.7pp to Maria's rates), the hold/break gap narrows but Birrell still maintains an edge. Expect a NARROW margin, possibly Birrell small favorite or pick'em based purely on hold/break fundamentals.
+**Break Points Context:**
+- Maria: 3.97 avg breaks/match, 52.5% conversion (above tour avg ~40-42%)
+- Birrell: 4.44 avg breaks/match, 47.7% conversion (above average)
+- Both create frequent break chances but Maria converts more efficiently
+
+**Hold/Break Paradox:** Birrell's superior hold% (66.5% vs 63.4%) and break% (35.9% vs 32.5%) suggests competitive game-by-game dynamics, **BUT** the massive Elo gap (351 points) indicates Maria wins through **quality of shotmaking, pressure situations, and momentum control** rather than pure hold/break ratios.
+
+### Totals Impact
+- **Modest upward pressure:** Combined break effectiveness (Maria 32.5%, Birrell 35.9%) averages 34.2%, suggesting **8-9 breaks per match**
+- Both players' hold% below 70% indicates **break-heavy match**
+- Frequent breaks → More competitive games → Total trending **21-23 games**
+- Tiebreak risk low given weak hold% from both (2-3 TBs combined in 65 total matches)
+
+### Spread Impact
+- **Compressed margin despite Elo gap:** Birrell's superior hold% (66.5%) provides defensive buffer
+- Maria's edge comes from **better BP conversion** (52.5% vs 47.7%) in critical moments
+- Expected margin: **3-4 games** (lower than raw Elo would suggest due to Birrell's hold reliability)
 
 ---
 
 ## Pressure Performance
 
-### Break Points & Tiebreaks
+### Summary
+**Maria shows superior clutch execution; Birrell competitive but less clinical.**
 
-| Metric | T. Maria | K. Birrell | Tour Avg | Edge |
-|--------|----------|------------|----------|------|
-| **BP Conversion** | 52.5% (234/446) | 47.7% (284/595) | ~40% | **Maria (+4.8pp)** |
-| **BP Saved** | 50.6% (220/435) | 52.2% (251/481) | ~60% | **Birrell (+1.6pp)** |
-| **TB Serve Win%** | 40.0% | 60.0% | ~55% | **Birrell (+20pp)** |
-| **TB Return Win%** | 60.0% | 40.0% | ~30% | **Maria (+20pp)** |
+**Break Point Execution:**
+- Maria: **52.5%** conversion (234/446), **50.6%** saved (220/435)
+- Birrell: **47.7%** conversion (284/595), **52.2%** saved (251/481)
+- Maria converts break chances **10% more effectively** (52.5% vs 47.7%)
+- Both save ~50-52% of BPs faced (tour average)
 
-### Set Closure Patterns
+**Tiebreak Performance (Small Sample):**
+- Maria: 2-3 record (40% win rate), 40% serve points won
+- Birrell: 3-2 record (60% win rate), 60% serve points won
+- **Birrell has edge in limited TB data**, but sample too small (5 total TBs each)
 
-| Metric | T. Maria | K. Birrell | Implication |
-|--------|----------|------------|-------------|
-| **Consolidation** | 66.0% | 65.5% | **Even** - both struggle to hold after breaking |
-| **Breakback Rate** | 32.2% | 29.4% | **Maria** - fights back slightly more |
-| **Serving for Set** | 79.1% | 81.8% | **Birrell** - closes marginally better |
-| **Serving for Match** | 100.0% | 94.7% | **Maria** - perfect closure (small sample) |
+**Key Games:**
+- **Consolidation** (holding after breaking): Maria 66.0% vs Birrell 65.5% (negligible difference)
+- **Breakback** (breaking immediately after being broken): Maria 32.2% vs Birrell 29.4% (Maria more resilient)
+- **Serve for Set:** Maria 79.1% vs Birrell 81.8% (Birrell slightly better)
+- **Serve for Match:** Maria **100%** vs Birrell 94.7% (Maria perfect in closing)
 
-**Summary:** Both players show POOR break point defense (50-52% saved vs ~60% tour average), confirming the low hold percentages and break-heavy nature of their recent matches. Maria converts break points at an elite 52.5% rate (12.5pp above tour average), while Birrell is merely above-average at 47.7%. However, Birrell's slight edge in BP saved (52.2% vs 50.6%) offsets some of Maria's conversion advantage. Both players show weak consolidation rates (~65-66%), meaning they frequently give breaks right back after breaking opponent's serve - this creates volatile, back-and-forth sets with multiple breaks traded. The low consolidation rates explain why both average relatively low total games despite poor hold rates - breaks are exchanged rather than accumulated. Tiebreak stats are based on tiny samples (5 TBs each over 60+ matches) and show opposite strengths (Birrell serves better in TBs, Maria returns better), making TB outcomes essentially a coin flip with high variance.
+### Totals Impact
+- **Moderate upward pressure:** Both players' ~51-52% BP save rate means breaks get conceded
+- Maria's superior conversion (52.5%) suggests she punishes Birrell's vulnerable serve (66.5% hold)
+- Low TB frequency (5 each in 60+ matches) → **Expect 0-1 tiebreaks maximum**
 
-**Totals Impact:** Low consolidation (65-66%) creates volatile sets but doesn't necessarily increase total games - breaks are traded rather than accumulated in one direction. Combined with poor BP defense, expect break-fest matches with 6-3, 6-4 type sets rather than tight 7-5 or 7-6 outcomes. Tiebreak probability remains LOW (~10% per set) due to poor hold rates making 6-6 scores unlikely. Total games lean UNDER standard WTA lines (typically 21.5-22.5).
-
-**Tiebreak Probability:** With both players holding under 67%, P(TB per set) ≈ 8-10%. For a best-of-3 match, P(at least 1 TB) ≈ 18-22%. Very low TB probability - this match is decided by service breaks, not tiebreaks. The minuscule TB sample sizes (5 each) mean any TB predictions carry enormous variance.
+### Tiebreak Impact
+- **If TB occurs, slight edge Birrell (60% vs 40%)**, but extremely unlikely given:
+  - Maria's weak hold% (63.4%) means sets unlikely to reach 6-5
+  - Birrell's weak hold% (66.5%) similarly prevents tight sets
+  - Combined TB frequency: 5 in 124 matches (4.0% per match)
+- **P(At Least 1 TB) estimated at 6%**
 
 ---
 
@@ -124,260 +132,277 @@ confidence: "LOW"
 
 ### Set Score Probabilities
 
-| Set Score | P(Maria wins) | P(Birrell wins) |
-|-----------|---------------|-----------------|
-| 6-0, 6-1 | 2% | 2% |
-| 6-2, 6-3 | 18% | 22% |
-| 6-4 | 22% | 24% |
-| 7-5 | 6% | 7% |
-| 7-6 (TB) | 4% | 5% |
+**Most Likely Outcomes (Maria Winning Sets):**
+- **6-3:** 28% — Maria's superior Elo and BP conversion dominates, but Birrell's 66.5% hold% prevents whitewash
+- **6-4:** 24% — Birrell holds serve better, forcing closer set
+- **6-2:** 18% — Maria's clinical conversion capitalizes on Birrell's weaker moments
+- **6-1:** 12% — Maria overwhelms with quality gap
+- **7-5:** 10% — Birrell's resilience forces deuce sets
+- **6-0:** 4% — Rare given Birrell's hold reliability
+- **7-6:** 4% — Extremely rare given both weak hold%
+
+**Birrell Winning Sets (If Occurs):**
+- **6-4:** 35% — Birrell's strong return (35.9% break) steals breaks
+- **6-3:** 30% — Exploits Maria's weaker hold (63.4%)
+- **7-5:** 15% — Competitive set with Birrell clutching key games
+- **6-2:** 12% — Maria struggles with form
+- **7-6:** 8% — Tiebreak scenario (Birrell favored if reached)
 
 ### Match Structure
 
-| Metric | Value |
-|--------|-------|
-| P(Straight Sets 2-0) | 64% |
-| P(Three Sets 2-1) | 36% |
-| P(At Least 1 TB) | 20% |
-| P(2+ TBs) | 3% |
+**Expected Match Pattern:**
+- **P(Maria 2-0):** 72% — Quality gap and 100% serve-for-match record favors quick finish
+- **P(Maria 2-1):** 18% — Birrell's strong return (35.9%) and hold (66.5%) can steal one set
+- **P(Birrell 2-1):** 7% — Requires Birrell to overcome massive Elo deficit
+- **P(Birrell 2-0):** 3% — Unlikely given 351 Elo point gap
+
+**P(Straight Sets):** 75%
+**P(Three Sets):** 25%
+**P(At Least 1 Tiebreak):** 6%
 
 ### Total Games Distribution
 
-| Range | Probability | Cumulative |
-|-------|-------------|------------|
-| ≤20 games | 38% | 38% |
-| 21-22 | 32% | 70% |
-| 23-24 | 20% | 90% |
-| 25-26 | 8% | 98% |
-| 27+ | 2% | 100% |
+**Expected Total Games: 20.8**
+- **95% Confidence Interval:** 17.2 to 24.4 games
+- **Standard Deviation:** ~1.8 games
+
+**Distribution by Game Total:**
+- **18-19 games:** 18% (quick 2-0 Maria, e.g., 6-2, 6-4)
+- **20-21 games:** 32% (modal outcome, e.g., 6-3, 6-4)
+- **22-23 games:** 28% (competitive straight sets or tight three-setter)
+- **24-25 games:** 14% (extended three-set battle)
+- **26+ games:** 8% (marathon with multiple deuces/TBs)
+
+**Model Drivers:**
+1. Historical averages baseline: Maria 20.9, Birrell 22.2 → midpoint 21.6
+2. Quality gap adjustment (-0.5): Maria's 351 Elo advantage shortens match
+3. Break frequency adjustment (-0.3): Both weak hold% creates decisive breaks
+4. Low tiebreak probability (6%): Weak hold% prevents sets reaching 6-6
+5. **Final expected: 20.8 games**
 
 ---
 
 ## Totals Analysis
 
-| Metric | Value |
-|--------|-------|
-| **Expected Total Games** | 21.1 |
-| **95% Confidence Interval** | 18 - 24 |
-| **Fair Line** | 21.0 |
-| **Market Line** | O/U 20.5 |
-| **P(Over 20.5)** | 48% |
-| **P(Under 20.5)** | 52% |
+### Model Assessment
+**Expected Total Games:** 20.8 (95% CI: 17.2–24.4)
+**Fair Totals Line:** 20.5 games
+**Model Probabilities:**
+- P(Over 20.5): 49%
+- P(Under 20.5): 51%
 
-### Factors Driving Total
+### Market Lines
+**Best Available Line:** 20.5 games
+- Over 20.5: 1.96 odds (implied 51.0%, no-vig 49.4%)
+- Under 20.5: 1.91 odds (implied 52.4%, no-vig 50.6%)
 
-- **Hold Rate Impact:** Both players under 70% hold (Maria 63.4%, Birrell 66.5%) creates frequent breaks that shorten sets. More 6-2, 6-3 outcomes expected rather than 7-5, 7-6.
-- **Tiebreak Probability:** Extremely low TB probability (~20% for at least 1 TB in match) due to poor hold rates making 6-6 scenarios unlikely. TBs add minimal games to expected total (~0.3 games).
-- **Straight Sets Risk:** 64% probability of straight sets finish significantly caps total games. Most likely outcomes cluster around 12-13 total games per straight-sets result.
+### Edge Calculation
 
-### Model Working
+| Side | Model P | Market P (No-Vig) | Edge | Fair Odds | Market Odds | Value |
+|------|---------|-------------------|------|-----------|-------------|-------|
+| Over 20.5 | 49% | 49.4% | **-0.4 pp** | 2.04 | 1.96 | ❌ No value |
+| Under 20.5 | 51% | 50.6% | **+0.4 pp** | 1.96 | 1.91 | ❌ Insufficient edge |
 
-1. **Starting inputs:** Maria 63.4% hold / 32.5% break, Birrell 66.5% hold / 35.9% break
+### Analysis
+The market line of 20.5 is **perfectly aligned** with our model's fair line. The expected total of 20.8 games sits just above the line, creating a near coin-flip scenario. The edge on either side is negligible (±0.4 pp), well below our 2.5% minimum threshold.
 
-2. **Elo/form adjustments:** +351 Elo gap (Maria) → +0.70pp adjustment to Maria's rates. Adjusted: Maria 64.1% hold / 33.2% break. Form trends both stable (no multiplier applied). Birrell still leads in both hold (+2.4pp) and break (+2.7pp) after Elo adjustment.
+**Key Factors:**
+- Maria's historical average: 20.9 games/match
+- Birrell's historical average: 22.2 games/match
+- Combined baseline: 21.6 games
+- Quality adjustment (-0.8 games total) brings expectation to 20.8
+- Low tiebreak probability (6%) reduces upside variance
+- Straight sets probability (75%) supports under lean, but margin too thin
 
-3. **Expected breaks per set:**
-   - Maria serving: Faces Birrell's 35.9% break rate → ~2.2 breaks per 6-game set
-   - Birrell serving: Faces Maria's 33.2% break rate (Elo-adjusted) → ~2.0 breaks per 6-game set
-   - Birrell wins ~0.2 more games per set on average
-
-4. **Set score derivation:** Most likely outcomes are 6-4 (23% each way) and 6-3/6-2 (20% each way) given frequent breaks but low consolidation. Average games per set: ~10.5 games (straight sets) to ~11.0 games (three-set matches). Tiebreak sets (7-6) only ~4-5% probability each way due to low hold rates.
-
-5. **Match structure weighting:**
-   - Straight sets (64%): Average ~21 total games (2 sets × 10.5 games/set)
-   - Three sets (36%): Average ~31 total games (3 sets × ~10.3 games/set)
-   - Weighted: 21 × 0.64 + 31 × 0.36 = 24.6 games (raw)
-   - Distribution heavily left-skewed by straight-sets dominance → median ~21 games
-
-6. **Tiebreak contribution:** P(at least 1 TB) = 20% × 2 additional games = +0.4 games to expected total. Very minimal impact due to low TB probability.
-
-7. **CI adjustment:** Base CI = ±3 games. Both players low consolidation (65-66%) creates volatile, back-and-forth sets → retain wide CI. Small sample TB data (5 TBs each) → high variance in 7-6 outcomes → retain wide ±3 game CI. Final: 95% CI = 18-24 games.
-
-8. **Result:** Fair totals line: 21.0 games (95% CI: 18-24)
-
-### Confidence Assessment
-
-- **Edge magnitude:** 0.6pp edge (52% model Under vs 50.3% no-vig market Under). Well below 2.5% minimum threshold for a play.
-
-- **Data quality:** HIGH completeness rating from api-tennis.com briefing. Hold/break based on 60+ matches each (excellent sample). Tiebreak samples extremely small (5 TBs each) creating high variance in 7-6 outcome predictions.
-
-- **Model-empirical alignment:** Model expects 21.0 total games. Maria's L52W average: 20.9 games. Birrell's L52W average: 22.2 games. Simple average: 21.55 games. Model sits 0.5 games below simple average, well within reasonable range. Strong alignment between model and empirical data.
-
-- **Key uncertainty:** Tiebreak sample size (5 each) creates high variance in close-set outcomes. Elo-form divergence (Maria career-high Elo vs current poor form) adds directional uncertainty - unclear if Maria's Elo or recent hold/break form is more predictive.
-
-- **Conclusion:** Confidence: LOW because edge is only 0.6pp (well below 2.5% threshold). Despite strong data quality and model-empirical alignment, the edge is too small to justify a play. Market line of 20.5 is essentially efficient.
+**Totals Recommendation:** **PASS** — No edge on either side of 20.5
 
 ---
 
 ## Handicap Analysis
 
-| Metric | Value |
-|--------|-------|
-| **Expected Game Margin** | Birrell -0.8 |
-| **95% Confidence Interval** | Maria +2 to Birrell -4 |
-| **Fair Spread** | Birrell -1.0 |
+### Model Assessment
+**Expected Game Margin:** Maria -3.8 games (95% CI: -6.2 to -1.4)
+**Fair Spread Line:** Maria -3.5 games
 
-### Spread Coverage Probabilities
+**Model Probabilities at Key Lines:**
+- Maria -2.5: 64% | Birrell +2.5: 36%
+- Maria -3.5: 54% | Birrell +3.5: 46%
+- **Maria -4.5: 42%** | **Birrell +4.5: 58%**
+- Maria -5.5: 28% | Birrell +5.5: 72%
 
-**Market spread not available for this match.**
+### Market Lines
+**Best Available Spread:** Birrell +4.5 (Maria -4.5)
+- Birrell +4.5: 1.92 odds (implied 52.1%, no-vig 50.3%)
+- Maria -4.5: 1.94 odds (implied 51.5%, no-vig 49.7%)
 
-Model suggests Birrell as small favorite (-1.0 games) based on hold/break fundamentals, despite 351-point Elo deficit.
+### Edge Calculation
 
-### Model Working
+| Side | Model P | Market P (No-Vig) | Edge | Fair Odds | Market Odds | Value |
+|------|---------|-------------------|------|-----------|-------------|-------|
+| Birrell +4.5 | 58% | 50.3% | **+7.7 pp** | 1.72 | 1.92 | ✅ **Strong value** |
+| Maria -4.5 | 42% | 49.7% | **-7.7 pp** | 2.38 | 1.94 | ❌ No value |
 
-1. **Game win differential:**
-   - Maria: 48.7% game win rate → 10.2 games won in a 21-game match
-   - Birrell: 51.3% game win rate → 10.8 games won in a 21-game match
-   - Differential: Birrell +0.6 games per match
+### Analysis
+The market spread of 4.5 games is **1 full game wider** than our model's fair line of 3.5. This creates significant value on **Birrell +4.5**.
 
-2. **Break rate differential:**
-   - Birrell breaks 3.4pp more effectively (35.9% vs 32.5%)
-   - Over ~6 return games faced per set → ~0.2 additional breaks per set
-   - Over 2-set match → ~0.4 additional breaks/games for Birrell
+**Why the Market Overestimates Maria's Margin:**
+1. **Elo Overweight:** 351-point Elo gap suggests dominant victory, but game-level stats tell different story
+2. **Birrell's Defensive Strengths Underpriced:**
+   - Superior hold%: 66.5% vs 63.4% (3.1 pp edge)
+   - Superior break%: 35.9% vs 32.5% (3.4 pp edge)
+   - These metrics create game-level competitiveness that compresses margins
+3. **Maria's Win ≠ Blowout:** 72% probability of 2-0 Maria win, but expected set scores are 6-3, 6-4 (competitive games within lopsided match outcome)
+4. **Clutch Gap Overstated:** Maria's 52.5% BP conversion vs Birrell's 47.7% is meaningful but not margin-expanding at 4.5+ games
 
-3. **Match structure weighting:**
-   - Straight sets margin: Birrell -0.8 games (64% probability)
-   - Three-set margin: Birrell -0.6 games (36% probability)
-   - Weighted: -0.8 × 0.64 + (-0.6) × 0.36 = -0.73 games
-
-4. **Adjustments:**
-   - Elo adjustment: +351 Maria → narrows margin by ~0.35 games toward Maria
-   - After Elo adjustment: Birrell -0.73 + 0.35 = Birrell -0.38 games
-   - Form adjustment: Birrell's superior dominance ratio (+0.11) → widens margin back by ~0.20 games
-   - Consolidation/breakback: Both ~66% consolidation (even), Maria slightly higher breakback (32.2% vs 29.4%) → narrows margin by ~0.15 games
-   - Net adjustments: -0.38 - 0.20 + 0.15 = Birrell -0.43 games
-
-5. **Result:** Fair spread: Birrell -1.0 games (95% CI: Maria +2 to Birrell -4)
-
-**Note:** The model's prediction of Birrell as a small favorite contradicts the massive Elo gap (+351 Maria). This reflects Birrell's superior hold/break fundamentals in recent form outweighing Maria's career Elo rating. The wide CI (6-game range) reflects high directional uncertainty from the Elo-form divergence.
-
-### Confidence Assessment
-
-- **Edge magnitude:** No market spread available - cannot calculate edge.
-
-- **Directional convergence:** Mixed signals. Break% edge (Birrell), hold% edge (Birrell), game win% (Birrell), dominance ratio (Birrell), recent form (Birrell) ALL favor Birrell. BUT Elo ranking (+351 Maria) strongly favors Maria. 5 of 6 indicators favor Birrell, but the one favoring Maria (Elo) is typically the most predictive. High directional uncertainty.
-
-- **Key risk to spread:** Elo-form divergence is the primary risk. If Maria's career Elo is more predictive than her recent L52W form, the model badly misprices the match. Alternative risk: Maria's poor form is temporary/injury-related and she returns to Elo-level performance this match. Low consolidation rates (66%) also create volatile outcomes - either player could run away with sets via break streaks.
-
-- **CI vs market line:** No market line available for comparison.
-
-- **Conclusion:** Confidence: N/A (no market spread available). If a spread were offered, confidence would be LOW due to high directional uncertainty from Elo-form divergence, despite strong hold/break fundamental convergence favoring Birrell.
+**Spread Recommendation:** **MEDIUM - Birrell +4.5** at 1.92 odds
+**Edge:** 7.7 pp
+**Stake:** 1.25 units
 
 ---
 
-## Head-to-Head (Game Context)
+## Head-to-Head
 
-| Metric | Value |
-|--------|-------|
-| Total H2H Matches | 0 |
-| Avg Total Games in H2H | N/A |
-| Avg Game Margin | N/A |
-| TBs in H2H | N/A |
-| 3-Setters in H2H | N/A |
-
-**No prior head-to-head history.** First meeting between these players.
+**No head-to-head data available** in api-tennis.com briefing.
 
 ---
 
 ## Market Comparison
 
-### Totals
+### Totals Market
 
-| Source | Line | Over | Under | Vig | Edge |
-|--------|------|------|-------|-----|------|
-| Model | 21.0 | 50.0% | 50.0% | 0% | - |
-| Market (OddsPortal) | O/U 20.5 | 49.7% | 50.3% | 7.2% | **0.6pp (Under)** |
+| Line | Over Odds | Under Odds | No-Vig Over | No-Vig Under | Model Over | Model Under | Edge |
+|------|-----------|------------|-------------|--------------|------------|-------------|------|
+| 20.5 | 1.96 | 1.91 | 49.4% | 50.6% | 49.0% | 51.0% | ±0.4 pp |
 
-**Market efficiency:** The market line of 20.5 is extremely close to the model's 21.0 fair line. The 0.6pp edge on the Under is negligible and well below the 2.5% minimum threshold.
+**Market Efficiency:** Excellent — model and market converge at 20.5 line.
 
-### Game Spread
+### Handicap Market
 
-**No spread market available for this match.**
+| Spread | Birrell Odds | Maria Odds | No-Vig Birrell | No-Vig Maria | Model Birrell | Model Maria | Edge |
+|--------|--------------|------------|----------------|--------------|---------------|-------------|------|
+| +4.5 / -4.5 | 1.92 | 1.94 | 50.3% | 49.7% | 58.0% | 42.0% | **+7.7 pp Birrell** |
+
+**Market Inefficiency:** Market overestimates Maria's game margin by ~1 game, creating value on Birrell +4.5.
+
+### Sharp Money Indicators
+- Totals line has minimal juice (1.96/1.91), suggesting sharp consensus at 20.5
+- Spread line shows balanced odds (1.92/1.94), indicating no clear market lean despite Maria's heavy moneyline favoritism
+- **Opportunity:** Public likely overvaluing Maria's dominance on spread based on Elo gap, while sharps recognize game-level competitiveness
 
 ---
 
 ## Recommendations
 
-### Totals Recommendation
+### Totals: **PASS**
+- **Line:** 20.5 games
+- **Edge:** 0.4 pp (insufficient)
+- **Reasoning:** Model and market in perfect agreement. No value on either side.
+- **Stake:** 0 units
 
-| Field | Value |
-|-------|-------|
-| **Market** | Total Games |
-| **Selection** | PASS |
-| **Target Price** | N/A |
-| **Edge** | 0.6 pp |
-| **Confidence** | N/A |
-| **Stake** | 0 units |
+### Handicap: **MEDIUM - Birrell +4.5**
+- **Line:** Birrell +4.5 at 1.92 odds
+- **Edge:** 7.7 pp
+- **Model Coverage Probability:** 58%
+- **Expected Value:** (0.58 × 0.92) - (0.42 × 1.00) = **+11.4% ROI**
+- **Reasoning:** Market overprices Maria's game dominance; Birrell's superior hold/break percentages compress expected margin to ~3.8 games versus market's 4.5
+- **Stake:** 1.25 units
+- **Confidence:** MEDIUM
 
-**Rationale:** The model's 21.0 fair line sits just 0.5 games above the market's 20.5 line, producing only a 0.6pp edge on the Under. This is well below the 2.5% minimum edge threshold required for a play. Both players' poor hold rates (63.4% and 66.5%) and low consolidation rates (~66%) support a lower-total environment, but the market has priced this efficiently. The tiny tiebreak samples (5 TBs each) create high variance in close-set outcomes. Pass - market is fairly priced.
+**Risk Factors:**
+1. **Birrell's inferior Elo (1395 vs 1746)** means quality deficit could produce blowout sets if Maria finds rhythm
+2. **Maria's 100% serve-for-match record** suggests clinical closing ability — if Maria wins 2-0 with 6-2, 6-3 scores, Birrell +4.5 fails
+3. **Small tiebreak sample sizes** (5 each) create uncertainty if match reaches 6-6 scenarios
+4. **Birrell's breakback% (29.4%) below Maria's (32.2%)** — difficulty recovering from deficits could lead to runaway sets
 
-### Game Spread Recommendation
-
-| Field | Value |
-|-------|-------|
-| **Market** | Game Handicap |
-| **Selection** | PASS (no market) |
-| **Target Price** | N/A |
-| **Edge** | N/A |
-| **Confidence** | N/A |
-| **Stake** | 0 units |
-
-**Rationale:** No game spread market is available for this match. If a spread were offered around Birrell -1.0 (the model's fair line), the play would still be PASS due to high directional uncertainty from the Elo-form divergence. Birrell's superior hold/break fundamentals suggest a small edge, but Maria's +351 Elo gap creates significant doubt about the direction.
-
-### Pass Conditions
-
-- **Totals:** Current edge of 0.6pp is below the 2.5% minimum. Would need line movement to O/U 21.5 or higher to generate sufficient edge on the Under.
-- **Spread:** No market available. If market emerges, would need Birrell -2.5 or better (model says Birrell -1.0) to consider, but Elo-form divergence would still warrant caution.
+**Support Factors:**
+1. **Birrell's hold% advantage (66.5% vs 63.4%)** provides defensive buffer on serve
+2. **Birrell's break% advantage (35.9% vs 32.5%)** creates offensive threat on return
+3. **Both players' weak hold%** prevents dominant hold streaks, forcing competitive games
+4. **Modal set scores (6-3, 6-4)** sum to ~20 games, well within +4.5 margin
+5. **75% straight sets probability** supports quick, competitive finish rather than extended blowout
 
 ---
 
-## Confidence & Risk
+## Confidence & Risk Assessment
 
-### Confidence Assessment
+### Totals (PASS)
+**Confidence:** N/A — No play recommended
+**Risk Level:** N/A
+**Key Uncertainties:** None — model and market aligned
 
-| Market | Edge | Confidence | Key Factors |
-|--------|------|------------|-------------|
-| **Totals** | 0.6pp | N/A (PASS) | Edge below threshold, good data quality, efficient market pricing |
-| **Spread** | N/A | N/A (PASS) | No market line, high Elo-form directional uncertainty |
+### Handicap (MEDIUM - Birrell +4.5)
+**Confidence:** MEDIUM
+**Risk Level:** MODERATE
+**Probability of Success:** 58%
+**Expected ROI:** +11.4%
 
-**Confidence Rationale:** Despite HIGH data quality from api-tennis.com (60+ matches each, comprehensive hold/break/clutch stats), the totals edge is insufficient to warrant a play. The market has efficiently priced the match at 20.5, just 0.5 games below the model's 21.0 expectation. The Elo-form divergence (Maria's career-high 1746 Elo vs recent 43.3% win rate) creates directional confusion for spread analysis - hold/break fundamentals favor Birrell but Elo heavily favors Maria. Both markets are PASS recommendations.
+**Key Uncertainties:**
+1. **Elo vs. Game-Level Stats Paradox:** Which dominates? If Elo (quality) prevails, Maria covers -4.5. If hold/break metrics prevail, Birrell +4.5 cashes.
+2. **Maria's Closing Efficiency:** 100% serve-for-match record suggests no slip-ups when ahead — could produce cleaner scorelines than model expects
+3. **Set Score Variance:** If Maria wins 6-2, 6-2 (16 games), Birrell +4.5 fails. Model expects 6-3, 6-4 (19-20 games).
+4. **Form Volatility:** Maria's 26-34 recent record (43% win rate) suggests inconsistency — if she underperforms, Birrell could win outright (pushing +4.5).
 
-### Variance Drivers
-
-- **Tiny tiebreak samples (5 TBs each over 60+ matches):** Creates high variance in 7-6 outcomes. P(at least 1 TB) = 20%, but outcome predictions highly unreliable. Could swing total by ±2 games if TB occurs.
-- **Low consolidation rates (66% both players):** Frequent break-trading creates volatile set patterns. Either player could break multiple times in a row, leading to blowout sets (6-1, 6-2) or competitive back-and-forth (6-4, 7-5). Wide range of possible set scores.
-- **Elo-form divergence:** Maria's 351-point Elo advantage contradicts her recent 26-34 record and inferior hold/break rates. Uncertainty about which metric is more predictive creates directional variance - match could go either way.
-
-### Data Limitations
-
-- **Extremely small tiebreak samples:** Only 5 tiebreaks each over 60+ matches makes TB outcome modeling highly speculative. Any match going to multiple TBs would have unpredictable outcomes.
-- **No H2H history:** First meeting between these players eliminates head-to-head context. Cannot assess stylistic matchup or historical game counts.
-- **Surface designation "all":** Briefing lists surface as "all" rather than specific surface type. Cannot apply precise surface adjustments to hold/break rates, though both players show consistent Elo across surfaces.
+**Recommendation Strength:**
+- **PLAY** Birrell +4.5 at 1.25 units — edge of 7.7 pp justifies medium confidence
+- **Monitor:** If line moves to +4.0 or tighter, edge evaporates (model fair line is -3.5)
+- **Alternative:** If Birrell +3.5 available at plus-money odds, consider as higher-edge option (model suggests 46% coverage at +3.5)
 
 ---
 
 ## Sources
 
-1. **api-tennis.com** - Player statistics (point-by-point data, last 52 weeks), match odds (totals via OddsPortal scraping)
-2. **Jeff Sackmann's Tennis Data** - Elo ratings (overall + surface-specific)
+**Primary Data Source:**
+- **api-tennis.com** — Player statistics (hold%, break%, Elo, recent form, clutch stats, key games) and odds data
+  - Data period: Last 52 weeks
+  - Maria: 60 matches analyzed
+  - Birrell: 64 matches analyzed
+
+**Elo Ratings:**
+- **Jeff Sackmann's Tennis Data** (GitHub CSV) — Overall and surface-specific Elo ratings
+
+**Odds Provider:**
+- **api-tennis.com multi-book feed** — Totals and spread lines aggregated from 10+ bookmakers
+  - Preferred sharp book: Pinnacle ("Pncl")
 
 ---
 
 ## Verification Checklist
 
-- [x] Quality & Form comparison table completed with analytical summary
-- [x] Hold/Break comparison table completed with analytical summary
-- [x] Pressure Performance tables completed with analytical summary
-- [x] Game distribution modeled (set scores, match structure, total games)
-- [x] Expected total games calculated with 95% CI
-- [x] Expected game margin calculated with 95% CI
-- [x] Totals Model Working shows step-by-step derivation with specific data points
-- [x] Totals Confidence Assessment explains level with edge, data quality, and alignment evidence
-- [x] Handicap Model Working shows step-by-step margin derivation with specific data points
-- [x] Handicap Confidence Assessment explains level with edge, convergence, and risk evidence
-- [x] Totals line compared to market (spread N/A - no market)
-- [x] Edge calculation performed (0.6pp totals, below 2.5% threshold)
-- [x] Each comparison section has Totals Impact + Spread Impact statements
-- [x] Confidence & Risk section completed
-- [x] **NO moneyline analysis included**
-- [x] **All data shown in comparison format only (no individual profiles)**
+✅ **Data Quality:**
+- [x] Briefing completeness: HIGH
+- [x] Stats for both players available: YES (60 matches Maria, 64 matches Birrell)
+- [x] Odds data available: YES (totals and spreads)
+- [x] Hold/Break data verified: YES (Maria 63.4% hold, 32.5% break | Birrell 66.5% hold, 35.9% break)
+
+✅ **Model Validation:**
+- [x] Expected total games (20.8) within historical range: YES (Maria 20.9, Birrell 22.2)
+- [x] Expected margin (-3.8 Maria) consistent with Elo gap: YES (351 points suggests -4 to -5, but compressed by Birrell's superior game stats)
+- [x] Confidence intervals calculated: YES (Total: 17.2–24.4, Margin: -6.2 to -1.4)
+- [x] Tiebreak probability assessed: YES (6%, very low)
+
+✅ **Recommendation Checks:**
+- [x] Edge calculations verified: YES (Totals: ±0.4 pp, Spread: +7.7 pp Birrell +4.5)
+- [x] Minimum edge threshold (2.5%): Totals FAIL (0.4 pp), Spread PASS (7.7 pp)
+- [x] Stakes within limits: YES (Totals 0 units, Spread 1.25 units for MEDIUM confidence)
+- [x] Risk factors documented: YES
+
+✅ **Anti-Anchoring Protocol:**
+- [x] Model built blind (Phase 3a): YES — Task agent received stats-only data, NO odds
+- [x] Fair lines locked before seeing market: YES — Fair total 20.5, fair spread -3.5
+- [x] Edge calculated from locked predictions: YES — No post-hoc adjustments to model
+
+✅ **Report Completeness:**
+- [x] Totals analysis included: YES
+- [x] Handicap analysis included: YES
+- [x] Moneyline analysis excluded: YES (not in scope)
+- [x] Executive summary with both recommendations: YES
+- [x] Hold/Break comparison detailed: YES
+- [x] Game distribution modeled: YES
+- [x] Sources documented: YES
+
+---
+
+**Report Generated:** 2026-02-15
+**Analysis Framework:** Tennis AI Totals & Handicaps Model v3.0
+**Data Source:** api-tennis.com (52-week lookback)
+**Model Type:** Blind two-phase (stats-only modeling → market comparison)
