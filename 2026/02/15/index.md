@@ -20,4 +20,5 @@ title: "February 15, 2026 - Tennis Reports"
 | D Shnaider Vs M Joint | [d_shnaider_vs_m_joint](wta-dubai-women/d_shnaider_vs_m_joint.md) |
 | L Sun Vs M Linette | [l_sun_vs_m_linette](wta-dubai-women/l_sun_vs_m_linette.md) |
 | H Baptiste Vs A Eala | [h_baptiste_vs_a_eala](wta-dubai-women/h_baptiste_vs_a_eala.md) |
+| Z Sonmez Vs S Bejlek | [z_sonmez_vs_s_bejlek](wta-dubai-women/z_sonmez_vs_s_bejlek.md) |
 
