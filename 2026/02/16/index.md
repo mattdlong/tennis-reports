@@ -14,4 +14,5 @@ title: "February 16, 2026 - Tennis Reports"
 | S Cirstea Vs A Sasnovich | [s_cirstea_vs_a_sasnovich](wta-dubai-women/s_cirstea_vs_a_sasnovich.md) |
 | B Bencic Vs J Bouzas Maneiro | [b_bencic_vs_j_bouzas_maneiro](wta-dubai-women/b_bencic_vs_j_bouzas_maneiro.md) |
 | L Fernandez Vs J Tjen | [l_fernandez_vs_j_tjen](wta-dubai-women/l_fernandez_vs_j_tjen.md) |
+| M Uchijima Vs A Zakharova | [m_uchijima_vs_a_zakharova](wta-dubai-women/m_uchijima_vs_a_zakharova.md) |
 
