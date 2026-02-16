@@ -16,3 +16,4 @@ title: "Wta Dubai Women - February 16, 2026"
 | M Uchijima Vs A Zakharova | [m_uchijima_vs_a_zakharova](m_uchijima_vs_a_zakharova.md) |
 | J Ostapenko Vs A Kalinskaya | [j_ostapenko_vs_a_kalinskaya](j_ostapenko_vs_a_kalinskaya.md) |
 | A Ruzic Vs E Raducanu | [a_ruzic_vs_e_raducanu](a_ruzic_vs_e_raducanu.md) |
+| K Siniakova Vs P Badosa | [k_siniakova_vs_p_badosa](k_siniakova_vs_p_badosa.md) |
