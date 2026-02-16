@@ -18,3 +18,4 @@ title: "Wta Dubai Women - February 16, 2026"
 | A Ruzic Vs E Raducanu | [a_ruzic_vs_e_raducanu](a_ruzic_vs_e_raducanu.md) |
 | K Siniakova Vs P Badosa | [k_siniakova_vs_p_badosa](k_siniakova_vs_p_badosa.md) |
 | J Cristian Vs V Mboko | [j_cristian_vs_v_mboko](j_cristian_vs_v_mboko.md) |
+| B Krejcikova Vs A Anisimova | [b_krejcikova_vs_a_anisimova](b_krejcikova_vs_a_anisimova.md) |

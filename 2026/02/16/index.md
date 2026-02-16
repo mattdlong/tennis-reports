@@ -19,4 +19,5 @@ title: "February 16, 2026 - Tennis Reports"
 | A Ruzic Vs E Raducanu | [a_ruzic_vs_e_raducanu](wta-dubai-women/a_ruzic_vs_e_raducanu.md) |
 | K Siniakova Vs P Badosa | [k_siniakova_vs_p_badosa](wta-dubai-women/k_siniakova_vs_p_badosa.md) |
 | J Cristian Vs V Mboko | [j_cristian_vs_v_mboko](wta-dubai-women/j_cristian_vs_v_mboko.md) |
+| B Krejcikova Vs A Anisimova | [b_krejcikova_vs_a_anisimova](wta-dubai-women/b_krejcikova_vs_a_anisimova.md) |
 
