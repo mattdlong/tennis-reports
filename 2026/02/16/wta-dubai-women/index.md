@@ -14,3 +14,4 @@ title: "Wta Dubai Women - February 16, 2026"
 | B Bencic Vs J Bouzas Maneiro | [b_bencic_vs_j_bouzas_maneiro](b_bencic_vs_j_bouzas_maneiro.md) |
 | L Fernandez Vs J Tjen | [l_fernandez_vs_j_tjen](l_fernandez_vs_j_tjen.md) |
 | M Uchijima Vs A Zakharova | [m_uchijima_vs_a_zakharova](m_uchijima_vs_a_zakharova.md) |
+| J Ostapenko Vs A Kalinskaya | [j_ostapenko_vs_a_kalinskaya](j_ostapenko_vs_a_kalinskaya.md) |
