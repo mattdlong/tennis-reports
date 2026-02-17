@@ -16,4 +16,5 @@ title: "February 17, 2026 - Tennis Reports"
 | E Mertens Vs E Navarro | [e_mertens_vs_e_navarro](wta-dubai-women/e_mertens_vs_e_navarro.md) |
 | M Andreeva Vs D Kasatkina | [m_andreeva_vs_d_kasatkina](wta-dubai-women/m_andreeva_vs_d_kasatkina.md) |
 | B Bencic Vs S Bejlek | [b_bencic_vs_s_bejlek](wta-dubai-women/b_bencic_vs_s_bejlek.md) |
+| C Gauff Vs A Kalinskaya | [c_gauff_vs_a_kalinskaya](wta-dubai-women/c_gauff_vs_a_kalinskaya.md) |
 
