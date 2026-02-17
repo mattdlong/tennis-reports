@@ -8,4 +8,4 @@ title: "2026 - Tennis Reports"
 | Month | Days |
 |-------|------|
 | [January](01/) | 18 days |
-| [February](02/) | 9 days |
+| [February](02/) | 10 days |
