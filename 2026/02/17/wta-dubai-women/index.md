@@ -12,3 +12,4 @@ title: "Wta Dubai Women - February 17, 2026"
 | V Gracheva Vs J Pegula | [v_gracheva_vs_j_pegula](v_gracheva_vs_j_pegula.md) |
 | P Stearns Vs C Tauson | [p_stearns_vs_c_tauson](p_stearns_vs_c_tauson.md) |
 | I Jovic Vs D Shnaider | [i_jovic_vs_d_shnaider](i_jovic_vs_d_shnaider.md) |
+| E Mertens Vs E Navarro | [e_mertens_vs_e_navarro](e_mertens_vs_e_navarro.md) |
