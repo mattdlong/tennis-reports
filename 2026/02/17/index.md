@@ -19,4 +19,5 @@ title: "February 17, 2026 - Tennis Reports"
 | C Gauff Vs A Kalinskaya | [c_gauff_vs_a_kalinskaya](wta-dubai-women/c_gauff_vs_a_kalinskaya.md) |
 | A Ruzic Vs A Zakharova | [a_ruzic_vs_a_zakharova](wta-dubai-women/a_ruzic_vs_a_zakharova.md) |
 | E Seidel Vs J Cristian | [e_seidel_vs_j_cristian](wta-dubai-women/e_seidel_vs_j_cristian.md) |
+| P Badosa Vs E Svitolina | [p_badosa_vs_e_svitolina](wta-dubai-women/p_badosa_vs_e_svitolina.md) |
 

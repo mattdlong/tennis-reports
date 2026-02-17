@@ -18,3 +18,4 @@ title: "Wta Dubai Women - February 17, 2026"
 | C Gauff Vs A Kalinskaya | [c_gauff_vs_a_kalinskaya](c_gauff_vs_a_kalinskaya.md) |
 | A Ruzic Vs A Zakharova | [a_ruzic_vs_a_zakharova](a_ruzic_vs_a_zakharova.md) |
 | E Seidel Vs J Cristian | [e_seidel_vs_j_cristian](e_seidel_vs_j_cristian.md) |
+| P Badosa Vs E Svitolina | [p_badosa_vs_e_svitolina](p_badosa_vs_e_svitolina.md) |
