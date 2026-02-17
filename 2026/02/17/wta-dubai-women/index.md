@@ -14,3 +14,4 @@ title: "Wta Dubai Women - February 17, 2026"
 | I Jovic Vs D Shnaider | [i_jovic_vs_d_shnaider](i_jovic_vs_d_shnaider.md) |
 | E Mertens Vs E Navarro | [e_mertens_vs_e_navarro](e_mertens_vs_e_navarro.md) |
 | M Andreeva Vs D Kasatkina | [m_andreeva_vs_d_kasatkina](m_andreeva_vs_d_kasatkina.md) |
+| B Bencic Vs S Bejlek | [b_bencic_vs_s_bejlek](b_bencic_vs_s_bejlek.md) |
