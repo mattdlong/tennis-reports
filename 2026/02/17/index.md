@@ -20,4 +20,5 @@ title: "February 17, 2026 - Tennis Reports"
 | A Ruzic Vs A Zakharova | [a_ruzic_vs_a_zakharova](wta-dubai-women/a_ruzic_vs_a_zakharova.md) |
 | E Seidel Vs J Cristian | [e_seidel_vs_j_cristian](wta-dubai-women/e_seidel_vs_j_cristian.md) |
 | P Badosa Vs E Svitolina | [p_badosa_vs_e_svitolina](wta-dubai-women/p_badosa_vs_e_svitolina.md) |
+| L Noskova Vs S Cirstea | [l_noskova_vs_s_cirstea](wta-dubai-women/l_noskova_vs_s_cirstea.md) |
 
