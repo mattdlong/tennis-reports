@@ -22,4 +22,5 @@ title: "February 17, 2026 - Tennis Reports"
 | P Badosa Vs E Svitolina | [p_badosa_vs_e_svitolina](wta-dubai-women/p_badosa_vs_e_svitolina.md) |
 | L Noskova Vs S Cirstea | [l_noskova_vs_s_cirstea](wta-dubai-women/l_noskova_vs_s_cirstea.md) |
 | E Rybakina Vs K Birrell | [e_rybakina_vs_k_birrell](wta-dubai-women/e_rybakina_vs_k_birrell.md) |
+| A Eala Vs J Paolini | [a_eala_vs_j_paolini](wta-dubai-women/a_eala_vs_j_paolini.md) |
 
