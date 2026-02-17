@@ -20,3 +20,4 @@ title: "Wta Dubai Women - February 17, 2026"
 | E Seidel Vs J Cristian | [e_seidel_vs_j_cristian](e_seidel_vs_j_cristian.md) |
 | P Badosa Vs E Svitolina | [p_badosa_vs_e_svitolina](p_badosa_vs_e_svitolina.md) |
 | L Noskova Vs S Cirstea | [l_noskova_vs_s_cirstea](l_noskova_vs_s_cirstea.md) |
+| E Rybakina Vs K Birrell | [e_rybakina_vs_k_birrell](e_rybakina_vs_k_birrell.md) |
