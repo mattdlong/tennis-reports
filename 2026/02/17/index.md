@@ -14,4 +14,5 @@ title: "February 17, 2026 - Tennis Reports"
 | P Stearns Vs C Tauson | [p_stearns_vs_c_tauson](wta-dubai-women/p_stearns_vs_c_tauson.md) |
 | I Jovic Vs D Shnaider | [i_jovic_vs_d_shnaider](wta-dubai-women/i_jovic_vs_d_shnaider.md) |
 | E Mertens Vs E Navarro | [e_mertens_vs_e_navarro](wta-dubai-women/e_mertens_vs_e_navarro.md) |
+| M Andreeva Vs D Kasatkina | [m_andreeva_vs_d_kasatkina](wta-dubai-women/m_andreeva_vs_d_kasatkina.md) |
 
