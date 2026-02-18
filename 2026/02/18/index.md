@@ -15,4 +15,5 @@ title: "February 18, 2026 - Tennis Reports"
 | I Jovic Vs J Pegula | [i_jovic_vs_j_pegula](wta-dubai-women/i_jovic_vs_j_pegula.md) |
 | E Rybakina Vs A Ruzic | [e_rybakina_vs_a_ruzic](wta-dubai-women/e_rybakina_vs_a_ruzic.md) |
 | B Bencic Vs E Svitolina | [b_bencic_vs_e_svitolina](wta-dubai-women/b_bencic_vs_e_svitolina.md) |
+| C Gauff Vs E Mertens | [c_gauff_vs_e_mertens](wta-dubai-women/c_gauff_vs_e_mertens.md) |
 
