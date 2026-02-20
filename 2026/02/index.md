@@ -19,4 +19,4 @@ title: "February 2026 - Tennis Reports"
 | [February 17](17/) | [Wta Dubai Women](17/wta-dubai-women/) (14) |
 | [February 18](18/) | [Wta Dubai Women](18/wta-dubai-women/) (8) |
 | [February 19](19/) | [Wta Dubai Women](19/wta-dubai-women/) (4) |
-| [February 20](20/) | [Wta Dubai Women](20/wta-dubai-women/) (1) |
+| [February 20](20/) | [Wta Dubai Women](20/wta-dubai-women/) (2) |
