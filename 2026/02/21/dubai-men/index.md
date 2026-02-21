@@ -15,3 +15,4 @@ title: "Dubai Men - February 21, 2026"
 | M Trungelliti Vs L Nardi | [m_trungelliti_vs_l_nardi](m_trungelliti_vs_l_nardi.md) |
 | B Van De Zandschulp Vs P Carreno-Busta | [b_van_de_zandschulp_vs_p_carreno-busta](b_van_de_zandschulp_vs_p_carreno-busta.md) |
 | N Basilashvili Vs A Shevchenko | [n_basilashvili_vs_a_shevchenko](n_basilashvili_vs_a_shevchenko.md) |
+| Q Halys Vs C O'Connell | [q_halys_vs_c_o'connell](q_halys_vs_c_o'connell.md) |
