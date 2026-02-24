@@ -18,4 +18,5 @@ title: "February 24, 2026 - Tennis Reports"
 | A Fils Vs J Lehecka | [a_fils_vs_j_lehecka](atp-dubai-men/a_fils_vs_j_lehecka.md) |
 | O Virtanen Vs T Griekspoor | [o_virtanen_vs_t_griekspoor](atp-dubai-men/o_virtanen_vs_t_griekspoor.md) |
 | A Popyrin Vs K Majchrzak | [a_popyrin_vs_k_majchrzak](atp-dubai-men/a_popyrin_vs_k_majchrzak.md) |
+| U Humbert Vs S Tsitsipas | [u_humbert_vs_s_tsitsipas](atp-dubai-men/u_humbert_vs_s_tsitsipas.md) |
 
