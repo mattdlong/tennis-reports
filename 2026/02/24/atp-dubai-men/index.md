@@ -14,3 +14,4 @@ title: "Atp Dubai Men - February 24, 2026"
 | F Marozsan Vs A Rinderknech | [f_marozsan_vs_a_rinderknech](f_marozsan_vs_a_rinderknech.md) |
 | A Shevchenko Vs K Khachanov | [a_shevchenko_vs_k_khachanov](a_shevchenko_vs_k_khachanov.md) |
 | J-L Struff Vs A Bublik | [j-l_struff_vs_a_bublik](j-l_struff_vs_a_bublik.md) |
+| A Fils Vs J Lehecka | [a_fils_vs_j_lehecka](a_fils_vs_j_lehecka.md) |
