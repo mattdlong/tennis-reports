@@ -20,4 +20,5 @@ title: "February 24, 2026 - Tennis Reports"
 | A Popyrin Vs K Majchrzak | [a_popyrin_vs_k_majchrzak](atp-dubai-men/a_popyrin_vs_k_majchrzak.md) |
 | U Humbert Vs S Tsitsipas | [u_humbert_vs_s_tsitsipas](atp-dubai-men/u_humbert_vs_s_tsitsipas.md) |
 | J Mensik Vs H Hurkacz | [j_mensik_vs_h_hurkacz](atp-dubai-men/j_mensik_vs_h_hurkacz.md) |
+| A Rublev Vs V Royer | [a_rublev_vs_v_royer](atp-dubai-men/a_rublev_vs_v_royer.md) |
 
