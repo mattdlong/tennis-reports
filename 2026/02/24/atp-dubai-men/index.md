@@ -16,3 +16,4 @@ title: "Atp Dubai Men - February 24, 2026"
 | J-L Struff Vs A Bublik | [j-l_struff_vs_a_bublik](j-l_struff_vs_a_bublik.md) |
 | A Fils Vs J Lehecka | [a_fils_vs_j_lehecka](a_fils_vs_j_lehecka.md) |
 | O Virtanen Vs T Griekspoor | [o_virtanen_vs_t_griekspoor](o_virtanen_vs_t_griekspoor.md) |
+| A Popyrin Vs K Majchrzak | [a_popyrin_vs_k_majchrzak](a_popyrin_vs_k_majchrzak.md) |
