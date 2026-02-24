@@ -18,3 +18,4 @@ title: "Atp Dubai Men - February 24, 2026"
 | O Virtanen Vs T Griekspoor | [o_virtanen_vs_t_griekspoor](o_virtanen_vs_t_griekspoor.md) |
 | A Popyrin Vs K Majchrzak | [a_popyrin_vs_k_majchrzak](a_popyrin_vs_k_majchrzak.md) |
 | U Humbert Vs S Tsitsipas | [u_humbert_vs_s_tsitsipas](u_humbert_vs_s_tsitsipas.md) |
+| J Mensik Vs H Hurkacz | [j_mensik_vs_h_hurkacz](j_mensik_vs_h_hurkacz.md) |
