@@ -16,4 +16,5 @@ title: "February 24, 2026 - Tennis Reports"
 | A Shevchenko Vs K Khachanov | [a_shevchenko_vs_k_khachanov](atp-dubai-men/a_shevchenko_vs_k_khachanov.md) |
 | J-L Struff Vs A Bublik | [j-l_struff_vs_a_bublik](atp-dubai-men/j-l_struff_vs_a_bublik.md) |
 | A Fils Vs J Lehecka | [a_fils_vs_j_lehecka](atp-dubai-men/a_fils_vs_j_lehecka.md) |
+| O Virtanen Vs T Griekspoor | [o_virtanen_vs_t_griekspoor](atp-dubai-men/o_virtanen_vs_t_griekspoor.md) |
 
