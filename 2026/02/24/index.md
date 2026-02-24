@@ -14,4 +14,5 @@ title: "February 24, 2026 - Tennis Reports"
 | P Carreno-Busta Vs D Shapovalov | [p_carreno-busta_vs_d_shapovalov](atp-dubai-men/p_carreno-busta_vs_d_shapovalov.md) |
 | F Marozsan Vs A Rinderknech | [f_marozsan_vs_a_rinderknech](atp-dubai-men/f_marozsan_vs_a_rinderknech.md) |
 | A Shevchenko Vs K Khachanov | [a_shevchenko_vs_k_khachanov](atp-dubai-men/a_shevchenko_vs_k_khachanov.md) |
+| J-L Struff Vs A Bublik | [j-l_struff_vs_a_bublik](atp-dubai-men/j-l_struff_vs_a_bublik.md) |
 
