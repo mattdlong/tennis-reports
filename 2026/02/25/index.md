@@ -15,4 +15,5 @@ title: "February 25, 2026 - Tennis Reports"
 | F Auger-Aliassime Vs G Mpetshi Perricard | [f_auger-aliassime_vs_g_mpetshi_perricard](atp-dubai-men/f_auger-aliassime_vs_g_mpetshi_perricard.md) |
 | T Griekspoor Vs A Bublik | [t_griekspoor_vs_a_bublik](atp-dubai-men/t_griekspoor_vs_a_bublik.md) |
 | J Mensik Vs A Popyrin | [j_mensik_vs_a_popyrin](atp-dubai-men/j_mensik_vs_a_popyrin.md) |
+| A Rublev Vs U Humbert | [a_rublev_vs_u_humbert](atp-dubai-men/a_rublev_vs_u_humbert.md) |
 
