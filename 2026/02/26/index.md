@@ -12,4 +12,5 @@ title: "February 26, 2026 - Tennis Reports"
 | D Medvedev Vs J Brooksby | [d_medvedev_vs_j_brooksby](atp-dubai-men/d_medvedev_vs_j_brooksby.md) |
 | F Auger-Aliassime Vs J Lehecka | [f_auger-aliassime_vs_j_lehecka](atp-dubai-men/f_auger-aliassime_vs_j_lehecka.md) |
 | A Rublev Vs A Rinderknech | [a_rublev_vs_a_rinderknech](atp-dubai-men/a_rublev_vs_a_rinderknech.md) |
+| J Mensik Vs T Griekspoor | [j_mensik_vs_t_griekspoor](atp-dubai-men/j_mensik_vs_t_griekspoor.md) |
 
