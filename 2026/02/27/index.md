@@ -17,4 +17,5 @@ title: "February 27, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | Y Hanfmann Vs V Gaubas | [y_hanfmann_vs_v_gaubas](atp-santiago-men/y_hanfmann_vs_v_gaubas.md) |
+| F Cerundolo Vs E Nava | [f_cerundolo_vs_e_nava](atp-santiago-men/f_cerundolo_vs_e_nava.md) |
 
