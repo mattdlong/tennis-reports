@@ -24,4 +24,4 @@ title: "February 2026 - Tennis Reports"
 | [February 24](24/) | [Atp Dubai Men](24/atp-dubai-men/) (12) |
 | [February 25](25/) | [Atp Dubai Men](25/atp-dubai-men/) (8) |
 | [February 26](26/) | [Atp Dubai Men](26/atp-dubai-men/) (4) |
-| [February 27](27/) | [Atp Dubai Men](27/atp-dubai-men/) (2) |
+| [February 27](27/) | [Atp Dubai Men](27/atp-dubai-men/) (2), [Atp Santiago Men](27/atp-santiago-men/) (1) |
