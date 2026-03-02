@@ -18,6 +18,7 @@ title: "March 2, 2026 - Tennis Reports"
 | I Buse Vs L Draxl | [i_buse_vs_l_draxl](indian-wells-men/i_buse_vs_l_draxl.md) |
 | A Johnson Vs D Sweeny | [a_johnson_vs_d_sweeny](indian-wells-men/a_johnson_vs_d_sweeny.md) |
 | P Kypson Vs D Merida Aguilar | [p_kypson_vs_d_merida_aguilar](indian-wells-men/p_kypson_vs_d_merida_aguilar.md) |
+| N Mejia Vs N Basilashvili | [n_mejia_vs_n_basilashvili](indian-wells-men/n_mejia_vs_n_basilashvili.md) |
 
 ## Wta Indian Wells Women
 
