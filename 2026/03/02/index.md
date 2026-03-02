@@ -13,6 +13,7 @@ title: "March 2, 2026 - Tennis Reports"
 | B Bonzi Vs J Pinnington Jones | [b_bonzi_vs_j_pinnington_jones](indian-wells-men/b_bonzi_vs_j_pinnington_jones.md) |
 | F A Gomez Vs S Mochizuki | [f_a_gomez_vs_s_mochizuki](indian-wells-men/f_a_gomez_vs_s_mochizuki.md) |
 | N Jarry Vs F Maestrelli | [n_jarry_vs_f_maestrelli](indian-wells-men/n_jarry_vs_f_maestrelli.md) |
+| C O'Connell Vs B Harris | [c_o'connell_vs_b_harris](indian-wells-men/c_o'connell_vs_b_harris.md) |
 
 ## Wta Indian Wells Women
 
