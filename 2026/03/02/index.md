@@ -12,4 +12,5 @@ title: "March 2, 2026 - Tennis Reports"
 | K Boulter Vs V Tomova | [k_boulter_vs_v_tomova](wta-indian-wells-women/k_boulter_vs_v_tomova.md) |
 | D Galfi Vs Y Yuan | [d_galfi_vs_y_yuan](wta-indian-wells-women/d_galfi_vs_y_yuan.md) |
 | M Sawangkaew Vs R Masarova | [m_sawangkaew_vs_r_masarova](wta-indian-wells-women/m_sawangkaew_vs_r_masarova.md) |
+| R Zarazua Vs P Hon | [r_zarazua_vs_p_hon](wta-indian-wells-women/r_zarazua_vs_p_hon.md) |
 
