@@ -13,4 +13,5 @@ title: "March 2, 2026 - Tennis Reports"
 | D Galfi Vs Y Yuan | [d_galfi_vs_y_yuan](wta-indian-wells-women/d_galfi_vs_y_yuan.md) |
 | M Sawangkaew Vs R Masarova | [m_sawangkaew_vs_r_masarova](wta-indian-wells-women/m_sawangkaew_vs_r_masarova.md) |
 | R Zarazua Vs P Hon | [r_zarazua_vs_p_hon](wta-indian-wells-women/r_zarazua_vs_p_hon.md) |
+| J Garland Vs T Townsend | [j_garland_vs_t_townsend](wta-indian-wells-women/j_garland_vs_t_townsend.md) |
 
