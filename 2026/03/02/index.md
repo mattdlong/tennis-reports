@@ -23,6 +23,7 @@ title: "March 2, 2026 - Tennis Reports"
 | A Vukic Vs S Travaglia | [a_vukic_vs_s_travaglia](indian-wells-men/a_vukic_vs_s_travaglia.md) |
 | E Ymer Vs C Wong | [e_ymer_vs_c_wong](indian-wells-men/e_ymer_vs_c_wong.md) |
 | V Sachko Vs M Mcdonald | [v_sachko_vs_m_mcdonald](indian-wells-men/v_sachko_vs_m_mcdonald.md) |
+| L Van Assche Vs A Galarneau | [l_van_assche_vs_a_galarneau](indian-wells-men/l_van_assche_vs_a_galarneau.md) |
 
 ## Wta Indian Wells Women
 

@@ -22,3 +22,4 @@ title: "Indian Wells Men - March 2, 2026"
 | A Vukic Vs S Travaglia | [a_vukic_vs_s_travaglia](a_vukic_vs_s_travaglia.md) |
 | E Ymer Vs C Wong | [e_ymer_vs_c_wong](e_ymer_vs_c_wong.md) |
 | V Sachko Vs M Mcdonald | [v_sachko_vs_m_mcdonald](v_sachko_vs_m_mcdonald.md) |
+| L Van Assche Vs A Galarneau | [l_van_assche_vs_a_galarneau](l_van_assche_vs_a_galarneau.md) |
