@@ -9,4 +9,4 @@ AI-powered tennis betting analysis.
 
 | Year | Months |
 |------|--------|
-| [2026](2026/) | 2 months |
+| [2026](2026/) | 3 months |
