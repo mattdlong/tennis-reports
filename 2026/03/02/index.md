@@ -20,6 +20,7 @@ title: "March 2, 2026 - Tennis Reports"
 | P Kypson Vs D Merida Aguilar | [p_kypson_vs_d_merida_aguilar](indian-wells-men/p_kypson_vs_d_merida_aguilar.md) |
 | N Mejia Vs N Basilashvili | [n_mejia_vs_n_basilashvili](indian-wells-men/n_mejia_vs_n_basilashvili.md) |
 | T Schoolkate Vs A Bolt | [t_schoolkate_vs_a_bolt](indian-wells-men/t_schoolkate_vs_a_bolt.md) |
+| A Vukic Vs S Travaglia | [a_vukic_vs_s_travaglia](indian-wells-men/a_vukic_vs_s_travaglia.md) |
 
 ## Wta Indian Wells Women
 
