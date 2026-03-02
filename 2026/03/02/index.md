@@ -17,6 +17,7 @@ title: "March 2, 2026 - Tennis Reports"
 | T A Tirante Vs I Ahmad | [t_a_tirante_vs_i_ahmad](indian-wells-men/t_a_tirante_vs_i_ahmad.md) |
 | I Buse Vs L Draxl | [i_buse_vs_l_draxl](indian-wells-men/i_buse_vs_l_draxl.md) |
 | A Johnson Vs D Sweeny | [a_johnson_vs_d_sweeny](indian-wells-men/a_johnson_vs_d_sweeny.md) |
+| P Kypson Vs D Merida Aguilar | [p_kypson_vs_d_merida_aguilar](indian-wells-men/p_kypson_vs_d_merida_aguilar.md) |
 
 ## Wta Indian Wells Women
 
