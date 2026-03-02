@@ -15,6 +15,7 @@ title: "March 2, 2026 - Tennis Reports"
 | N Jarry Vs F Maestrelli | [n_jarry_vs_f_maestrelli](indian-wells-men/n_jarry_vs_f_maestrelli.md) |
 | C O'Connell Vs B Harris | [c_o'connell_vs_b_harris](indian-wells-men/c_o'connell_vs_b_harris.md) |
 | T A Tirante Vs I Ahmad | [t_a_tirante_vs_i_ahmad](indian-wells-men/t_a_tirante_vs_i_ahmad.md) |
+| I Buse Vs L Draxl | [i_buse_vs_l_draxl](indian-wells-men/i_buse_vs_l_draxl.md) |
 
 ## Wta Indian Wells Women
 

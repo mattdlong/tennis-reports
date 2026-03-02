@@ -7,4 +7,4 @@ title: "March 2026 - Tennis Reports"
 
 | Date | Events |
 |------|--------|
-| [March 2](02/) | [Indian Wells Men](02/indian-wells-men/) (6), [Wta Indian Wells Women](02/wta-indian-wells-women/) (8) |
+| [March 2](02/) | [Indian Wells Men](02/indian-wells-men/) (7), [Wta Indian Wells Women](02/wta-indian-wells-women/) (8) |
