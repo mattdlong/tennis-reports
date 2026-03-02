@@ -15,3 +15,4 @@ title: "Wta Indian Wells Women - March 2, 2026"
 | J Garland Vs T Townsend | [j_garland_vs_t_townsend](j_garland_vs_t_townsend.md) |
 | K Juvan Vs A Urhobo | [k_juvan_vs_a_urhobo](k_juvan_vs_a_urhobo.md) |
 | S Kraus Vs S Hunter | [s_kraus_vs_s_hunter](s_kraus_vs_s_hunter.md) |
+| L Stefanini Vs V Jimenez Kasintseva | [l_stefanini_vs_v_jimenez_kasintseva](l_stefanini_vs_v_jimenez_kasintseva.md) |
