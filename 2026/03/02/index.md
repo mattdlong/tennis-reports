@@ -11,6 +11,7 @@ title: "March 2, 2026 - Tennis Reports"
 |-------|--------|
 | A Blockx Vs M Landaluce | [a_blockx_vs_m_landaluce](indian-wells-men/a_blockx_vs_m_landaluce.md) |
 | B Bonzi Vs J Pinnington Jones | [b_bonzi_vs_j_pinnington_jones](indian-wells-men/b_bonzi_vs_j_pinnington_jones.md) |
+| F A Gomez Vs S Mochizuki | [f_a_gomez_vs_s_mochizuki](indian-wells-men/f_a_gomez_vs_s_mochizuki.md) |
 
 ## Wta Indian Wells Women
 
