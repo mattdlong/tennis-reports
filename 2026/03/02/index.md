@@ -10,4 +10,5 @@ title: "March 2, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | K Boulter Vs V Tomova | [k_boulter_vs_v_tomova](wta-indian-wells-women/k_boulter_vs_v_tomova.md) |
+| D Galfi Vs Y Yuan | [d_galfi_vs_y_yuan](wta-indian-wells-women/d_galfi_vs_y_yuan.md) |
 
