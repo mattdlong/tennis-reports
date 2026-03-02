@@ -18,3 +18,4 @@ title: "Indian Wells Men - March 2, 2026"
 | A Johnson Vs D Sweeny | [a_johnson_vs_d_sweeny](a_johnson_vs_d_sweeny.md) |
 | P Kypson Vs D Merida Aguilar | [p_kypson_vs_d_merida_aguilar](p_kypson_vs_d_merida_aguilar.md) |
 | N Mejia Vs N Basilashvili | [n_mejia_vs_n_basilashvili](n_mejia_vs_n_basilashvili.md) |
+| T Schoolkate Vs A Bolt | [t_schoolkate_vs_a_bolt](t_schoolkate_vs_a_bolt.md) |
