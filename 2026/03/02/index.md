@@ -5,6 +5,12 @@ title: "March 2, 2026 - Tennis Reports"
 
 # March 2, 2026
 
+## Indian Wells Men
+
+| Match | Report |
+|-------|--------|
+| A Blockx Vs M Landaluce | [a_blockx_vs_m_landaluce](indian-wells-men/a_blockx_vs_m_landaluce.md) |
+
 ## Wta Indian Wells Women
 
 | Match | Report |
