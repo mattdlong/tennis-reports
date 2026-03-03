@@ -13,3 +13,4 @@ title: "Wta Indian Wells Women - March 3, 2026"
 | K Rakhimova Vs M Timofeeva | [k_rakhimova_vs_m_timofeeva](k_rakhimova_vs_m_timofeeva.md) |
 | L Sun Vs D Parry | [l_sun_vs_d_parry](l_sun_vs_d_parry.md) |
 | D Semenistaja Vs K Day | [d_semenistaja_vs_k_day](d_semenistaja_vs_k_day.md) |
+| M Stakusic Vs M Sawangkaew | [m_stakusic_vs_m_sawangkaew](m_stakusic_vs_m_sawangkaew.md) |
