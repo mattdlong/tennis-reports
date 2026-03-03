@@ -14,6 +14,7 @@ title: "March 3, 2026 - Tennis Reports"
 | D Merida Aguilar Vs D Sweeny | [d_merida_aguilar_vs_d_sweeny](atp-indian-wells-men/d_merida_aguilar_vs_d_sweeny.md) |
 | C O'Connell Vs N Basilashvili | [c_o'connell_vs_n_basilashvili](atp-indian-wells-men/c_o'connell_vs_n_basilashvili.md) |
 | T A Tirante Vs F Maestrelli | [t_a_tirante_vs_f_maestrelli](atp-indian-wells-men/t_a_tirante_vs_f_maestrelli.md) |
+| A Vukic Vs D Prizmic | [a_vukic_vs_d_prizmic](atp-indian-wells-men/a_vukic_vs_d_prizmic.md) |
 
 ## Wta Indian Wells Women
 
