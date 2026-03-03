@@ -10,6 +10,7 @@ title: "March 3, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | M Landaluce Vs S Shimabukuro | [m_landaluce_vs_s_shimabukuro](atp-indian-wells-men/m_landaluce_vs_s_shimabukuro.md) |
+| B Bonzi Vs S Mochizuki | [b_bonzi_vs_s_mochizuki](atp-indian-wells-men/b_bonzi_vs_s_mochizuki.md) |
 
 ## Wta Indian Wells Women
 
