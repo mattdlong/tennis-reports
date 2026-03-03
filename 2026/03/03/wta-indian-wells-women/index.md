@@ -17,3 +17,4 @@ title: "Wta Indian Wells Women - March 3, 2026"
 | H Sakatsume Vs N Bartunkova | [h_sakatsume_vs_n_bartunkova](h_sakatsume_vs_n_bartunkova.md) |
 | D Galfi Vs L Tararudee | [d_galfi_vs_l_tararudee](d_galfi_vs_l_tararudee.md) |
 | P Hon Vs D Vidmanova | [p_hon_vs_d_vidmanova](p_hon_vs_d_vidmanova.md) |
+| A Urhobo Vs T Townsend | [a_urhobo_vs_t_townsend](a_urhobo_vs_t_townsend.md) |
