@@ -13,6 +13,7 @@ title: "March 3, 2026 - Tennis Reports"
 | B Bonzi Vs S Mochizuki | [b_bonzi_vs_s_mochizuki](atp-indian-wells-men/b_bonzi_vs_s_mochizuki.md) |
 | D Merida Aguilar Vs D Sweeny | [d_merida_aguilar_vs_d_sweeny](atp-indian-wells-men/d_merida_aguilar_vs_d_sweeny.md) |
 | C O'Connell Vs N Basilashvili | [c_o'connell_vs_n_basilashvili](atp-indian-wells-men/c_o'connell_vs_n_basilashvili.md) |
+| T A Tirante Vs F Maestrelli | [t_a_tirante_vs_f_maestrelli](atp-indian-wells-men/t_a_tirante_vs_f_maestrelli.md) |
 
 ## Wta Indian Wells Women
 
