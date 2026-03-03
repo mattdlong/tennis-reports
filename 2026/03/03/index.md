@@ -19,4 +19,5 @@ title: "March 3, 2026 - Tennis Reports"
 | D Galfi Vs L Tararudee | [d_galfi_vs_l_tararudee](wta-indian-wells-women/d_galfi_vs_l_tararudee.md) |
 | P Hon Vs D Vidmanova | [p_hon_vs_d_vidmanova](wta-indian-wells-women/p_hon_vs_d_vidmanova.md) |
 | A Urhobo Vs T Townsend | [a_urhobo_vs_t_townsend](wta-indian-wells-women/a_urhobo_vs_t_townsend.md) |
+| S Hunter Vs L Jeanjean | [s_hunter_vs_l_jeanjean](wta-indian-wells-women/s_hunter_vs_l_jeanjean.md) |
 
