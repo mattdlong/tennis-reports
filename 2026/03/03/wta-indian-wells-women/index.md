@@ -19,3 +19,4 @@ title: "Wta Indian Wells Women - March 3, 2026"
 | P Hon Vs D Vidmanova | [p_hon_vs_d_vidmanova](p_hon_vs_d_vidmanova.md) |
 | A Urhobo Vs T Townsend | [a_urhobo_vs_t_townsend](a_urhobo_vs_t_townsend.md) |
 | S Hunter Vs L Jeanjean | [s_hunter_vs_l_jeanjean](s_hunter_vs_l_jeanjean.md) |
+| K Boulter Vs V Jimenez Kasintseva | [k_boulter_vs_v_jimenez_kasintseva](k_boulter_vs_v_jimenez_kasintseva.md) |
