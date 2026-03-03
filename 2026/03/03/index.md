@@ -13,4 +13,5 @@ title: "March 3, 2026 - Tennis Reports"
 | E Kalieva Vs T Gibson | [e_kalieva_vs_t_gibson](wta-indian-wells-women/e_kalieva_vs_t_gibson.md) |
 | K Rakhimova Vs M Timofeeva | [k_rakhimova_vs_m_timofeeva](wta-indian-wells-women/k_rakhimova_vs_m_timofeeva.md) |
 | L Sun Vs D Parry | [l_sun_vs_d_parry](wta-indian-wells-women/l_sun_vs_d_parry.md) |
+| D Semenistaja Vs K Day | [d_semenistaja_vs_k_day](wta-indian-wells-women/d_semenistaja_vs_k_day.md) |
 
