@@ -14,3 +14,4 @@ title: "Wta Indian Wells Women - March 4, 2026"
 | A Potapova Vs M Stakusic | [a_potapova_vs_m_stakusic](a_potapova_vs_m_stakusic.md) |
 | Z Sonmez Vs M Kessler | [z_sonmez_vs_m_kessler](z_sonmez_vs_m_kessler.md) |
 | A Tomljanovic Vs G Ruse | [a_tomljanovic_vs_g_ruse](a_tomljanovic_vs_g_ruse.md) |
+| T Gibson Vs A Li | [t_gibson_vs_a_li](t_gibson_vs_a_li.md) |
