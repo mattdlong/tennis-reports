@@ -13,4 +13,5 @@ title: "March 4, 2026 - Tennis Reports"
 | S Cirstea Vs T Maria | [s_cirstea_vs_t_maria](wta-indian-wells-women/s_cirstea_vs_t_maria.md) |
 | Y Putintseva Vs P Badosa | [y_putintseva_vs_p_badosa](wta-indian-wells-women/y_putintseva_vs_p_badosa.md) |
 | A Potapova Vs M Stakusic | [a_potapova_vs_m_stakusic](wta-indian-wells-women/a_potapova_vs_m_stakusic.md) |
+| Z Sonmez Vs M Kessler | [z_sonmez_vs_m_kessler](wta-indian-wells-women/z_sonmez_vs_m_kessler.md) |
 
