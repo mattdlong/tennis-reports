@@ -18,3 +18,4 @@ title: "Wta Indian Wells Women - March 4, 2026"
 | E Seidel Vs A Zakharova | [e_seidel_vs_a_zakharova](e_seidel_vs_a_zakharova.md) |
 | J Bouzas Maneiro Vs B Haddad Maia | [j_bouzas_maneiro_vs_b_haddad_maia](j_bouzas_maneiro_vs_b_haddad_maia.md) |
 | V Jimenez Kasintseva Vs C Mcnally | [v_jimenez_kasintseva_vs_c_mcnally](v_jimenez_kasintseva_vs_c_mcnally.md) |
+| H Sakatsume Vs A Parks | [h_sakatsume_vs_a_parks](h_sakatsume_vs_a_parks.md) |
