@@ -16,4 +16,5 @@ title: "March 4, 2026 - Tennis Reports"
 | Z Sonmez Vs M Kessler | [z_sonmez_vs_m_kessler](wta-indian-wells-women/z_sonmez_vs_m_kessler.md) |
 | A Tomljanovic Vs G Ruse | [a_tomljanovic_vs_g_ruse](wta-indian-wells-women/a_tomljanovic_vs_g_ruse.md) |
 | T Gibson Vs A Li | [t_gibson_vs_a_li](wta-indian-wells-women/t_gibson_vs_a_li.md) |
+| E Seidel Vs A Zakharova | [e_seidel_vs_a_zakharova](wta-indian-wells-women/e_seidel_vs_a_zakharova.md) |
 
