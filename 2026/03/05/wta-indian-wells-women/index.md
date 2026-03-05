@@ -18,3 +18,4 @@ title: "Wta Indian Wells Women - March 5, 2026"
 | D Parry Vs V Williams | [d_parry_vs_v_williams](d_parry_vs_v_williams.md) |
 | V Gracheva Vs L Tagger | [v_gracheva_vs_l_tagger](v_gracheva_vs_l_tagger.md) |
 | C Bucsa Vs D Vidmanova | [c_bucsa_vs_d_vidmanova](c_bucsa_vs_d_vidmanova.md) |
+| S Hunter Vs M Frech | [s_hunter_vs_m_frech](s_hunter_vs_m_frech.md) |
