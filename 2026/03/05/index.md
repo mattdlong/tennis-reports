@@ -16,4 +16,5 @@ title: "March 5, 2026 - Tennis Reports"
 | E Jacquemot Vs A Bondar | [e_jacquemot_vs_a_bondar](wta-indian-wells-women/e_jacquemot_vs_a_bondar.md) |
 | D Vekic Vs T Valentova | [d_vekic_vs_t_valentova](wta-indian-wells-women/d_vekic_vs_t_valentova.md) |
 | F Jones Vs K Day | [f_jones_vs_k_day](wta-indian-wells-women/f_jones_vs_k_day.md) |
+| D Parry Vs V Williams | [d_parry_vs_v_williams](wta-indian-wells-women/d_parry_vs_v_williams.md) |
 
