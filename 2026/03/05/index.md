@@ -20,4 +20,5 @@ title: "March 5, 2026 - Tennis Reports"
 | V Gracheva Vs L Tagger | [v_gracheva_vs_l_tagger](wta-indian-wells-women/v_gracheva_vs_l_tagger.md) |
 | C Bucsa Vs D Vidmanova | [c_bucsa_vs_d_vidmanova](wta-indian-wells-women/c_bucsa_vs_d_vidmanova.md) |
 | S Hunter Vs M Frech | [s_hunter_vs_m_frech](wta-indian-wells-women/s_hunter_vs_m_frech.md) |
+| K Siniakova Vs S Kenin | [k_siniakova_vs_s_kenin](wta-indian-wells-women/k_siniakova_vs_s_kenin.md) |
 
