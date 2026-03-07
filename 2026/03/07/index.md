@@ -18,4 +18,5 @@ title: "March 7, 2026 - Tennis Reports"
 | K Volynets Vs J Ostapenko | [k_volynets_vs_j_ostapenko](wta-indian-wells-women/k_volynets_vs_j_ostapenko.md) |
 | K Day Vs I Swiatek | [k_day_vs_i_swiatek](wta-indian-wells-women/k_day_vs_i_swiatek.md) |
 | K Siniakova Vs L Fernandez | [k_siniakova_vs_l_fernandez](wta-indian-wells-women/k_siniakova_vs_l_fernandez.md) |
+| M Andreeva Vs S Sierra | [m_andreeva_vs_s_sierra](wta-indian-wells-women/m_andreeva_vs_s_sierra.md) |
 
