@@ -16,4 +16,5 @@ title: "March 7, 2026 - Tennis Reports"
 | S Kartal Vs E Navarro | [s_kartal_vs_e_navarro](wta-indian-wells-women/s_kartal_vs_e_navarro.md) |
 | L Samsonova Vs A Krueger | [l_samsonova_vs_a_krueger](wta-indian-wells-women/l_samsonova_vs_a_krueger.md) |
 | K Volynets Vs J Ostapenko | [k_volynets_vs_j_ostapenko](wta-indian-wells-women/k_volynets_vs_j_ostapenko.md) |
+| K Day Vs I Swiatek | [k_day_vs_i_swiatek](wta-indian-wells-women/k_day_vs_i_swiatek.md) |
 
