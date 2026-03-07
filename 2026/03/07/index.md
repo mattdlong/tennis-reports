@@ -10,4 +10,5 @@ title: "March 7, 2026 - Tennis Reports"
 | Match | Report |
 |-------|--------|
 | K Muchova Vs A Bondar | [k_muchova_vs_a_bondar](wta-indian-wells-women/k_muchova_vs_a_bondar.md) |
+| H Baptiste Vs E Rybakina | [h_baptiste_vs_e_rybakina](wta-indian-wells-women/h_baptiste_vs_e_rybakina.md) |
 
