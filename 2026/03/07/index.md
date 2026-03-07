@@ -15,4 +15,5 @@ title: "March 7, 2026 - Tennis Reports"
 | M Sakkari Vs L Tagger | [m_sakkari_vs_l_tagger](wta-indian-wells-women/m_sakkari_vs_l_tagger.md) |
 | S Kartal Vs E Navarro | [s_kartal_vs_e_navarro](wta-indian-wells-women/s_kartal_vs_e_navarro.md) |
 | L Samsonova Vs A Krueger | [l_samsonova_vs_a_krueger](wta-indian-wells-women/l_samsonova_vs_a_krueger.md) |
+| K Volynets Vs J Ostapenko | [k_volynets_vs_j_ostapenko](wta-indian-wells-women/k_volynets_vs_j_ostapenko.md) |
 
