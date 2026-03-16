@@ -19,3 +19,4 @@ title: "Miami Women - March 16, 2026"
 | R Zarazua Vs M Trevisan | [r_zarazua_vs_m_trevisan](r_zarazua_vs_m_trevisan.md) |
 | E Andreeva Vs R Sramkova | [e_andreeva_vs_r_sramkova](e_andreeva_vs_r_sramkova.md) |
 | B Andreescu Vs S Lamens | [b_andreescu_vs_s_lamens](b_andreescu_vs_s_lamens.md) |
+| A Zakharova Vs L Tararudee | [a_zakharova_vs_l_tararudee](a_zakharova_vs_l_tararudee.md) |
