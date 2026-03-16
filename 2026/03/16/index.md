@@ -19,4 +19,5 @@ title: "March 16, 2026 - Tennis Reports"
 | A Aksu Vs A Sasnovich | [a_aksu_vs_a_sasnovich](miami-women/a_aksu_vs_a_sasnovich.md) |
 | R Zarazua Vs M Trevisan | [r_zarazua_vs_m_trevisan](miami-women/r_zarazua_vs_m_trevisan.md) |
 | E Andreeva Vs R Sramkova | [e_andreeva_vs_r_sramkova](miami-women/e_andreeva_vs_r_sramkova.md) |
+| B Andreescu Vs S Lamens | [b_andreescu_vs_s_lamens](miami-women/b_andreescu_vs_s_lamens.md) |
 
