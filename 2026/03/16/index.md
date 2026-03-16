@@ -25,4 +25,5 @@ title: "March 16, 2026 - Tennis Reports"
 | W Osuigwe Vs D Vekic | [w_osuigwe_vs_d_vekic](miami-women/w_osuigwe_vs_d_vekic.md) |
 | E Seidel Vs M Stakusic | [e_seidel_vs_m_stakusic](miami-women/e_seidel_vs_m_stakusic.md) |
 | L Sun Vs M Timofeeva | [l_sun_vs_m_timofeeva](miami-women/l_sun_vs_m_timofeeva.md) |
+| C Dolehide Vs N Bartunkova | [c_dolehide_vs_n_bartunkova](miami-women/c_dolehide_vs_n_bartunkova.md) |
 
