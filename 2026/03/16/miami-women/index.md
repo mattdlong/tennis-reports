@@ -29,3 +29,4 @@ title: "Miami Women - March 16, 2026"
 | V Golubic Vs T Frodin | [v_golubic_vs_t_frodin](v_golubic_vs_t_frodin.md) |
 | M Inglis Vs Y Starodubtseva | [m_inglis_vs_y_starodubtseva](m_inglis_vs_y_starodubtseva.md) |
 | L Radivojevic Vs S Kraus | [l_radivojevic_vs_s_kraus](l_radivojevic_vs_s_kraus.md) |
+| D Semenistaja Vs M Ekstrand | [d_semenistaja_vs_m_ekstrand](d_semenistaja_vs_m_ekstrand.md) |
