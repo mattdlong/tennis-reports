@@ -30,3 +30,4 @@ title: "Miami Women - March 16, 2026"
 | M Inglis Vs Y Starodubtseva | [m_inglis_vs_y_starodubtseva](m_inglis_vs_y_starodubtseva.md) |
 | L Radivojevic Vs S Kraus | [l_radivojevic_vs_s_kraus](l_radivojevic_vs_s_kraus.md) |
 | D Semenistaja Vs M Ekstrand | [d_semenistaja_vs_m_ekstrand](d_semenistaja_vs_m_ekstrand.md) |
+| L Stefanini Vs D Parry | [l_stefanini_vs_d_parry](l_stefanini_vs_d_parry.md) |
