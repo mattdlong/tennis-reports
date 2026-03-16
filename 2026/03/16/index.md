@@ -21,4 +21,5 @@ title: "March 16, 2026 - Tennis Reports"
 | E Andreeva Vs R Sramkova | [e_andreeva_vs_r_sramkova](miami-women/e_andreeva_vs_r_sramkova.md) |
 | B Andreescu Vs S Lamens | [b_andreescu_vs_s_lamens](miami-women/b_andreescu_vs_s_lamens.md) |
 | A Zakharova Vs L Tararudee | [a_zakharova_vs_l_tararudee](miami-women/a_zakharova_vs_l_tararudee.md) |
+| S Hunter Vs R Masarova | [s_hunter_vs_r_masarova](miami-women/s_hunter_vs_r_masarova.md) |
 
