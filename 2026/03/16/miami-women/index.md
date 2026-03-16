@@ -22,3 +22,4 @@ title: "Miami Women - March 16, 2026"
 | A Zakharova Vs L Tararudee | [a_zakharova_vs_l_tararudee](a_zakharova_vs_l_tararudee.md) |
 | S Hunter Vs R Masarova | [s_hunter_vs_r_masarova](s_hunter_vs_r_masarova.md) |
 | W Osuigwe Vs D Vekic | [w_osuigwe_vs_d_vekic](w_osuigwe_vs_d_vekic.md) |
+| E Seidel Vs M Stakusic | [e_seidel_vs_m_stakusic](e_seidel_vs_m_stakusic.md) |

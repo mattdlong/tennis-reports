@@ -23,4 +23,5 @@ title: "March 16, 2026 - Tennis Reports"
 | A Zakharova Vs L Tararudee | [a_zakharova_vs_l_tararudee](miami-women/a_zakharova_vs_l_tararudee.md) |
 | S Hunter Vs R Masarova | [s_hunter_vs_r_masarova](miami-women/s_hunter_vs_r_masarova.md) |
 | W Osuigwe Vs D Vekic | [w_osuigwe_vs_d_vekic](miami-women/w_osuigwe_vs_d_vekic.md) |
+| E Seidel Vs M Stakusic | [e_seidel_vs_m_stakusic](miami-women/e_seidel_vs_m_stakusic.md) |
 
