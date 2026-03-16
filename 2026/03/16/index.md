@@ -32,4 +32,5 @@ title: "March 16, 2026 - Tennis Reports"
 | L Radivojevic Vs S Kraus | [l_radivojevic_vs_s_kraus](miami-women/l_radivojevic_vs_s_kraus.md) |
 | D Semenistaja Vs M Ekstrand | [d_semenistaja_vs_m_ekstrand](miami-women/d_semenistaja_vs_m_ekstrand.md) |
 | L Stefanini Vs D Parry | [l_stefanini_vs_d_parry](miami-women/l_stefanini_vs_d_parry.md) |
+| K Juvan Vs M Stoiana | [k_juvan_vs_m_stoiana](miami-women/k_juvan_vs_m_stoiana.md) |
 
